@@ -1,0 +1,2109 @@
+Issue key,Issue id,Summary,Sprint,Sprint,Sprint,Sprint,Sprint,Custom field (Story Points),Status
+PP-10306,1050541,"Condition of Interest ""Key"" as a Shared field.",DAP - DTP Platform - Sprint 4,,,,,3,Closed
+PP-10272,1048558,Mandatory 'contact medium' check on DTP Contact form,DAP- DTP Platform-Sprint 2,,,,,5,Closed
+PP-10294,1049638,DTP - Human API- UI Flow,DAP - DTP Platform - Sprint 4,,,,,8,Closed
+PP-10000,1033645,Create and manage URL query parameters,DAP - DTP Platform - Sprint 4,,,,,5,Closed
+PP-10499,1056526,“Progress bar” should be updated for DNQ flow,DAP - DTP Platform - Sprint 4,,,,,2,Closed
+PP-10457,1055456,Human API-Retry mechanism,DAP - DTP Platform- Sprint 3,,,,,5,Closed
+PP-9718,1016927,"""Revert records"" when exclusion criteria modified for Siteupdate job",GPSS Sprint 30 - Rel 2021.6,GPSS Sprint 33 Release 2021.7,DAP- DTP Platform - Sprint 1,,,2,Development Complete
+PP-10269,1048130,DTP-  Human API integration,DAP - DTP Platform- Sprint 3,,,,,8,Closed
+PP-10001,1033649,"Day, Month and Year of birth configurable fields from SiteCore",DAP - DTP Platform - Sprint 6,,,,,3,Development In Progress
+PP-11030,1078664,Validate user entered Zipcode and Prepend the text from SiteCore CMS,,,,,,,Open
+PP-10677,1065437,[EPIC 10648] Opthea HCP- Landing page,DAP - REGISTRY/CR.COM Sprint 6,,,,,5,Testing In Progress
+PP-11035,1079321,"Cr.com Production: Updating duplicate ""Therapeutic Area"" value/id for existing users",,,,,,,Open
+PP-10638,1065079,Display “Contact mediums” on checking Privacy policy consent checkbox on contact form,DAP - DTP Platform - Sprint 5,,,,,5,Testing In Progress
+PP-6691,893613,CR.COM TMDH directory export from Sitecore (RITM sprint item),Backlog cr.com,,,,,,Open
+PP-5107,844459,Search input field amend,Backlog cr.com,,,,,,Open
+PP-5915,866001,unsubscribe scenarios across platform,Backlog cr.com,,,,,,Open
+PP-6590,890079,CR.com - Location input should be consistently and meaningfully labelled across the site,Backlog cr.com,,,,,,Open
+PP-6588,890076,CR.com - workflow for publishing of Healthday articles,Backlog cr.com,,,,,,Open
+PP-6593,890092,CR.com - redesign of search results page,Backlog cr.com,,,,,,Open
+PP-5100,844410,User profile form functionality,Backlog cr.com,,,,,,Development In Progress
+PP-6595,890097,CR.com unsubscribe mechanism review ,Backlog cr.com,,,,,,Open
+PP-5109,844465,Incorporate changes made to Sitecore for survey management support,Backlog cr.com,,,,,,Open
+PP-6597,890099,CR.com - Healthday article management in CMS,Backlog cr.com,,,,,,Open
+PP-3193,687990,Cr.Com - Global Compliancy,Backlog cr.com,,,,,,Open
+PP-5110,844467,Search results enchancements,Backlog cr.com,,,,,,Open
+PP-5111,844469,Email templates - branding,Backlog cr.com,,,,,,Open
+PP-3058,678859,"Project ID field needed in SiteCore Segment to exclude Trial Intent, AZMCL and EPR users from CR.com communications",Backlog cr.com,,,,,,Open
+PP-5112,844470,Forgot password - user not recognized email,Backlog cr.com,,,,,,Open
+PP-6591,890085,CR.com: Trial finder search page redesign,Backlog cr.com,,,,,,Open
+PP-5105,844457,Survey launch and finish page functionality,Backlog cr.com,,,,,,Open
+PP-4512,771282,CR.com revised home page,Backlog cr.com,,,,,,Development Complete
+PP-5104,844447,Add health condition button from health condition page,Backlog cr.com,,,,,,Open
+PP-3079,679715,Study Detail Page: Dates Posted and Dates Updated Missing,Backlog cr.com,,,,,,Open
+PP-6592,890086,CR.com - Condition of interest in trial matcher search ,Backlog cr.com,,,,,,Open
+PP-6954,910542,Sitecore - Email campaign reminders where recipient has not responded ,Backlog cr.com,,,,,,Open
+PP-5108,844462,Existing sign up page removal,Backlog cr.com,,,,,,Open
+PP-6598,890100,CR.com - review of Sitecore implementation and identified actions,Backlog cr.com,,,,,,Open
+PP-3059,678871,Find Trials - Search Algorithm,Backlog cr.com,,,,,,Open
+PP-6594,890096,CR.com - redesign of trial details page,Backlog cr.com,,,,,,Open
+PP-6587,890075,CR.com - Healthday article tiles on homepage,Backlog cr.com,,,,,,Open
+PP-6589,890077,CR.com homepage amends (still required?),Backlog cr.com,,,,,,Open
+PP-5595,859074,Forgot Password - user recognized email,Backlog cr.com,,,,,,Open
+PP-3192,687978,Cr.Com - GDPR Compliancy,Backlog cr.com,,,,,,Open
+PP-8186,951870,cr.com - Healthday image size,Backlog cr.com,,,,,,Open
+PP-6586,890074,CR.com - Healthday Article filters,Backlog cr.com,,,,,,Open
+PP-4740,797037,On entering year of birth outside permitted range I see an uninformative error message,Backlog cr.com,,,,,,Open
+PP-4695,792065,CR.com Mediguard Integration - UAT items,Backlog cr.com,,,,,,Development In Progress
+PP-5905,865823,Performance Issue - CR.Com - Time spent for / URL is more from sitecore side.,,,,,,,Rejected
+PP-5904,865822,Performance Issue -  CR.Com - Select and declare sql called multiple times for the URL /en/find-trials/search-result,,,,,,,Rejected
+PP-5907,865829,Performance Issue - CR.Com - Restarted the app pool in one server usadc-vsscdsu02 during testing. ,,,,,,,Rejected
+PP-5908,865831,Performance Issue - CR.Com 500 HTTP error for the highlighted URL in server usadc-vsscdsu02,,,,,,,Rejected
+PP-5033,839749,CR.com outage due to tracker.current exception,,,,,,,Rejected
+PP-6446,883062,"Use 'display title' metadata value on search results, featured trials and trial details",Backlog cr.com,,,,,,Open
+PP-6445,883061,Trial meta data - display title field,Backlog cr.com,,,,,,Open
+PP-4975,835951,Multiple exception and Memory utilization of Clinical Research Application,Backlog cr.com,,,,,,Open
+PP-6447,883063,Trial title cut off and styling,Backlog cr.com,,,,,,Open
+PP-7391,928006,CR.com resubscribe page change required,Backlog cr.com,,,,,,Open
+PP-7202,919368,CR.com UI change to move or duplicate 'apply' and 'clear' buttons on conditions filter,Backlog cr.com,,,,,,Open
+PP-5093,844213,Set password page ,Backlog cr.com,,,,,,Open
+PP-5094,844216,forgot password functionality,Backlog cr.com,,,,,,Open
+PP-5098,844390,Reset password functionality,Backlog cr.com,,,,,,Open
+PP-5088,844202,Add my account/profile dropdown in header,Backlog cr.com,,,,,,Open
+PP-5099,844392,Change password functionality,Backlog cr.com,,,,,,Open
+PP-5090,844204,Sign up page functionality,Backlog cr.com,,,,,,Open
+PP-5089,844203,CR.com footer amends,Backlog cr.com,,,,,,Open
+PP-5594,859000,Log in page functionality,Backlog cr.com,,,,,,Open
+PP-8379,957955,CR.com UI change to move or duplicate 'apply' and 'clear' buttons on TOPICS filter,Backlog cr.com,,,,,,Open
+PP-9526,1003524,"cr.com - Featured Trials CTA, whole area to be clickable",Backlog cr.com,,,,,,Open
+PP-8630,963787,Inhouse Mongo DB changes,GPSS Sprint 22,,,,,5,Rejected
+PP-9809,1022579,"DTP Platform: ""Secondary Consent"" checkbox implementation",DAP - DTP Platform - Sprint 6,,,,,5,Development Complete
+PP-10485,1055633,[EPIC 10489] DTP-KI-ELEMENTS Configurations,DAP - DTP Platform - Sprint 6,,,,,3,Development In Progress
+PP-10486,1055638,[EPIC 10489] Ki-ELEMENTS – Welcome emails based on “patientType”,Place for priority stories,,,,,8,Development In Progress
+PP-10869,1073074,[EPIC 10489] Collecting “referral years of education” and passing to ki-elements (Part 3 of PP-10270),DAP - DTP Platform - Sprint 6,,,,,3,Development In Progress
+PP-10812,1070912,Sprint 4 Testing and Defect Fixes,DAP - DTP Platform - Sprint 5,,,,,5,Closed
+PP-10290,1049616,GTM new approach for Cookie Management,DAP - DTP Platform - Sprint 5,,,,,5,Closed
+PP-10731,1068811,[EPIC 10780] Cr.com: Map/assign to communities based on condition of interest value,DAP - DTP Platform - Sprint 5,,,,,8,Closed
+PP-10487,1055639,"[EPIC 10489] Ki-ELEMENTS- Site selection success pages based on ""PatientType""",DAP - DTP Platform - Sprint 6,,,,,5,Open
+PP-10650,1065238,[EPIC 10648] Opthea HCP- Welcome email,DAP - REGISTRY/CR.COM Sprint 6,,,,,5,Development In Progress
+PP-8746,970014,"Preference Center, Analysis",,,,,,,Development In Progress
+PP-10868,1073073,[EPIC 10489] Referral data passed to Ki-elements from DTP (Part 2 of PP-10270),Place for priority stories,,,,,3,Open
+PP-10724,1068043,[EPIC 10648] Opthea HCP- Thank you page,DAP - REGISTRY/CR.COM Sprint 6,,,,,3,Open
+PP-10396,1053706,[EPIC 10648] Opthea Physician (HCP) -- Registration,DAP - REGISTRY/CR.COM Sprint 6,,,,,5,Reopened
+PP-10649,1065233,[EPIC 10648] Opthea HCP- Contact form implementation,DAP - REGISTRY/CR.COM Sprint 6,,,,,8,Development In Progress
+PP-10291,1049617,SVT-Validation for existing cookie modules,DAP- DTP Platform-Sprint 2,DAP - DTP Platform - Sprint 6,,,,3,Reopened
+PP-10270,1048198,[EPIC 10489] DTP- KI-Elements integration -Part 1,Place for priority stories,,,,,8,Open
+PP-10831,1071621,"DTP : Pre-populate ""Contact Preference(s)"" for returning user",Place for priority stories,,,,,,Open
+PP-10793,1070692,Marketing DB/Mongo Db - audit trail,Place for priority stories,,,,,,Open
+PP-10996,1077511,Overriding Human API CTA button color on success page,,,,,,,Open
+PP-10646,1065166,Sprint 3 Testing and Defect fixes,DAP - DTP Platform - Sprint 5,,,,,3,Closed
+PP-10307,1050542,"Investigator site fields to be as ""shared"" at template level In SiteCore",Place for priority stories,,,,,3,Development In Progress
+PP-10811,1070898,Sprint 4 Testing and Defect Fixes,DAP- REGISTRY/CR.COM Sprint 5,,,,,5,Closed
+PP-10915,1075130,Roche registry- PDF/ZIP icon update,DAP- REGISTRY/CR.COM Sprint 5,,,,,3,Closed
+PP-10916,1075140,RocheRegistry - H1 style Italic and rest should be non italic,DAP- REGISTRY/CR.COM Sprint 5,,,,,2,Closed
+PP-10678,1065439, [EPIC 10648] Opthea HCP- Generating Spotfire Report (Analytics Team) ,Place for priority stories,,,,,,Open
+PP-10872,1073080,[EPIC 10489] SPLUNK log management - DTP-Ki-elements integration ,Place for priority stories,,,,,,Open
+PP-10871,1073079,[EPIC 10489] Registering referrals to ki-elements when Siteupdate job assign site to abandoned/no-site convenient/site-not found records (Part 5 of PP-10270),Place for priority stories,,,,,,Open
+PP-10870,1073078,[EPIC 10489] Data passed back to DTP from Ki-elements (Part 4 of PP-10270),Place for priority stories,,,,,,Open
+PP-10781,1070250,[EPIC 10780] DTP : Map/assign to communities based on condition of interest value,Place for priority stories,,,,,5,Open
+PP-4534,775236,"Incorporate default regex validation rules for phone number, per country",,,,,,,Development In Progress
+PP-5261,851377,"[EPIC 5260] Finalize approach, Timelines and plan for CICD improvements",,,,,,,Open
+PP-10520,1058807,[EPIC 10491] Human API with Vendor redirection enabled,Place for priority stories,,,,,,Open
+PP-10924,1075561,[EPIC 10920] Adding missed sources to cr.com to build the project successfully in CI-CD pipeline,,,,,,,Open
+PP-10923,1075559,[EPIC 10920] CI/CD- Send a mail for quality gate pass or fail,,,,,,,Open
+PP-10922,1075558,[EPIC 10920] CI/CD- Clean up activity for the unused branches for all projects. ,,,,,,,Open
+PP-10921,1075557,[EPIC 10920] Integrate RITM with CI-CD,,,,,,,Open
+PP-9478,997011,Abbvie ORIAHNN specific mailboxes,DAP-Registry Platform-Sprint 1,,,,,,Testing In Progress
+PP-9479,997028,"""About ORIAHNN"" page and ""Important safety Information"" page",,,,,,2,Open
+PP-9496,999994,DTP 1.1 Platform - Banner update,Place for priority stories,,,,,3,Deferred
+PP-3498,709750,Toggle alternate functionality described on or off within the base epr implementation,,,,,,,Rejected
+PP-10521,1058847,PROD ISSUE - URGENT - GSK BOOST/MENINGITIS Issue with Referral ID,,,,,,,Closed
+PP-10339,1051475,ePR referral transfer via sFTP request,,,,,,,Closed
+PP-9800,1021746,CR.com: Custom filter on Unsubscribe token for all existing and future records.,,,,,,,Closed
+PP-9409,992006,"Re-visiting user, same protocol scenario needs amendment",DAP- DTP Platform - Sprint 1,DAP - DTP Platform- Sprint 3,,,,5,Closed
+PP-9447,995169,Performance Testing Issues,GPSS Sprint 26,Place for priority stories,,,,,Development In Progress
+PP-7705,938487,GSK Lithe SVT Issues,,,,,,,Development In Progress
+PP-7671,937178,Background job anomalies,,,,,,,Open
+PP-6273,877630,Dynamic Workflow - DTP 1.6 - Multiple Template Options,For Sitecore10,,,,,5,Development In Progress
+PP-6274,877631,Dynamic Workflow - DTP 1.6 - Multiple Template Options - Analysis part II,For Sitecore10,,,,,3,Open
+PP-6432,883003,Dynamic Workflow - Configure distinct workflows for an instance via the CMS,For Sitecore10,,,,,,Open
+PP-6434,883006,Dynamic Workflow - Workflow sequence for screener can be set by an encrypted value in the URL,For Sitecore10,,,,,,Open
+PP-6435,883007,Dynamic Workflow - User can start from where they left their preceding session on the DtP instance,For Sitecore10,,,,,,Open
+PP-6436,883008,Dynamic Workflow - Integration with third party services occurs at consistent stage regardless of screener sequence,For Sitecore10,,,,,,Open
+PP-6437,883011,Dynamic Workflow - There is a default workflow for the screener per instance,For Sitecore10,,,,,,Open
+PP-6438,883012,"Dynamic Workflow - there is an encrypted, unique ID for each user visit",For Sitecore10,,,,,,Open
+PP-6439,883013,Dynamic Workflow - Managing flow of information between stages of dynamic workflow,For Sitecore10,,,,,,Open
+PP-6440,883015,Dynamic Workflow - Save all the data collected from each page / step in an Intermediate Tables / Repository against the unique id created,For Sitecore10,,,,,,Open
+PP-6441,883016,Dynamic Workflow - Modify the Pages to read and / save to the Intermediate Tables by passing the Unique ID.,For Sitecore10,,,,,,Open
+PP-6603,890234,Dynamic Workflow - Workflow 2: Pre-screener > contact form > site selection,For Sitecore10,,,,,,Open
+PP-6433,883004,Dynamic Workflow - Sequence of steps for DtP instance are decoupled and can be re-sequenced,For Sitecore10,,,,,,Open
+PP-6442,883017,Dynamic Workflow - Identify End Of User Journey and move the data to PII Tables.,For Sitecore10,,,,,,Open
+PP-6444,883030,Dynamic Workflow - Identify the SQL Job to Persist data into PII tables for any incomplete User flow.,For Sitecore10,,,,,,Open
+PP-6561,887740,dynamic workflow - handling of zip code ,For Sitecore10,,,,,,Open
+PP-6600,890219,Dynamic Workflow - Workflow 1: screener > site selection > data capture,For Sitecore10,,,,,,Open
+PP-6604,890235,Dynamic Workflow - Workflow 3: Contact form > pre-screener > Site selection,For Sitecore10,,,,,,Open
+PP-10619,1061834,Sprint 3 Testing and Defect Fixes,DAP- REGISTRY/CR.COM Sprint 5,,,,,8,Closed
+PP-10406,1054438,DTP:  “None of the site convenient to you?” link on Site selection page,Place for priority stories,,,,,,Open
+PP-10876,1073557,DTP platform- Set patient referral status as “No-site-availability-max-Capacity” and threshold capacity tracking,Place for priority stories,,,,,,Open
+PP-10875,1073556,"DTP platform- Set patient referral status as ""No-site-available""",Place for priority stories,,,,,,Open
+PP-9680,1014934,Mongo DB - Update DTP to save SOURCE information,Place for priority stories,,,,,5,Open
+PP-9508,1002386,Development Jira - Code changes,GPSS Sprint 27 - Rel - 2021.5,Place for priority stories,,,,,Development Complete
+PP-9681,1014935,Mongo DB - Update CR.Com to save SOURCE information,Place for priority stories,,,,,3,Open
+PP-10295,1049639,"DTP - Human API- Success pages based on ""PatientType""",DAP - DTP Platform - Sprint 4,,,,,8,Closed
+PP-10553,1059344,Record Id Creation : Fool Proof Solution when Survey Gizmo encounters an issue,Place for priority stories,,,,,,Open
+PP-10159,1040108,DTP Platform: Change to Caregiver flow  ,Place for priority stories,,,,,,Open
+PP-10332,1051418,"""eConsent url"" and ""warm transfer number"" should be available on Site Management app",Place for priority stories,,,,,,Open
+PP-10438,1055038,"ROCHE - ""Register a Patient"" - Healthcare provider form non-logged in page",DAP-Registry Platform Sprint 4,,,,,8,Closed
+PP-10437,1055037,"ROCHE - ""Contact me"" - Patient registration form",DAP-Registry Platform Sprint 4,,,,,5,Closed
+PP-10434,1055034,ROCHE - Show/Hide sections on patient facing web pages,DAP-Registry Platform Sprint 4,,,,,5,Closed
+PP-10481,1055527,ROCHE - HCP – “Registry details” page,DAP-Registry Platform Sprint 4,,,,,5,Closed
+PP-10480,1055525,ROCHE - HCP “My details” page,DAP-Registry Platform Sprint 4,,,,,3,Closed
+PP-10479,1055524,ROCHE - HCP logged in – Registration form,DAP-Registry Platform Sprint 4,,,,,8,Closed
+PP-10478,1055523,ROCHE - HCP Logged in -  Navigation menu,DAP-Registry Platform Sprint 4,,,,,3,Closed
+PP-10473,1055518,ROCHE - Configuring CTA and Links on HCP login page,DAP-Registry Platform Sprint 4,,,,,3,Closed
+PP-10468,1055513,ROCHE - Anchor links on HCP login page,DAP-Registry Platform Sprint 4,,,,,5,Closed
+PP-10462,1055507,ROCHE - HCP  Login page content,DAP-Registry Platform Sprint 4,,,,,7,Closed
+PP-10433,1055033,"ROCHE - ""I am interested......"" as per PP-9433",DAP-Registry Platform Sprint 4,,,,,2,Closed
+PP-10460,1055505,ROCHE - GUI + Contact Form changes,DAP-Registry Platform Sprint 4,,,,,3,Closed
+PP-10426,1055026,ROCHE - Top Navigation menu enhancements,DAP-Registry Platform Sprint 4,,,,,3,Closed
+PP-10419,1055019,ROCHE - Main Menu navigation enhancements,DAP-Registry Platform Sprint 4,,,,,3,Closed
+PP-9977,1031037,Roche OCREVUS - Patient Consent needs to be captured and saved correctly,DAP-Registry Platform Sprint 4,,,,,,Closed
+PP-10459,1055504,ROCHE - View/Edit Patient + new fields,DAP-Registry Platform Sprint 4,,,,,3,Closed
+PP-10789,1070367,Setting Up default Value 30 on ProtocolRestrictionInDays & WebsiteLevelRestrictionInDays,,,,,,,Development Complete
+PP-3412,707589,Esperion/Kowa ePR - UAT feedback,,,,,,,Rejected
+PP-4151,738658,Esperion Kowa 1.2 release UAT feedback - please add as sub-tasks of this jira,,,,,,,Closed
+PP-3051,678781,Retrophin DUPLEX - Nephcure Referrals,,,,,,,Rejected
+PP-9503,1001362,DTP - Anomaly Squared API integration,GPSS Sprint 30 - Rel 2021.6,Place for priority stories,,,,3,Development In Progress
+PP-6424,882550,Retrospective update to activation/deactivation dates in master subject report,,,,,,,Development Complete
+PP-6496,884684,Deployment Tools,GPSS Sprint 9,,,,,5,Development Complete
+PP-6287,877956,Technical story - CI/CD - Build Tools,GPSS Sprint 9,,,,,3,Rejected
+PP-4785,802398,Seres Ecoreset - iFrame implementation,,,,,,,Rejected
+PP-4783,802396,Retrophin Duplex - iFrame implementation,,,,,,,Rejected
+PP-4780,802333,Novartis Exchange - iFrame implementation,,,,,,,Rejected
+PP-4848,810874,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Rejected
+PP-4964,833563,For issue 1 reported in GSK Contrast ,,,,,,,Development Complete
+PP-4965,833565,For issue 2 reported in Milestone Node ,,,,,,,Rejected
+PP-9832,1024444,Display landing page with CTA button instead of Footer content on loading the application.,Place for priority stories,,,,,,Deferred
+PP-10684,1066120,CLONE - Display landing page with CTA button instead of Footer content on loading the application.,,,,,,,Open
+PP-9831,1024413,Sticky footer CTA button on mobile devices,,,,,,,Closed
+PP-10271,1048215,DTP- KI-Elements Integration- Phase 2,,,,,,,Open
+PP-9470,996251,Pregnancy Registries on the internal network do not load first time,,,,,,,Rejected
+PP-6734,895526,"DtP platform - Threshold capacity, no-site-available tracking ",Place for priority stories,,,,,,Open
+PP-6733,895511,DtP platform: Capability for distinct H1 and H2 content on contact form where outcome is DNQ,Place for priority stories,,,,,,Rejected
+PP-6689,893603,Description of indexing process for patient DB (RITM sprint item?),Place for priority stories,,,,,,Rejected
+PP-5363,853613,Vanity/Roche unavailibilty and multiple alerts (should be in RITM sprint?),,,,,,,Closed
+PP-9424,992721,DevOps - CI/CD changes,GPSS Sprint 26,,,,,7,Closed
+PP-10014,1034760,Emails to be configurable by Type Of Patient,Place for priority stories,,,,,,Rejected
+PP-6634,891917,Multiple Study with mixture of LL enabled & disabled protocols,Place for priority stories,,,,,,Rejected
+PP-5494,856430,"In read only questionnaire, when navigating between pages the page should focus to the top",GPSS Sprint 5,,,,,1,Closed
+PP-9830,1024398,CTA button on Hero image area on Mobile devices.,,,,,,,Closed
+PP-9829,1024395,"Remove ""HERO"" image from mobile devices ",,,,,,,Closed
+PP-9411,992135,Use LUA script to add Timestamp in record ID,,,,,,,Closed
+PP-8357,957709,StormChaser Test Site - Pixel Issue,Place for priority stories,,,,,,Rejected
+PP-7244,921931,DevOps - Automated deployment into formal Environment. ,,,,,,,Closed
+PP-7222,921152,"IFRAME - need to test with real survey - New jira to test on Prod - Evolution, Exchange",,,,,,,Closed
+PP-7243,921930,"DevOps - Integration with SonarQube, Automated Unit Test and Quality gate analysis, Integration of PAF for Functional and Smoke testing ",,,,,,,Closed
+PP-7242,921929,DevOps - Automated Build using MSBuild on GIT,,,,,,,Closed
+PP-7241,921928,DevOps - Migration of TFS to GIT,,,,,,,Closed
+PP-6972,911243,GPSS IP and PP Portal - Outage - Resolved - Monitoring update - For DTP 1.6,RITM / INC Release Sprint 19,,,,,,Closed
+PP-6971,911242,GPSS IP and PP Portal - Outage - Resolved - Monitoring update - For COVID - AUS,RITM / INC Release Sprint 19,,,,,,Closed
+PP-6970,911241,GPSS IP and PP Portal - Outage - Resolved - Monitoring update - For COVID -US,RITM / INC Release Sprint 19,,,,,,Closed
+PP-6969,911240,GPSS IP and PP Portal - Outage - Resolved - Monitoring update - For DTP 1.1,RITM / INC Release Sprint 19,,,,,,Closed
+PP-7497,932965,Mongo DB unavailability Issue,GPSS Sprint 16,,,,,,Development In Progress
+PP-9480,997507,Registries Production Issue – Handling while GeoIP is down,GPSS Sprint 26,Place for priority stories,,,,,Testing In Progress
+PP-4781,802334,Eiger D-LIVR - iFrame implementation,,,,,,,Closed
+PP-9845,1025557,ORIAHNN- Patient and HCP facing UI changes,,,,,,,Open
+PP-10331,1051416,Registry Session Code Fix Failing in Git,,,,,,,Development In Progress
+PP-9312,986343,Additional Minor-DNQ pages required on DTP platform,GPSS Sprint 25,GPSS Sprint 27 - Rel - 2021.5,,,,3,Closed
+PP-10507,1056554,DTP Platform - Sprint 2 Testing and defect fixes,DAP - DTP Platform- Sprint 3,,,,,5,Closed
+PP-10496,1056011,Automatic website scan for cookies and updating the modal pop-up dynamically ,Place for priority stories,,,,,,Open
+PP-10293,1049634,DTP - Human API- RH Integration,DAP - DTP Platform- Sprint 3,,,,,8,Closed
+PP-10292,1049632,DTP - Human API- SiteCore Configurations,DAP - DTP Platform- Sprint 3,,,,,8,Closed
+PP-10494,1055977,Registry Platform Sprint 2 - Testing and Defect Fixes,DAP-Registry Platform-Sprint 3,,,,,5,Closed
+PP-10495,1055984,Sprint 2 Defect Fixes,DAP-Registry Platform-Sprint 3,,,,,5,Closed
+PP-10305,1050537,Abbvie ORIAHNN 3rd Aug Demo Feedback,DAP-Registry Platform-Sprint 2,DAP-Registry Platform-Sprint 3,,,,3,Closed
+PP-9794,1020600,Abbvie ORILISSA GUI + Contact Form changes,,,,,,,Open
+PP-10456,1055410,ORIAHNN Demo Feedback 17th Aug,DAP-Registry Platform-Sprint 3,,,,,3,Closed
+PP-10235,1043851,"""Referral ID"" to be included in registration welcome emails",DAP- DTP Platform-Sprint 2,,,,,5,Closed
+PP-10418,1054947,[Clinical Research] Duplicate healthday article in call to action widget,,,,,,,Testing In Progress
+PP-9875,1025756,DTP Page Load enhancement - Reduce Unused Resources,GPSS Sprint 33 Release 2021.7,DAP- DTP Platform - Sprint 1,,,,2,Closed
+PP-9276,985147,Siteupdate Job Customization  (Background job),GPSS Sprint 26,GPSS Sprint 30 - Rel 2021.6,GPSS Sprint 33 Release 2021.7,DAP- DTP Platform - Sprint 1,,8,Closed
+PP-9067,978361,Capturing GENDER and DOB from pre-screener and pre-populating it on the Contact Form,GPSS Sprint 33 Release 2021.7,DAP- DTP Platform - Sprint 1,,,,3,Closed
+PP-10364,1052326,Site Update Job - Demo feedback ,,,,,,,Closed
+PP-9584,1007815,Warm Transfer Number and eConsent url to be merge tags for Emails and on Success Pages,GPSS Sprint 30 - Rel 2021.6,GPSS Sprint 33 Release 2021.7,DAP- DTP Platform - Sprint 1,,,7,Closed
+PP-10367,1052349,DAP Platform - Sprint 1 - Testing and Defect Fixes,DAP- DTP Platform-Sprint 2,,,,,8,Closed
+PP-9848,1025671,Top Navigation menu enhancements,Registry Platform - Sprint 0,DAP-Registry Platform-Sprint 1,,,,3,Testing In Progress
+PP-9974,1030974,Abbvie ORIAHNN - Patient Consent needs to be captured and saved correctly,,,,,,,Development In Progress
+PP-9975,1031035,Abbvie ORILISSA - Patient Consent needs to be captured and saved correctly,,,,,,,Development In Progress
+PP-10298,1050034,Dev and Local  sites are down,DAP-Registry Platform-Sprint 1,,,,,,Development Complete
+PP-9249,983314,Pregnancy Registery Browser Back Button behaviour,GPSS Sprint 25,,,,,2,Development In Progress
+PP-9857,1025695,HCP – “Registry details” page,DAP-Registry Platform-Sprint 2,,,,,5,Closed
+PP-10115,1039008,"ORIAHNN - QCC  View/Edit Patient, new fields",DAP-Registry Platform-Sprint 2,,,,,5,Closed
+PP-9694,1016355,Abbvie ORIAHNN GUI + Contact Form changes,DAP-Registry Platform-Sprint 2,,,,,3,Closed
+PP-9852,1025688,"""Contact me"" - Patient registration form",DAP-Registry Platform-Sprint 2,,,,,5,Closed
+PP-9860,1025699,HCP logged in – Registration form,DAP-Registry Platform-Sprint 2,,,,,8,Closed
+PP-9859,1025697,HCP Logged in -  Navigation menu,DAP-Registry Platform-Sprint 2,,,,,3,Closed
+PP-9858,1025696,HCP “My details” page,DAP-Registry Platform-Sprint 2,,,,,3,Closed
+PP-9850,1025673,"""Register a Patient"" - Healthcare provider form non-logged in page",DAP-Registry Platform-Sprint 2,,,,,8,Closed
+PP-10368,1052370,DAP - Registry Platform - Sprint 1 Testing and Defect fixes,DAP-Registry Platform-Sprint 2,,,,,8,Closed
+PP-9957,1030256,Cookie related - SC_ANALYTICS_SESSION_COOKIE is created when going from Contact Info to Site Selection,GPSS Sprint 32 Release 2021.6,,,,,,Closed
+PP-9891,1026003,fr cookie gtm implementation ,GPSS Sprint 32 Release 2021.6,,,,,3,Closed
+PP-9687,1015718,"DTP - Contact Form,  Preferred Contact Time & Users Timezone",GPSS Sprint 30 - Rel 2021.6,GPSS Sprint 32 Release 2021.6,,,,7,Closed
+PP-9611,1009127,ROCHE OCREVUS Changes (GUI + Contact Form)  ESTIMATION ONLY,,,,,,,Closed
+PP-9400,990918,Roche - Request from ROCHE Sponsor for pregnancy registry,GPSS Sprint 25,,,,,3,Closed
+PP-9855,1025692,Configuring CTA and Links on HCP login page,DAP-Registry Platform-Sprint 1,,,,,3,Closed
+PP-9856,1025694,Anchor links on HCP login page,DAP-Registry Platform-Sprint 1,,,,,5,Closed
+PP-9883,1025967,HCP - Login page content,DAP-Registry Platform-Sprint 1,,,,,7,Closed
+PP-9853,1025689,Show/Hide sections on patient facing web pages,DAP-Registry Platform-Sprint 1,,,,,5,Closed
+PP-9233,982411,"Registry - Contact Form to be shown always or only when 'I Am Interested..."" checkbox",GPSS Sprint 25,,,,,3,Rejected
+PP-9849,1025672,Main Menu navigation enhancements,Registry Platform - Sprint 0,DAP-Registry Platform-Sprint 1,,,,3,Closed
+PP-10404,1054285,[Clinical Research] Find trial api call not working,,,,,,,Testing In Progress
+PP-9696,1016414,Registry Refactoring,GPSS Sprint 30 - Rel 2021.6,GPSS Sprint 31 - Rel 2021.6,Registry Platform - Sprint 0,DAP-Registry Platform-Sprint 1,,5,Closed
+PP-9842,1025401,ABBVIE ORIAHNN and ORILISSA - Landing page UI changes ,Registry Platform - Sprint 0,DAP-Registry Platform-Sprint 1,,,,3,Closed
+PP-10003,1034507,Migration of existing Abbvie and Abbvie Oriahnn in new platform,Registry Platform - Sprint 0,DAP-Registry Platform-Sprint 1,,,,5,Closed
+PP-9931,1029402,Registry Technical Tasks,Registry Platform - Sprint 0,DAP-Registry Platform-Sprint 1,,,,5,Closed
+PP-9877,1025759,DTP page load enhancement- Minify Static Resources,GPSS Sprint 33 Release 2021.7,DAP- DTP Platform - Sprint 1,,,,3,Closed
+PP-9876,1025758,DTP Page load enhancement- Eliminate Render-Blocking Resources,GPSS Sprint 33 Release 2021.7,DAP- DTP Platform - Sprint 1,,,,2,Closed
+PP-9874,1025753,DTP Page Load enhancement - Identification of JavaScript,GPSS Sprint 33 Release 2021.7,DAP- DTP Platform - Sprint 1,,,,5,Closed
+PP-9873,1025749,DTP Page Load enhancement - Identification of CSS,GPSS Sprint 33 Release 2021.7,DAP- DTP Platform - Sprint 1,,,,2,Closed
+PP-10197,1042692,To convert DateFormat from UK to US and then use this for Disqualify Logic.,GPSS Sprint 33 Release 2021.7,DAP- DTP Platform - Sprint 1,,,,,Closed
+PP-6061,872764,Integration with HumanApi service - Analysis and POC,DAP- DTP Platform - Sprint 1,,,,,5,Closed
+PP-8694,966732,Abbvie Landing page for Orilissa and Oriahnn Preg Registeries,GPSS Sprint 23,GPSS Sprint 30 - Rel 2021.6,GPSS Sprint 31 - Rel 2021.6,,,5,Closed
+PP-9504,1001377,Virtual study - site association logic required enhancements ,GPSS Sprint 29 - Rel 2021.5,,,,,5,Closed
+PP-9656,1014026,"(demo feedback of PP-9277)  Display different h1,h2,h3,h4 and body content based on patientType",GPSS Sprint 29 - Rel 2021.5,,,,,,Closed
+PP-9817,1023408,"Contact Form DOB, make it more UI friendly",GPSS Sprint 31 - Rel 2021.6,,,,,,Closed
+PP-9432,993563,Unsubscribe/re-subscribe for after 'x' hours scenarios and Siteupdate job,,,,,,7,Closed
+PP-7211,920424,IP addrss fields are blank,,,,,,,Open
+PP-7210,920423,Are we sending Gender to RH,,,,,,,Open
+PP-6947,910444,GEO IP Service down exception need to be handled,,,,,,,Open
+PP-6493,884286,AZ Defect Fixes and Testing,GPSS Sprint 9,,,,,3,Rejected
+PP-9497,1000235,"Sprint 26 - Testing, Defect Fixes and validations",GPSS Sprint 28 -  Rel 2021.5,,,,,5,Closed
+PP-10097,1037301,Rebuild reporting database,GPSS Sprint 33 Release 2021.7,,,,,,Testing In Progress
+PP-10217,1043372,GTM Analysis on Advertisement/Analytics cookies ,,,,,,,Open
+PP-9782,1018651,CR.com: Computed fields are missing from the reference,GPSS Sprint 30 - Rel 2021.6,GPSS Sprint 31 - Rel 2021.6,,,,,Closed
+PP-7123,916414,"HCP details,  Physical Address fields & Send Comms via Postal Mail",GPSS Sprint 27 - Rel - 2021.5,,,,,3,Development In Progress
+PP-7156,917251,Pregnancy Registry - Email Link should not go to 404 Error page,GPSS Sprint 27 - Rel - 2021.5,DAP-Registry Platform-Sprint 1,,,,3,Development In Progress
+PP-10119,1039395,Button text for Pre-Selected Site on site selection when Life link is enabled/disabled,,,,,,,Open
+PP-10106,1038517,DTP platform : Additional Minor DNQ page,,,,,,,Open
+PP-9889,1025998,Cookie Policy page as a modal popup,GPSS Sprint 32 Release 2021.6,,,,,2,Rejected
+PP-9976,1031036,Amgen GENESIS - Patient Consent needs to be captured and saved correctly,,,,,,,Development In Progress
+PP-9978,1031060,Pregnancy Base Platform - Patient Consent needs to be captured and saved correctly,,,,,,,Development In Progress
+PP-7788,940420,Ensemble Study - Monitoring in Splunk ,GPSS Sprint 17,GPSS Sprint 18,Place for priority stories,,,,Reopened
+PP-7063,912745,Need confirmation on POST URL & redirection URL for Janssen Ensemble ,RITM / INC Release Sprint 22,,,,,,Closed
+PP-7537,933953,Janssen Ensemble - South Africa - Xhosa,,,,,,,Closed
+PP-7536,933952,Janssen Ensemble - South Africa - Afrikaans : Issues,,,,,,,Closed
+PP-7494,932961,https://www.ensemblestudy.com is not getting crawled by google ,GPSS Sprint 16,,,,,,Rejected
+PP-7440,931060,SVT Janssen Ensemble  Mexico Issues,,,,,,,Rejected
+PP-9214,981798,Amgen GENESIS US Spanish - QCC and HCP pages,,,,,,,Testing In Progress
+PP-9213,981789,Amgen GENESIS US Spanish - Log In page,,,,,,,Testing In Progress
+PP-9215,981906,Amgen GENESIS US Spanish - Scheduled Milestones,,,,,,,Testing In Progress
+PP-9216,981907,Amgen GENESIS US Spanish - Public Pages,,,,,,,Testing In Progress
+PP-9206,981595,Amgen GENESIS US Spanish - Need SVT instance ,,,,,,,Closed
+PP-9210,981769,Amgen GENESIS US Spanish - Patient Account Management Page,,,,,,,Testing In Progress
+PP-9212,981773,Amgen GENESIS US Spanish - Apply Approved Spanish system values,,,,,,,Testing In Progress
+PP-8659,965087,"dtp 1.1 platform - New Feature, need a carousel for the hero image & CTA",Place for priority stories,,,,,2,Rejected
+PP-6995,911815,set the default value for banner as ‘No’ in place of ‘Yes’,GPSS Sprint 24,,,,,2,Closed
+PP-8075,948624,Janssen Ensemble - Spain - Spanish,GPSS Sprint 19,,,,,,Rejected
+PP-5084,844055,Changes needed to enable ePR rollout,,,,,,,Closed
+PP-7733,938843,Janssen Ensmeble SVT issues - US (3009),,,,,,,Rejected
+PP-7597,934422,DtP - Janssen Ensemble - cookie management,GPSS Sprint 18,GPSS Sprint 20,,,,8,Rejected
+PP-5602,859126,Merge and configure - Tecgistry ,EPAM Work,,,,,2,Rejected
+PP-4423,760711,Plegridy - Create cookie opt in sticky overlay and corresponding cookie policy page,,,,,,,Rejected
+PP-4424,760712,Plegridy - Footer styling change,,,,,,,Rejected
+PP-4425,760713,Plegridy - Removal/hiding of fields from patient registration form,,,,,,,Rejected
+PP-5565,858254,CLONE - SMS sending/management service and reporting,,,,,,,Rejected
+PP-5583,858750,Roche - SMS sending/management service and reporting,GPSS Sprint 7,,,,,5,Development Complete
+PP-5603,859127,Merge and configure - Plegridy,EPAM Work,,,,,2,Rejected
+PP-4426,760714,Plegridy - Addition of privacy policy checkbox on patient registration form,,,,,,,Rejected
+PP-9001,977653,"CR.Com  Solr Indexing Problems,  Preventative Actions",Place for priority stories,,,,,,Open
+PP-9474,996695,DateTime stamp from Lua script,GPSS Sprint 26,Place for priority stories,,,,,Development In Progress
+PP-9653,1012798,WAF Checkpoint,Place for priority stories,,,,,,Open
+PP-6259,877331,Pressing the back button on 3-Step-Process briefly shows the previous page,GPSS Sprint 25,Place for priority stories,,,,2,Development In Progress
+PP-9685,1014939,"Mongo DB - Existing AZMCL records, update SOURCE field/s",Place for priority stories,,,,,,Open
+PP-9683,1014937,"Mongo DB - Existing DTP records, update SOURCE field/s",Place for priority stories,,,,,,Open
+PP-9682,1014936,Mongo DB - Update AZMCL to to save SOURCE information,Place for priority stories,,,,,,Open
+PP-9684,1014938,"Mongo DB - Existing CR.Com records, update SOURCE field/s",Place for priority stories,,,,,,Open
+PP-9679,1014933,Mongo DB Source field - create suitable field in Mongo DB,Place for priority stories,,,,,,Open
+PP-8625,963770,AMGEN GENESIS - Outcome of Customer Demo,GPSS Sprint 32 Release 2021.6,,,,,,Closed
+PP-9930,1028542,Export file names for Patient contact activity/Milestone Schedules data,,,,,,,Testing In Progress
+PP-9846,1025647,Find a way to reduce the SurveyMobile.js,,,,,,,Open
+PP-9719,1017075,DTP - Five9 (Anomaly Squared) API integration,GPSS Sprint 30 - Rel 2021.6,Place for priority stories,,,,,Development In Progress
+PP-9117,980638,"New Feature, need a carousel for the hero image & CTA, and Sticky Footer",GPSS Sprint 24,,,,,,Closed
+PP-9955,1030253,Code review comments for registry refactored platform,,,,,,,Open
+PP-9956,1030255,GitLab - SVT CI\CD pipeline creation for registries re-factored platform,,,,,,,Open
+PP-5633,859245,DTP 1.5 system manual update,GPSS Sprint 4,,,,,,Rejected
+PP-5634,859246,DTP 1.5 Design document update,GPSS Sprint 4,,,,,,Rejected
+PP-2601,659693,"Eiger D-LIVR - Configure survey gizmo, Metadata and Google Analytics (content editor)",,,,,,,Rejected
+PP-9211,981771,Amgen GENESIS US Spanish - Patient email/SMS communications,,,,,,,Testing In Progress
+PP-6483,884210,Sitecore Changes for having the switch for LifeLink Integration,GPSS Sprint 9,,,,,3,Rejected
+PP-6487,884226,SG Screener to Contact Info - High Risk Flag,GPSS Sprint 9,,,,,3,Rejected
+PP-6488,884229,ExternalApiAuditLog,GPSS Sprint 9,,,,,3,Rejected
+PP-6489,884230,Authenticate with API Key for LifeLink to DTP Integration,GPSS Sprint 9,,,,,,Rejected
+PP-6485,884218,LifeLink to DTP,GPSS Sprint 9,,,,,3,Rejected
+PP-6482,884209,Site Selection Success UI Changes for LifeLink Integration – UI ,GPSS Sprint 9,,,,,3,Rejected
+PP-6484,884216,DTP to LifeLink,GPSS Sprint 9,,,,,3,Rejected
+PP-3358,704060,My account dropdown in header should be content managed *confirm this is in place*,,,,,,,Rejected
+PP-2268,652123,ePR platform integration with Rocket Referral platform,,,,,,,Rejected
+PP-2054,649506,Sunovion 203 Parkinsons - Daily & Weekly Referral Email only being sent to PI role,,,,,,,Rejected
+PP-2018,648582,IQVIA view - Site Profile details,,,,,,,Rejected
+PP-1520,616799,Iqvia clinical team user add study site form (FR-112),,,,,,,Rejected
+PP-1519,616347,Iqvia clinical team user add user form (FR-111),,,,,,,Rejected
+PP-1469,606243,Retrophin - Referral DB Fields,,,,,,,Rejected
+PP-1370,595533,IQVIA Biosimilars - Newsletter updates,,,,,,,Rejected
+PP-1331,594732,ePR custom portal delivery - Open items,,,,,,,Rejected
+PP-765,543374,NFR-44 Logging of security events,,,,,,,Rejected
+PP-598,514558,new ePR - QAT Feedback,,,,,,,Rejected
+PP-571,490633,SVT : UAT Issues validation,,,,,,,Rejected
+PP-570,490632,SVT : UAT Smoke Testing,,,,,,,Rejected
+PP-568,490628,SVT : Formal Validation,,,,,,,Rejected
+PP-9277,985390,"Display different h1,h2,h3,h4 and body content based on patientType",GPSS Sprint 26,,,,,3,Closed
+PP-9110,980038,Type of User - Unsubscribe/Subscribe,GPSS Sprint 25,GPSS Sprint 26,,,,3,Closed
+PP-8999,977636,Ability to send registration emails based upon type of user,GPSS Sprint 24,GPSS Sprint 26,,,,5,Closed
+PP-9420,992374,User Consent for Receiving emails,GPSS Sprint 29 - Rel 2021.5,,,,,,Closed
+PP-602,518057,Zingistry Two Way Commnucation Implemention,,,,,,,Closed
+PP-3755,722294,AZ MCL - Hyperwallet API integration ,GPSS Sprint 2,GPSS Sprint 6,,,,8,Development Complete
+PP-9804,1022328,Amgen Spanish Set up in SVT,,,,,,,Closed
+PP-7397,928901,"DTP Contact Form - GUI change to DOB field, latest base platform ",GPSS Sprint 23,GPSS Sprint 24,GPSS Sprint 25,GPSS Sprint 28 -  Rel 2021.5,,5,Closed
+PP-9774,1018121,IP - R668-AD-1762: Investigator Portal Analytics,GPSS Sprint 30 - Rel 2021.6,,,,,,Closed
+PP-9693,1016337,Sprint 28/29 Testing - Defect fixes and Validation,GPSS Sprint 30 - Rel 2021.6,,,,,5,Closed
+PP-9695,1016413,Documentation - System Manual + Design Document + Release Notes,GPSS Sprint 30 - Rel 2021.6,,,,,5,Closed
+PP-8918,974062,Abbvie US Spanish - Defect fixes n testing,GPSS Sprint 23,GPSS Sprint 24,,,,8,Closed
+PP-7674,937236,background job updates (PP-7608) - ATID association,,,,,,,Closed
+PP-7672,937231,Addition to bg job change (PP-7608) - abandoned status referrals,,,,,,,Closed
+PP-7822,941380,Addition to background job described in PP-7608 - apply to referrals with status 'Site not found',,,,,,,Closed
+PP-7685,937914,Background job described in PP-7608 updates a database record on changing referral status,,,,,,,Closed
+PP-7673,937234,DtP addition to background job (PP-7608) - email triggered in this scenario uses distinct template,,,,,,,Closed
+PP-8892,973070,DTP Contact Form - Need to make numeric inputs multi-lingual,Place for priority stories,,,,,,Open
+PP-8998,977622,"Variable content, color, images by ""atid"" query string parameter",Place for priority stories,,,,,8,Deferred
+PP-7796,940528,Connect BP-307CN002 - Purchase Domain,,,,,,,Closed
+PP-7798,940530,Connect BP-307CN002 - SVT Findings,,,,,,,Closed
+PP-7797,940529,Connect BP-307CN002 - Obtain & Install SSL Certification,,,,,,,Closed
+PP-7795,940524,Connect BP-307CN002 - DtP instance creation,,,,,,,Closed
+PP-7570,934046,Xhosa : Copyrights is added twice in the footer ,,,,,,,Rejected
+PP-5674,860541,"POC, Solution'ising, Estimation",,,,,,,Closed
+PP-6326,879822,Testing story for PP-6097,RITM / INC Release Sprint 9,,,,,,Rejected
+PP-4970,834798,Test Story 20200225,,,,,,,Rejected
+PP-5037,841096,Exchange-study pixel fire issue.,,,,,,,Testing In Progress
+PP-4422,760705,Plegridy - Additional content managed text area above privacy opt in checkbox and text on patient registration form,,,,,,,Rejected
+PP-4421,760703,Plegridy - Distinct thank you pages,,,,,,,Rejected
+PP-2815,666283,Jazz Chords - add branding to ePR instance,,,,,,,Rejected
+PP-2829,666413,Jazz Chords - Study locations element,,,,,,,Rejected
+PP-2828,666411,Jazz Chords - ePR instance does not incorporate screener questionnaire,,,,,,,Rejected
+PP-2826,666409,"Jazz Chords - site variants are supported for the US, Germany and Spain",,,,,,,Rejected
+PP-2818,666286,"Jazz Chords - configure metadata, google analytics",,,,,,,Rejected
+PP-2817,666285,Jazz Chords - Sitecore analytics configuration,,,,,,,Rejected
+PP-3315,700801,ePR translations (place holder),,,,,,,Rejected
+PP-2009,648571,Add Patient form,,,,,,,Rejected
+PP-2016,648580,PI/Inv user view - vanity URL performance issue,,,,,,,Rejected
+PP-1905,643992,Sunovion 203 Parkinsons - Daily & Weekly Referral Email only being sent to Investigators,,,,,,,Rejected
+PP-2002,647916,FR-012 - A user session is ended after 30 minutes of inactivity *confirm if implementation described is in place*,SPN - AZ MCL Sprint 1,,,,,,Rejected
+PP-716,541422,HECEXP16 for the Month of December,,,,,,,Rejected
+PP-717,541424,HECEXP16 for the Month of December,,,,,,,Rejected
+PP-891,550863,HECEXP16 for the Month of  January 2018,,,,,,,Rejected
+PP-5339,853084,503 Errors (for RITM sprint?),Place for priority stories,,,,,,Rejected
+PP-5980,868832,ID to submit with Hyperwallet create cheque request via REST API,Place for priority stories,,,,,,Testing In Progress
+PP-6476,883972,"Post lifelink appointment creation, end user can save appointment to third party calendar app",Place for priority stories,,,,,,Open
+PP-577,498610,Sitecore Platform audit trail integrtion,,,,,,,Rejected
+PP-575,496822,Zingistry Email Content and place holder changes,,,,,,,Rejected
+PP-477,468845,QCC daily notification ,,,,,,,Rejected
+PP-540,480014,"Email alignments issues for QCC, Patient, HCP",,,,,,,Rejected
+PP-542,480157,Does not qualify opt in management,,,,,,,Rejected
+PP-548,480249,The application is able to generate filtered mailing lists and merge them,,,,,,,Rejected
+PP-550,480265,Creation of email/SMS communication schedules,,,,,,,Rejected
+PP-552,480324,Communications unsubscribe,,,,,,,Rejected
+PP-569,490631,Internal Meetings,,,,,,,Rejected
+PP-530,479068,ZinGsitry emails and SMS HTML Output preparation,,,,,,,Rejected
+PP-517,478261,Content Changes for BI Re-Vecto - US,,,,,,,Rejected
+PP-503,473835,Referral management,,,,,,,Rejected
+PP-485,473128,Negtaive secenrio Implemention ,,,,,,,Rejected
+PP-556,480622,Capability to send email/SMS from the platform instance,,,,,,,Rejected
+PP-565,485765,Zingistry :Patient  actual Email Output required,,,,,,,Rejected
+PP-563,482636,"Zingistry email Out put for QCC,HCP,patient",,,,,,,Rejected
+PP-170,368666,Search for site feature,,,,,,,Rejected
+PP-3813,726300,NOVARTIS EXCHANGE - Confirgure sitecore analytics,,,,,,,Closed
+PP-9000,977641,display different H1 and body content for “registration form” depending upon whether user pass or fail the prescreener,GPSS Sprint 25,,,,,3,Closed
+PP-3819,726309,NOVARTIS EXCHANGE - Referrals to be directed to Referral Hub / CRCP platform,,,,,,,Closed
+PP-2606,659723,Eiger D-LIVR - Registration Followup Email (2day & 7day),,,,,,,Closed
+PP-2604,659696,Eiger D-LIVR - Create & publish build using CI/CD,,,,,,,Closed
+PP-2603,659695,Eiger D-LIVR - Configure Referral DB,,,,,,,Closed
+PP-2597,659678,Eiger D-LIVR - Add content to ePR instance,,,,,,,Closed
+PP-2608,659761,Eiger D-LIVR - Referrals to be directed to Referral Hub/CRCP platform,,,,,,,Closed
+PP-2605,659697,Eiger D-LIVR - Emails,,,,,,,Closed
+PP-6648,892816,"RITM13136278 -  hide the ""Send communications via postal mail"" option",,,,,,,Closed
+PP-6582,889805,UTM parameter string observed to be lost in dtp site usage - NEEDS TESTING,,,,,,,Closed
+PP-4526,772987,Merck Evolution - support for two protocols,,,,,,,Closed
+PP-6035,870777,Single Sign-on for IQVIA Coordinating Center users,GPSS Sprint 23,,,,,5,Closed
+PP-6870,905000,Merge the Banner related changes to 1.6.2,GPSS Sprint 24,,,,,2,Closed
+PP-6812,902460,Analysis and estimation for adding Survey Gizmo Iframe integration in DTP 1.1,,,,,,8,Closed
+PP-7375,927333,DtP - retain all query string parameters where domain is updated by redirect or user,GPSS Sprint 21,,,,,,Closed
+PP-7392,928121,Distinct Hyperwallet job to update payment status in mastersubjectreport,GPSS Sprint 21,,,,,,Closed
+PP-7614,935298,CR.com new logo addition (pending details),,,,,,,Closed
+PP-9675,1014727,AZ MCL - Changes,GPSS Sprint 29 - Rel 2021.5,,,,,,Closed
+PP-7393,928122,AZ MCL master subject report - populate historical payments made manually,GPSS Sprint 21,,,,,,Closed
+PP-7400,929141,DTP- Progress Bar Structure with & without 'Schedule Appointment',GPSS Sprint 20,,,,,,Closed
+PP-7421,929782,"DTP Contact Form -  when errors, page should focus upon 1st error",GPSS Sprint 22,,,,,2,Closed
+PP-7447,932041,AZ Provent (Covid) DTP 1.0 UK version SVT findings,,,,,,,Closed
+PP-9489,997563,"Documentation - System Manual, Release Notes and Design Documents",GPSS Sprint 29 - Rel 2021.5,,,,,5,Closed
+PP-5573,858441,"Logs showing emails are not being associated to users, and CPU at 100%",RITM / INC Release Sprint 4,RITM / INC Release Sprint 6,,,,5,Closed
+PP-5696,861569,"DTP UAT,  Reg Form Restyling",,,,,,,Closed
+PP-5706,862021,UAT Findings & Analysis,,,,,,,Closed
+PP-5710,862105,UAT findings / observations,,,,,,,Closed
+PP-890,550862,HECEXP16 for the Month of  January2018,,,,,,,Closed
+PP-4520,772980,"Merck Evolution - Configure survey gizmo, Metadata and Google Analytics",,,,,,,Closed
+PP-4521,772981,Merck Evolution - Create/Configure CTMS incoming feed,,,,,,,Closed
+PP-5378,854457,DTP 1.5 Release Notes,GPSS Sprint 4,,,,,,Closed
+PP-4525,772986,Merck Evolution - Referrals to be directed to Referral Hub/CRCP platform,,,,,,,Closed
+PP-4842,810799,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Closed
+PP-4844,810804,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Closed
+PP-8907,973688,DTP : To check the param name and value than just value for identifying the contact type(adult/minor/caregiver) from survey adult ,GPSS Sprint 24,,,,,2,Closed
+PP-8815,971773,"Survey Gizmo, solve Duplicate ID's",GPSS Sprint 23,,,,,2,Closed
+PP-9315,986381,Operational Story - Sprint Plan/Demo/Release Plan,GPSS Sprint 25,,,,,3,Closed
+PP-7651,936209,AZ BENRA - Purchase Domain  www.benradermtrials.com,GPSS Sprint 21,,,,,,Closed
+PP-8858,972586,Operational Support - Release Notes/System Manual/Delivery Plan/Release Plan,GPSS Sprint 23,,,,,3,Closed
+PP-9217,981971,Operation Support - Release plan,GPSS Sprint 24,,,,,5,Closed
+PP-8824,971992,Investigator Portals - Implement Vimeo iframe into V3 Investigator Portals,GPSS Sprint 23,,,,,3,Closed
+PP-9321,986638,Testing - COVID19 Generic Prescreener,GPSS Sprint 25,,,,,2,Closed
+PP-9314,986380,Release Notes and System Manual Updates/Review,GPSS Sprint 25,,,,,3,Closed
+PP-8857,972581,A/B Testing with GDPR Compliance in Sitecore/Google Optimizer,GPSS Sprint 23,,,,,,Closed
+PP-9319,986636,Alzheimer's Disease studies_Prescreener_Separate patient caregiver flow_V2_25Feb2021.xlsx,GPSS Sprint 25,,,,,2,Closed
+PP-9268,983974,SendGridEmailActvityUpdater failing due to threading,,,,,,,Closed
+PP-8664,965463,Handling Duplicate Registrations - 48 Hours,GPSS Sprint 22,,,,,5,Closed
+PP-8670,965703,Sprint 21 - SVT Defect Fixes,GPSS Sprint 22,,,,,3,Closed
+PP-8855,972452,"Dev - Configurable hours (24 hours, for Ex);  Up to how many hrs/days should job keep retrying for? ",GPSS Sprint 23,,,,,3,Closed
+PP-8852,972429,DTP Email functionality Enhancements,GPSS Sprint 23,,,,,1,Closed
+PP-8851,972355,Production Issues - Fixes and Support,GPSS Sprint 23,,,,,3,Closed
+PP-8850,972353,"Sprint 22 - SVT Defect Fixes , SVT Deployment Support and Defect Testing",GPSS Sprint 23,,,,,3,Closed
+PP-9698,1016606,Existing(Old) Amgen site testing with new DB ,,,,,,,Rejected
+PP-2892,670107,Meeting Hours,,,,,,,Rejected
+PP-4545,775684,Improve Page Performance,,,,,,,Development In Progress
+PP-4256,746453,Enable Landing Page tracking in Sitecore Email Experience Manager,,,,,,,Rejected
+PP-9697,1016415,Abbvie Landing page and defect fixes,Place for priority stories,,,,,,Rejected
+PP-4156,738696,Hover state for buttons inconsistent *confirm if completed*,,,,,,,Rejected
+PP-3734,720004,"Sizing request: Data Migration, Investigator Records Eloqua DB to a Sitecore Instance",,,,,,,Rejected
+PP-3526,711635,Content items are using names rather than IDs *confirm status*,,,,,,,Rejected
+PP-3512,710505,Fix for video playing in iPad/Safari *confirm if resolved*,,,,,,,Rejected
+PP-3240,693475,Enable editing of Social Media metatags in Sitecore (confirm if completed),,,,,,,Rejected
+PP-4008,732687,Social MetaTags & Robots.txt,,,,,,,Rejected
+PP-9538,1004461,Abbvie Orihann - Defect fixes and validation,GPSS Sprint 29 - Rel 2021.5,,,,,5,Closed
+PP-9539,1004462,CR.com issue and troubleshooting,GPSS Sprint 28 -  Rel 2021.5,GPSS Sprint 29 - Rel 2021.5,,,,3,Closed
+PP-9661,1014101,testing jira gitlab intergration,,,,,,,Open
+PP-9660,1014092,testing jira gitlab,,,,,,,Open
+PP-8305,956435,To unshare “Tenant Key” field so that we will have unique key for each website.,GPSS Sprint 21,,,,,2,Closed
+PP-8663,965146,Need a check in configuration to disable Status Update job for corresponding website,GPSS Sprint 22,,,,,2,Closed
+PP-8645,964151,Amgen GENESIS - Unsubscribe & Update Profile link,GPSS Sprint 22,,,,,3,Closed
+PP-8398,958480,"Amgen - ""About Aimovig® "" page and ""Important safety Information"" page",GPSS Sprint 21,,,,,,Closed
+PP-7652,936210,AZ BENRA - Obtain & Install SSL Certification,GPSS Sprint 21,,,,,,Closed
+PP-8157,951435,iPhone users not being able to get through Site Selection,GPSS Sprint 21,,,,,3,Closed
+PP-8126,950900,Protocol Field in the Configuration needs to be unshared,GPSS Sprint 21,,,,,2,Closed
+PP-7653,936212,AZ BENRA - US  SVT Findings,,,,,,,Closed
+PP-4835,810788,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Closed
+PP-4838,810793,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Closed
+PP-4523,772984,Merck Evolution - Create & publish build using CI/CD,,,,,,,Closed
+PP-4522,772983,Merck Evolution - Configure Referral DB,,,,,,,Closed
+PP-3428,707945,GSK ContRAst - Configure Referral DB,,,,,,,Closed
+PP-3427,707944,GSK ContRAst - Create/Configure CTMS incoming feed,,,,,,,Closed
+PP-4519,772979,Merck Evolution - configure Sitecore analytics,,,,,,,Closed
+PP-3429,707947,GSK ContRAst - Create & publish build using CI/CD,,,,,,,Closed
+PP-3425,707942,GSK ContRAst - Configure sitecore analytics,,,,,,,Closed
+PP-3424,707941,GSK ContRAst - Configure marketing component,,,,,,,Closed
+PP-1170,588708,GenSight Reflect - site is optimised for visually impaired users,,,,,,,Closed
+PP-1134,585289,Change to CTA label and action,,,,,,,Closed
+PP-1031,577771,GenSight Reflect - As a prospective trial participant I cannot select a study site,,,,,,1,Closed
+PP-438,460349,"Dot net frame work Upgrade for Janseen aware,mesoblast,Medi Iummne,revecto,Engage and emerge,Revecto, BIArthitis Bascially it should be cover all the Patieint Portal Projects",,,,,,,Closed
+PP-4515,772974,Merck Evolution - create new ePR instance ,,,,,,,Closed
+PP-3437,707999,GSK ContRAst - This ePR Instance should include the weighting/prioritisation of protocol functionality,,,,,,,Closed
+PP-3420,707852,GSK ContRAst - Create new ePR instance [www.contrastraprogram.com],,,,,,,Closed
+PP-3436,707998,GSK ContRAst - This ePR instance supports three distinct studies/protocols,,,,,,,Closed
+PP-7650,936208,AZ BENRA - DtP instance creation,GPSS Sprint 21,,,,,,Closed
+PP-6382,881035,"AZ COVID - The DtP instance should have the capability to support 5,000 concurrent users (infrastructure team)",,,,,,,Closed
+PP-4527,772988,Merck Evolution  - instance should support protocol & site weighting/priority functionality as well as site thresholds,,,,,,,Closed
+PP-3830,726491,Respivant Scenic - Create new ePR instance (domain pending),,,,,,,Closed
+PP-4514,772973,Merck Evolution - purchase and install SSL certification - http://www.evolutionstudies.com/,,,,,,,Closed
+PP-4516,772976,Merck Evolution - add content to ePR instance,,,,,,,Closed
+PP-3837,726498,Respivant Scenic - add content to instance,,,,,,,Closed
+PP-3814,726302,"NOVARTIS EXCHANGE - Configure survey gizmo, Metadata and Google Analytics (content editor)",,,,,,,Closed
+PP-3426,707943,"GSK ContRAst - Configure survey gizmo, Metadata and Google Analytics (content editor)",,,,,,,Closed
+PP-3422,707930,GSK ContRAst - Add content to ePR instance,,,,,,,Closed
+PP-7804,941021,Abbvie BLOOM - US Spanish     SVT Findings,GPSS Sprint 21,,,,,,Closed
+PP-8198,952708,ACOE Screener- Architecture Design,GPSS Sprint 20,,,,,,Closed
+PP-8420,959182,UAT - Avacare,GPSS Sprint 21,,,,,2,Closed
+PP-4644,783531,Theravance SEQUOIA - UAT parent ticket (pls create UAT items under this ticket),,,,,,,Closed
+PP-4528,772989,"Merck Evolution - UAT parent story, please create UAT feedback under this ticket",,,,,,,Closed
+PP-3431,707951,GSK ContRAst - UAT Feedback,,,,,,,Closed
+PP-1530,619124,Sunovion Parkinson's UAT,,,,,,,Closed
+PP-4774,800821,UAT Parent ticket,,,,,,,Closed
+PP-4518,772978,Merck Evolution - configure marketing component,,,,,,,Closed
+PP-4517,772977,Merck Evolution - Add branding to ePR instance,,,,,,,Closed
+PP-3423,707931,GSK ContRAst - Add branding to ePR instance,,,,,,,Closed
+PP-2635,660394,"GenSight ePR: Add validation for UK Postal Codes, Phone Numbers",,,,,,,Closed
+PP-1169,588669,GenSight Reflect - CTA with pop up disclaimer,,,,,,,Closed
+PP-3405,706883,Rebuild/Update portal from Baseline (include multi-country/language),,,,,,,Closed
+PP-2297,652617,FR-602 - Report of patient portal usage,SPN - AZ MCL Sprint 4,,,,,,Closed
+PP-379,441830,TecGistry- Canada : Content and Email Amends for SVT,,,,,,,Closed
+PP-8399,958564,Amgen GENESIS Specific Mailboxes,GPSS Sprint 21,,,,,,Closed
+PP-4524,772985,Merck Evolution - Email mailboxes,,,,,,,Closed
+PP-3430,707949,GSK ContRAst - Email mailboxes,,,,,,,Closed
+PP-3818,726307,NOVARTIS EXCHANGE - Email mailboxes,,,,,,,Closed
+PP-8770,970505,Ensure Google OPTIMIZE snippet work with latest DTP Base Platform with Cookie Banner Present,GPSS Sprint 23,,,,,5,Closed
+PP-8224,953901,Production Issue : AZ and Generic Update Job ,GPSS Sprint 20,GPSS Sprint 21,,,,,Closed
+PP-8225,953902,Production: Janssen Update Job,GPSS Sprint 20,GPSS Sprint 21,,,,,Closed
+PP-8192,952167,Amgen - emails sent out as per the Communications Program,GPSS Sprint 21,,,,,,Closed
+PP-8193,952168,Amgen - No HCP user access,GPSS Sprint 21,,,,,,Closed
+PP-8127,950901,Need a check in configuration to disable Status Update job for corresponding website,GPSS Sprint 20,,,,,,Closed
+PP-8522,962141,for Iphone table display issue,,,,,,,Closed
+PP-7492,932835,Abbvie BLOOM - Need SVT instance for US Spanish,GPSS Sprint 21,,,,,2,Closed
+PP-6443,883027,DTP Contact Form Mobile Phone Number (needed for LifeLink),GPSS Sprint 9,,,,,3,Closed
+PP-8675,966249,Add Google OPTIMIZE snippet on SVT STORMCHASER site English language,GPSS Sprint 22,,,,,3,Closed
+PP-8226,953904,Otsuka ANCHOR Referrals,GPSS Sprint 20,GPSS Sprint 21,,,,,Closed
+PP-9299,986042,Additional gender values to be added on DTP platform,GPSS Sprint 26,,,,,3,Closed
+PP-8646,964154,Roche OCREVUS - links in Re-Scheduled email not working,GPSS Sprint 22,,,,,3,Closed
+PP-9362,988591,Business Logic for optimization of all jobs (requested by dev team- Protocol Logic),GPSS Sprint 25,,,,,,Closed
+PP-9492,998677,Sprint 26 - Testing - Defect Fixes,GPSS Sprint 27 - Rel - 2021.5,,,,,5,Rejected
+PP-9477,997009,Abbvie ORIAHNN - Instance Creation,GPSS Sprint 27 - Rel - 2021.5,,,,,3,Closed
+PP-9416,992239,Demo Feedback for additional Gender values,GPSS Sprint 27 - Rel - 2021.5,,,,,3,Closed
+PP-7849,941795,Merge Tags to be available on Map popup,GPSS Sprint 22,,,,,3,Rejected
+PP-9427,992997,ePR is failing/Performance degraded when RH is unable handle load from ePR,,,,,,,Open
+PP-9406,991873,Exploration - Check mobile version of Android & take action if v7.0 or lower,Place for priority stories,,,,,,Open
+PP-9363,988652,"Protocol Based Processing, for optimization of all jobs (requested by dev team)",GPSS Sprint 25,,,,,,Rejected
+PP-9270,984636,DTP - Amend CSS so that videos are responsive,Place for priority stories,,,,,,Open
+PP-9253,983319,Sitecore CMS changes - Change GoogleManager URL field into a checkbox,Place for priority stories,,,,,,Open
+PP-9251,983317,Sitecore CMS changes - Update Help Text in CMS Settings,Place for priority stories,,,,,,Open
+PP-9252,983318,Sitecore CMS changes - Audit & Update all the metatags,Place for priority stories,,,,,,Open
+PP-9250,983316,Sitecore CMS changes,GPSS Sprint 24,,,,,,Rejected
+PP-9245,983201,DTP - Sendgrid data downloaded.  Join with our Patient data,Place for priority stories,,,,,,Open
+PP-9163,981332,DevOps - CI/CD changes,GPSS Sprint 24,,,,,,Development In Progress
+PP-9124,981158,Release Notes and System Manual Updates,GPSS Sprint 24,,,,,2,Development In Progress
+PP-9107,979858,Investigator Portals - Implement Vimeo iframe into V3 Investigator Portals-Phase 2,,,,,,3,Development In Progress
+PP-8758,970204,DTP - DoD (military personnel) Site Selection,Place for priority stories,,,,,,Rejected
+PP-8708,967318,"CR.com - Production issue - Size update broke previous fix to Articles for CR, RITM14253530",,,,,,,Rejected
+PP-8655,965059,Abbvie BLOOM - links in Re-Scheduled email not working,GPSS Sprint 22,,,,,3,Testing In Progress
+PP-8622,963116,POC - Integrate Sitecore 10 CMS with backend of ACOE,Place for priority stories,,,,,,Open
+PP-8523,962143,fr cookies are not getting deleted,,,,,,,Development In Progress
+PP-8447,959656,MyLife Digital - Concentric Preference Center (citizen preferences) ,Place for priority stories,,,,,,Open
+PP-8391,958278,AZ Benra:On both iPad and iPadpro the confirm DNQ page header text got truncated,,,,,,,Development In Progress
+PP-8352,957245,SurveyGizmo to send to DTP (& Lifelink) a Scheduling Window,Place for priority stories,,,,,,Rejected
+PP-8280,956366,Merck Evolution 1.1:  Afrikaans (South Africa) ,,,,,,,Rejected
+PP-8073,948599,"Need to look into safeguarding DTP from incoming spurious ATID parameter, at F5 Level",Place for priority stories,,,,,,Open
+PP-8036,948275,UAT Issue - Janssen Ensemble - On Site selection page - Multiple click on back button able to edit the previous screen,GPSS Sprint 19,Place for priority stories,,,,,Rejected
+PP-7966,946392,LL status can be affected by age input on contact form (addition to PP-7484),Place for priority stories,,,,,,Open
+PP-7965,946391,Sitecore - Default configuration settings when a new instance is created,Place for priority stories,,,,,,Open
+PP-7962,946384,'studyname' Merge field on Success pages should be the protocol Indication Field,GPSS Sprint 21,,,,,2,Rejected
+PP-7945,945045,match sub-set of referrals with stated age and diversity data to specified sites per protocol,Place for priority stories,,,,,,Open
+PP-7908,943149,"AZ Spanish(US) Prod: •	On changing Language(US / Spanish) from language dropdown, extra characters are getting appended to URL",,,,,,,Rejected
+PP-7907,943144,AZ Spanish(US) Prod: LL is redirecting to “US Success” page on Prod from Spanish(US) website.,,,,,,,Rejected
+PP-7875,942496,AZ Spanish Prod Issues,,,,,,,Rejected
+PP-7834,941543,Biogen Single WebPage for registry access,Place for priority stories,,,,,,Rejected
+PP-7824,941397,ACOE trial matcher - integration into welcome email functionality,Place for priority stories,,,,,,Open
+PP-7769,939920,Noven SVT issues,GPSS Sprint 17,,,,,,Rejected
+PP-7753,939314,Janssen Ensmeble SVT issues - UK (3009),,,,,,,Rejected
+PP-7721,938578,Devices: Calendar icon is not displayed for 9th question,,,,,,,Rejected
+PP-7693,938055,ACOE integration request,Place for priority stories,,,,,,Open
+PP-7682,937517,job to associate no site available status referrals to new sites - handling invited site/protocol,,,,,,,Rejected
+PP-7648,936079,(DEPENDENCY ON RH) DtP addition to background job (PP-7608) - site not found in RH,Place for priority stories,,,,,,Open
+PP-9491,998582,Addition of SiteCore editable banner for DTP 1.1 platform,,,,,,,Closed
+PP-7647,936065,DtP - Enhancements to PP-7008 background job change,,,,,,,Open
+PP-9488,997562,Testing - Optimization for all jobs,Place for priority stories,,,,,5,Open
+PP-9049,977992,DTP : Match columns lengths used in Stored Procedures and temp tables with main table columns,GPSS Sprint 24,GPSS Sprint 26,,,,3,Rejected
+PP-4188,742191,TO TEST - Overriding reqs for Germany,,,,,,,Rejected
+PP-9425,992723,Sprint 25 Testing - Defect Fixing - Testing - Performance Fixes - Testing ,GPSS Sprint 26,,,,,7,Closed
+PP-9423,992720,Release Notes and System Manual update,GPSS Sprint 26,,,,,5,Closed
+PP-9468,996186,Roche OCREVUS - Home button/link required in header navigation menu ,GPSS Sprint 26,,,,,,Closed
+PP-9118,980846,Acknowledgement Post Message from ePR to iframe Source,GPSS Sprint 26,,,,,2,Closed
+PP-8922,974537,Integration Background Job - Technical Story,GPSS Sprint 24,,,,,2,Closed
+PP-6767,898852,On iPhone survey button colours are not correct,Place for priority stories,,,,,,Rejected
+PP-7407,929511,UAT issue - Language text in Date Picker,Place for priority stories,,,,,,Rejected
+PP-8445,959614,SVG images on SVT SiteCore,GPSS Sprint 21,Place for priority stories,,,,,Open
+PP-7949,945926,Redirect to homepage from Error,GPSS Sprint 18,GPSS Sprint 26,,,,3,Closed
+PP-6414,882301,Remove all third party url used for JS or CSS,Place for priority stories,,,,,,Open
+PP-9257,983928,Sitecore Fake DB - Unit Testing,GPSS Sprint 25,Place for priority stories,,,,5,Development In Progress
+PP-7185,917841,"Store Browser, OS and Platform/Device details for every user",,,,,,,Rejected
+PP-5918,866194,AZ MCL Master subject report (MSR) issues,GPSS Sprint 7,,,,,3,Closed
+PP-6545,886919,CSS not cleared after cache clear,,,,,,,Rejected
+PP-4788,802691,Merck Evolution - iFrame implementation,GPSS Sprint 22,,,,,3,Closed
+PP-6934,910040,TID header with the unique Referral Code value in the outbound web service calls to the CloudHub API’s,Place for priority stories,,,,,,Open
+PP-6792,901005,Urgent request - posting AZ COVID  reg data to sFTP from SQL DB on a frequent basis for call center access,Place for priority stories,,,,,,Open
+PP-9239,982687,Analysis and Estimation of Unit Testing Framework,GPSS Sprint 24,,,,,2,Development Complete
+PP-5554,858240,DtP - Download SendGrid data and hold on our site (as done on AZ MCL),GPSS Sprint 23,,,,,3,Closed
+PP-5577,858484,EPM-REM - Remove Lucene indexes from SVT Server,,,,,,,Closed
+PP-5576,858483,EPM-REM - Remove Lucene indexes from Dev Server,,,,,,,Closed
+PP-462,467297,SVT : Other Efforts -- PP (Meetings),,,,,,,Rejected
+PP-468,467358,SVT : Other Efforts -- PP (Documentation),,,,,,,Rejected
+PP-2939,675831,(FR-101) - test questionnaire layout,,,,,,,Rejected
+PP-2296,652616,FR-601 - A report is generated to enable processing of tokens of appreciation.,SPN - AZ MCL Sprint 4,,,,,,Rejected
+PP-5148,846377,EPM-REM - Identify performance issues on the front-end,,,,,,,Closed
+PP-5520,857190,CD EXM Configuration,,,,,,,Rejected
+PP-5130,845110,EPM-REM - Analyze and identify DB Pre-fetch setings,,,,,,,Closed
+PP-5541,857803,EPM-RM - Integrate the JavaScript for the menu,,,,,,,Closed
+PP-5257,851219,EPM-REM - Move layouts to renderings Part 1,,,,,,,Closed
+PP-5165,848423,EPM-REM - Apply Cache settings on the identified resources - Part 2,,,,,,,Closed
+PP-5156,846635,Identify resources for part 2 implementation,,,,,,,Closed
+PP-4793,802741,Theravance SEQUOIA - iFrame implementation,,,,,,,Rejected
+PP-4792,802724,Milestone NODE303 - iFrame implementation,,,,,,,Rejected
+PP-4791,802719,Sunovion 203 Parkinson's - iFrame implementation,,,,,,,Open
+PP-4790,802699,Milestone Node 303 - iFrame implementation,,,,,,,Rejected
+PP-4789,802693,GSK Cosmis - iFrame implementation,,,,,,,Open
+PP-4787,802403,ePR instance - iFrame implementation,,,,,,,Open
+PP-4786,802400,CVD Studies - iFrame implementation,,,,,,,Open
+PP-4784,802397,Retrophin Protect - iFrame implementation,,,,,,,Rejected
+PP-4779,802332,GSK Contrast - iFrame implementation,,,,,,,Open
+PP-4782,802335,Pear Enable - iFrame implementation,,,,,,,Rejected
+PP-467,467317,SVT : Other Efforts -- QP/LMS (Release Activities),,,,,,,Rejected
+PP-463,467300,SVT : Other Efforts -- QP/LMS (Meetings),,,,,,,Rejected
+PP-408,448182,QCC contact reschedule email ,,,,,,,Rejected
+PP-899,554983,German QCC access to site,,,,,,,Rejected
+PP-4839,810794,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Rejected
+PP-1259,593325,Retrophin - Referral email requirements,,,,,,,Rejected
+PP-1525,618879,Application setup and Config,,,,,,,Closed
+PP-2065,649726,Lenny Feedback in PPT,,,,,,,Rejected
+PP-4308,750602,Need to capture the source of user registration,,,,,,,Rejected
+PP-4847,810873,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Rejected
+PP-1358,594877,Seres Eco-Reset,,,,,,,Closed
+PP-7502,933231,"Seres Eco-Reset - New Feature, need a carousel for the hero image & CTA",GPSS Sprint 23,,,,,3,Rejected
+PP-8811,971421,Review and update System Manual,GPSS Sprint 23,,,,,2,Closed
+PP-8921,974268,Tecgistry No Longer Recruiting.   Site to be changed.,,,,,,,Closed
+PP-8808,971417,Update System Manual - Email Job,GPSS Sprint 23,,,,,2,Closed
+PP-8809,971419,Update System Manual - Status Update,GPSS Sprint 23,,,,,2,Closed
+PP-8810,971420, Update System Manual - Background Job,GPSS Sprint 23,,,,,2,Closed
+PP-6155,876661,Automation of Protocols and Site creation,Place for priority stories,,,,,,Open
+PP-6921,908617,Version of Success Page shown to user to be Sitecore configurable,Place for priority stories,,,,,3,Rejected
+PP-6478,883976,Validation of mobile phone number input on contact information form,Place for priority stories,,,,,,Rejected
+PP-7226,921400,Janssen DtP instance cookie management - CookiePro,Place for priority stories,,,,,,Rejected
+PP-7503,933256,DTP New feature - Hero image & CTA carousel ,Place for priority stories,,,,,,Rejected
+PP-8634,964007,Configurable query prams to retain on refresh or logo click,GPSS Sprint 22,,,,,2,Closed
+PP-8641,964025,Background Job : Apply Google API functionality for google calls,GPSS Sprint 22,,,,,3,Closed
+PP-6777,900525,special characters in UTM string causing an issue with screener in dtp instance,Place for priority stories,,,,,,Open
+PP-6944,910078,Attribution ID System (implement into COVID - US and AUS),Place for priority stories,,,,,5,Development In Progress
+PP-7196,918646,Need to send 'HoldScheduling' users to LifeLink,Place for priority stories,,,,,,Open
+PP-7409,929515,UAt issue - Display of DOB format on contact page should be configurable in sitecore,Place for priority stories,,,,,,Rejected
+PP-6746,896863,AZMCL Job issues in Production,Place for priority stories,,,,,,Rejected
+PP-396,443323,Uk Content Development in site core,,,,,,,Rejected
+PP-400,443337,ZinGistry website error,,,,,,,Rejected
+PP-212,401220,Plegridy - HCP SMS content update,,,,,,,Rejected
+PP-298,419206,Bug Fixing,,,,,,,Rejected
+PP-269,413710,Mesoblast CASCADE - update to screener,,,,,,,Rejected
+PP-262,408004,Emerge/Engage - Update to Screener Logic,,,,,,,Rejected
+PP-7793,940497,400 issue during GetPatientbyEmailId call,,,,,,,Rejected
+PP-6776,900524,addition of special characters in UTM parameter string breaks LL (LL to resolve),Place for priority stories,,,,,3,Open
+PP-6714,894342,New DTP enhancements relating to Appointment Scheduling process,Place for priority stories,,,,,,Development Complete
+PP-6684,893396,DtP platform - processing subjects with identical email address,Place for priority stories,,,,,,Open
+PP-6505,884729,"[DTP 1.6]: Sync - PRD, SVT and DEV",Place for priority stories,,,,,3,Rejected
+PP-6504,884727,"[DTP 1.4.2 - Covid 19 AU]: Sync - PRD, SVT and DEV",Place for priority stories,,,,,3,Rejected
+PP-6503,884726,"[DTP 1.4.2 - Covid 19 US]: Sync - PRD, SVT and DEV",Place for priority stories,,,,,3,Rejected
+PP-7426,930755,"Amgen - Configure Amgen Instance (scripts, db's, super-user interface, etc.)",Place for priority stories,,,,,3,Rejected
+PP-6868,904527,"New 'outer radius' site limit to increase number of users assigned to a site, plus mitigate any client-side problems",Place for priority stories,,,,,,Open
+PP-7445,932028,Green Memory DtP SVT findings,,,,,,,Rejected
+PP-7957,946269,Sitecore Languages in Content Editor,GPSS Sprint 21,,,,,,Development Complete
+PP-5702,861918,Regression testing for AZMCL 2.2,,,,,,,Rejected
+PP-5329,853069,Profiling recommendations ,Place for priority stories,,,,,,Rejected
+PP-5427,855856,UTM Parameters should get retain in URL when user access/clicks the portal logo and header navigation links from all different forms,,,,,,,Rejected
+PP-5298,852381,Display alerts are not working when the page gets refreshed,,,,,,,Rejected
+PP-5299,852393,Contact Info Page getting refreshed during the redirection after screener completion,,,,,,,Rejected
+PP-7452,932113,AZ Stormchaser DtP 1.0: UK instance SVT findings,,,,,,,Rejected
+PP-7451,932111,AZ Stormchaser DtP 1.0: US instance SVT findings,,,,,,,Rejected
+PP-7446,932040,AZ Provent (Covid) DTP 1.0 US version SVT findings,,,,,,,Rejected
+PP-7449,932106,AZ Provent DTP - create instance(s),,,,,,,Rejected
+PP-6334,880265,Technical Story : DTP 1.6 : Enable CDC for tables in PiiDatabase,GPSS Sprint 10,,,,,3,Rejected
+PP-6201,876817,User is opted out of functional cookies until they opt in to accept them,GPSS Sprint 10,,,,,3,Rejected
+PP-5921,866212,URL redirects from Thank you pages    (Implement into DTP 1.6),GPSS Sprint 7,,,,,5,Closed
+PP-6829,903130,Specific Emails to be sent dependent upon Appointment Status,,,,,,,Rejected
+PP-7558,934018,Janssen Ensemble - South Africa - Zulu language issues,,,,,,,Rejected
+PP-5019,838766,OTSUKA ANCHOR - UAT parent ticket,,,,,,,Rejected
+PP-5124,845018,EPM-REM - Apply Cache settings on the identified resources - Part 1,,,,,,,Rejected
+PP-5180,848887,EPM-REM - Update front-end code with focus on quick wins.,,,,,,,Rejected
+PP-5146,846333, EPM-REM - Solr Search SVT,,,,,,,Rejected
+PP-5069,843120,EPM-REM - Upgrade Sitecore search to use Solr,,,,,,,Rejected
+PP-5145,846332,EPM-REM - Solr Search test design,,,,,,,Rejected
+PP-714,541419,HECEXP16 for the Month of  December,,,,,,,Rejected
+PP-601,518055,HECEXP16 for the Month of September,,,,,,,Rejected
+PP-596,513683,HECEXP16 for the Month of September,,,,,,,Rejected
+PP-595,513682,HECEXP16 for the Month of September,,,,,,,Rejected
+PP-589,500743,HECEXP16 related tasks for the Month of August,,,,,,,Rejected
+PP-588,500742,HECEXP16 related tasks for the Month of Augst,,,,,,,Rejected
+PP-587,500740,HECEXP16 related tasks for the Month of July,,,,,,,Rejected
+PP-582,499069,HECEXP16 related tasks for the Month of July,,,,,,,Rejected
+PP-523,478991,SVT : TecGistry Enail/SMS templates update to SiteCore,,,,,,,Rejected
+PP-573,494047,Tecgistry-Canada Bug Fixing in Formal Testing,,,,,,,Rejected
+PP-450,465153,Tecgistry Email and SMS templates Moving to Site core,,,,,,,Rejected
+PP-564,483157,Tecgistry  Canada :Welcome SMS is not received informal testing,,,,,,,Rejected
+PP-566,488848,Tecgistry USA HCP View Changes for DB script,,,,,,,Rejected
+PP-1919,645285,Tecgistry - notification email to QCC user,,,,,,,Rejected
+PP-402,443835,Tecgistry USA: Email Review Amends,,,,,,,Rejected
+PP-410,450646,Tecgistry USA: Email Amendment review Comments ,,,,,,,Rejected
+PP-372,441821,Tecgistry USA :HCP Password Reset Page Footer code Change,,,,,,,Rejected
+PP-371,441820,Tecgistry USA:ISI Content update for Missing Text,,,,,,,Rejected
+PP-373,441822,"Tecgistry USA	:Revised footer codes For email Templates",,,,,,,Rejected
+PP-370,441819,Tecgistry USA :Home Page and About tecfidra Content Update,,,,,,,Rejected
+PP-369,441818,Tecgistry USA : ISI Page Updation In Patient View,,,,,,,Rejected
+PP-368,441817,Tecgistry USA :ISI Page upation Request For HCP View,,,,,,,Rejected
+PP-367,441816,Tecgistry USA Footer Amends,,,,,,,Rejected
+PP-4918,826874,Stoke MONARCH - RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Rejected
+PP-4917,826872,Stoke MONARCH - UAT Parent Ticket,,,,,,,Rejected
+PP-6853,904281, Qualsys Scan Report (cloned from Janssen Ensemble),,,,,,5,Development Complete
+PP-6859,904318,DARM findings from Janssen Ensemble need to be applied to Janssen Ensemble,,,,,,,Rejected
+PP-6209,876843,Janssen MDD DtP- PS team - Publicly accessibly pre-prod URL required,,,,,,,Rejected
+PP-6510,885018,Google Autocomplete 'Places API' on Contact Form,Place for priority stories,,,,,3,Rejected
+PP-6867,904526,Change button text on site selection based on eligibility statuses,Place for priority stories,,,,,,Rejected
+PP-4841,810798,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Rejected
+PP-6402,881585,Email and SMS reporting tabs are not opening in Sitecore,,,,,,,Rejected
+PP-4837,810792,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Rejected
+PP-4831,809252,Remove Screener,,,,,,,Rejected
+PP-4692,791222,PDF nav link to be directly hyperlinked to Tecfidera.com,,,,,,,Rejected
+PP-4616,781233,Enforce expected behaviour for privacy opt in where user is registered by CC,,,,,,,Rejected
+PP-3347,702935,CFR part 11 compliance review,,,,,,,Rejected
+PP-3314,700758,GDPR compliance,,,,,,,Rejected
+PP-6890,907078,Referral API performance improvements,Place for priority stories,,,,,,Rejected
+PP-6197,876811,"The DtP instance should have the capability to support 5,000 concurrent users (infrastructure team)",,,,,,,Rejected
+PP-7395,928875,DTP Base Platform - Font change from 'Muli' to 'Noto Sans' to fix 'y Y' issue,Place for priority stories,,,,,,Open
+PP-167,368656,Homepage content AB testing implementation,,,,,,,Rejected
+PP-4757,800372,Need to update both the  PII db and Mongo db at the same time,,,,,,,Rejected
+PP-4681,789812,Load Balancing of Trial Intent,,,,,,,Rejected
+PP-4392,757110,PP portals optimization for issue related to CPU and memory utilization on servers,,,,,,,Rejected
+PP-4286,749626,Automate Emails when ePR referrals rejected by Salesforce,,,,,,,Open
+PP-4529,773292,Configure page to host 'About Clinical Trial' animation,,,,,,,Rejected
+PP-4202,742899,SurveyGizmo questionnaire pulled into ePR via iFrame,,,,,,,Rejected
+PP-4535,775636,Sitecore CMS platform improvements (not as relevant as it was as we're moving to Sitecore 10),,,,,,,Rejected
+PP-3839,726500,Respivant Scenic - expected 'medeor mercury' instance behaviour is observed,,,,,,,Rejected
+PP-3747,721856,"Retrophin DUPLEX ""Contact Me"" button not working in SVT on Contact-info page en-GB",,,,,,,Rejected
+PP-3805,726007,Learning Corp VCT - referral registration form,,,,,,,Rejected
+PP-3804,726005,Learning Corp VCT - customisation of ‘Study Periods’ section,,,,,,,Rejected
+PP-3803,726003,Learning Corp VCT - UAT feedback,,,,,,,Rejected
+PP-3801,726001,Learning Corp VCT - Referrals to be directed to Referral Hub,,,,,,,Rejected
+PP-3800,726000,Learning Corp VCT - Configuration of survey,,,,,,,Rejected
+PP-3799,725999,Learning Corp VCT - add content to instance,,,,,,,Rejected
+PP-3322,702164,Cookie solution per country (review in req grooming),,,,,,,Rejected
+PP-3232,693157,CR.Com - Add Twitter Card capability on the HealthDay articles ,,,,,,,Rejected
+PP-3083,680343,Jazz Chords - Content and Config,,,,,,,Rejected
+PP-3216,691596,Account activation page - payment details page content addition,,,,,,,Development Complete
+PP-2930,675469,UAT Defects Nov 27-30,,,,,,,Rejected
+PP-2590,659216,IQVIA clincial team user - site profile page - addition of bread crumb link ,,,,,,,Rejected
+PP-2895,670651,UAT Feedback - Trial Intent Patch release,,,,,,,Rejected
+PP-2591,659231,IQVIA clinical team user - site profile page - add email link to study staff,,,,,,,Rejected
+PP-2558,655441,"User Migration Rules [27th Sept, 'EmailPreferred' update]",,,,,,,Rejected
+PP-2530,654323,"CR.com Sitecore Contact List & Segmentation, Connection to MongoDB",,,,,,,Rejected
+PP-2588,658834,NEO Engagement Plan not advancing on Referral Therapeutic Signups,,,,,,,Rejected
+PP-2562,655938,Set up Medeor Mercury ePR website on new domain and permanently redirect traffic from old domain,,,,,,,Rejected
+PP-2674,661481,amends to epr referral data pushed to CRCP,,,,,,,Rejected
+PP-2261,651890,Post Production defects,,,,,,,Rejected
+PP-2272,652453,Amend to export to rocket referral platform,,,,,,,Rejected
+PP-2598,659684,Eiger D-LIVR - Add branding to ePR instance,,,,,,,Rejected
+PP-2602,659694,Eiger D-LIVR - Create/Configure CTMS incoming feed,,,,,,,Rejected
+PP-2607,659728,Eiger D-LIVR - UAT,,,,,,,Rejected
+PP-2827,666410,Jazz Chords - IP geolocation is implemented,,,,,,,Rejected
+PP-2821,666296,Jazz Chords - UAT feedback,,,,,,,Rejected
+PP-2820,666288,Jazz Chords - create & publish build using CI/CD,,,,,,,Rejected
+PP-2819,666287,Jazz Chords - configure CTMS data,,,,,,,Rejected
+PP-688,536509,As a visitor I should be able to see study sites for a trial on a map (Google Maps API),,,,,,,Rejected
+PP-686,536507,CR.Com should be able to show trials from CTMS,,,,,,,Rejected
+PP-694,536515,Technical Email Solution - need to be able to send emails & capture analytics,,,,,,,Rejected
+PP-938,563234,Documentation for CET manual,,,,,,0,Rejected
+PP-937,563233,Deployment of CR.com Iteration1,,,,,,0,Rejected
+PP-2041,649362,Dropdown menu behavior,,,,,,,Rejected
+PP-6732,895510,DtP platform - site selection page - 'no site convenient' link toggled and content managed,Place for priority stories,,,,,,Rejected
+PP-7186,918020,DtP - consolidated return URL and age range triggers for LL status,,,,,,,Development In Progress
+PP-6945,910171,Flag for different age values between survey and contact form,,,,,,,Open
+PP-7383,927552,DTP ACOE integration ,Place for priority stories,,,,,,Open
+PP-4599,779420,Standardize the saving of ZIP Code and Phone Numbers in our db,,,,,,,Development In Progress
+PP-7608,934547,All Janssen / AZ / Generic Covid Studies - process to associate no site available status referrals to new sites added to Sitecore,GPSS Sprint 17,GPSS Sprint 19,GPSS Sprint 18,,,8,Closed
+PP-6596,890098,CR.com email rules and workflow,,,,,,,Rejected
+PP-6690,893604,List and campaign creation in cr.com (for RITM sprint?),Place for priority stories,,,,,,Rejected
+PP-6892,907193,CR.com CMS field to limit total number of articles displayed on site,Place for priority stories,,,,,,Rejected
+PP-925,558829,Content Upload into SItecore for CR.com,,,,,,,Closed
+PP-1005,574950,NFR's cr.com   Non-Functional Requirements,,,,,,0,Closed
+PP-1369,595453,CR.com UAT Feedback,,,,,,,Closed
+PP-5342,853106,Intermittent outage of CR.com Website ,RITM / INC Release Sprint 3,RITM / INC Release Sprint 4,,,,5,Rejected
+PP-5106,844458,Email functionality to be incorporated into CR.com,,,,,,,Rejected
+PP-7401,929146,Move FAQs if Call Centre Number is not present on the header,Place for priority stories,,,,,,Open
+PP-7399,928928,Create instance of Registry Platform for Amgen,GPSS Sprint 18,,,,,3,Closed
+PP-7484,932734,LL status is affected by values in the SG return URL,GPSS Sprint 18,,,,,8,Closed
+PP-7120,916312,Marketing (Precision) - URL to receive parameters and External URL to pass parameters,GPSS Sprint 17,GPSS Sprint 18,,,,5,Closed
+PP-6961,910887,"Amend to PP-6786  (Merge Tags, all inv & protocol table fields)",GPSS Sprint 17,GPSS Sprint 18,,,,3,Closed
+PP-6786,900803,Success Pages - Site details as merge tags to use within Content,GPSS Sprint 12,,,,,,Closed
+PP-7450,932110,AZ Stormchaser (Covid) DtP instance creation,,,,,,,Closed
+PP-7917,943381,Broken image in contact info,,,,,,,Closed
+PP-7751,939070,Plegridy - External links for Prescribing Info & Medication Guide,GPSS Sprint 17,GPSS Sprint 18,,,,,Closed
+PP-6960,910886,DtP amend to PP-6739  (Mobile Phone/SMS consent issue),GPSS Sprint 17,GPSS Sprint 18,,,,3,Closed
+PP-7532,933780,One-time Welcome/Notification Email,GPSS Sprint 17,GPSS Sprint 18,,,,8,Closed
+PP-7855,941967,[C19 Trials] Phone Number modal not redirecting properly,,,,,,,Closed
+PP-7799,940564,GTM script not populated on accepting cookie policy [JansenEnsemble],,,,,,,Closed
+PP-7818,941195,Alzheimer Studies Generic Prescreener,,,,,,,Closed
+PP-7101,916071,Performance Issue and Referral API changes,GPSS Sprint 14,,,,,3,Development Complete
+PP-7670,936888,Ensemble European sites cookie placement (temporary cookie management solution),GPSS Sprint 17,,,,,3,Closed
+PP-7448,932105,Green Memory DTP - create instance,,,,,,,Closed
+PP-5923,866217,Updates to patient record where admin interface used to prompt welcome/forgot password email,GPSS Sprint 7,,,,,3,Closed
+PP-5240,851143,AZ MCL: patient survey about website usability (in stakeholder review),,,,,,,Rejected
+PP-7495,932963,https://www.ensemblestudy.com/#discover-if-you-qualify is not redirecting to “discover-if-you-qualify” section automatically ,GPSS Sprint 16,,,,,,Closed
+PP-4429,760723,'Prescribing Information' and 'Patient Information/Medication Guide' - link to external PDF's,,,,,,,Closed
+PP-7121,916316,DtP - LL status directed by ethinicity value in screener callback URL,Place for priority stories,,,,,,Rejected
+PP-7103,916077,Prod issue - AZ COVID,RITM / INC Release Sprint 22,,,,,,Closed
+PP-7104,916078,Prod Issue - When Screener Status is Pass:,RITM / INC Release Sprint 22,,,,,,Closed
+PP-7496,932964,First letter capital in Country Name,GPSS Sprint 16,,,,,,Closed
+PP-6955,910764,MS trial Mongo DB Issue,RITM / INC Release Sprint 20,,,,,,Development In Progress
+PP-7328,924195,Extension of quarterly response window,,,,,,,Closed
+PP-7438,931034,SVT-Retrophin Duplex- Australia Issues,,,,,,,Development In Progress
+PP-7404,929507,UAT issue - Miles to Km’s conversion logic need to be implemented,Place for priority stories,,,,,,Open
+PP-7493,932846,Marketing - future-proofing External URL to pass parameters,Place for priority stories,,,,,,Open
+PP-6879,905493,UAT Feedback,,,,,,,Closed
+PP-6090,873511,AbbVie - SVT/Dev Germany Language Setup,GPSS Sprint 9,,,,,3,Closed
+PP-6062,872998,Abbvie Testing,,,,,,,Closed
+PP-7273,922656,pn value (call centre number) to come from url or default in Sitecore / Merge Tag - SPILLOVER,,,,,,,Closed
+PP-7357,925393,Scan Report - Staging URL for IQVIA ; DARM ID: 2020-7140 // Janssen MDD/OARS Program // DARM Vulnerabilities Found,,,,,,,Closed
+PP-7408,929514,UAt issue - Country/Language drop down on homepage in corresponding languages,,,,,,,Closed
+PP-7406,929509,UAT issue - Contact Page - State drop down labels in corresponding languages,,,,,,,Closed
+PP-7405,929508,UAT issue - Pn[Phone number] Format,,,,,,,Closed
+PP-7403,929506,UAT - vi US - background map showing in English,,,,,,,Closed
+PP-7435,931030,SVT-Retrophin Duplex- France Issues,,,,,,,Development In Progress
+PP-7411,929517,UAT issue - Redirection as per country IP+Browser language,Place for priority stories,,,,,,Development In Progress
+PP-7412,929520,UAT issue - psecID and sID parameters are getting added in the URL when user select other languages and copy URL on browser,GPSS Sprint 15,,,,,,Closed
+PP-7410,929516,UAT issue - Redirection as per country IP,Place for priority stories,,,,,,Open
+PP-7380,927351,SVT : Argentina Issues,GPSS Sprint 15,,,,,,Closed
+PP-7402,929505,"UAT issue - US VI – RH is not accepting when first name, last name and email address in Vietnamese language",GPSS Sprint 15,,,,,,Rejected
+PP-7396,928891,CR.com - If 'Muli' font is being used then change this to 'Noto Sans' to fix 'y Y' issue,,,,,,,Open
+PP-7398,928909,Registry Platform - If 'Muli' font is being used then change this to 'Noto Sans' to fix 'y Y' issue,Place for priority stories,,,,,,Open
+PP-7335,924706,SVT Janssen Ensemble - Peru Issues,GPSS Sprint 15,,,,,,Closed
+PP-7326,924135,"Launch ENSEMBLE Argentina, Chile, Peru, Colombia and Spanish",GPSS Sprint 15,,,,,,Closed
+PP-7356,925379,Janssen MultiLanguage- Fixes for Flag and Dailing code,GPSS Sprint 15,,,,,,Closed
+PP-7336,924710,SVT Janssen Ensemble : Colombia Issues,GPSS Sprint 15,,,,,,Closed
+PP-7333,924704,SVT Janssen Ensemble - Chile Issues,GPSS Sprint 15,,,,,,Closed
+PP-7332,924341,Country Flag icons on contact Form to be Sitecore config driven,GPSS Sprint 15,,,,,,Closed
+PP-7245,921932,Google Re-captcha - Multi Language,GPSS Sprint 15,,,,,,Closed
+PP-7017,912183,Vitenam Ensemble SVT issues,GPSS Sprint 15,,,,,2,Closed
+PP-6998,912162,Spanish Ensemble SVT issues,GPSS Sprint 15,,,,,2,Closed
+PP-7099,916038,Janssen - Multi Language Defect fixes and Testing,GPSS Sprint 15,,,,,3,Closed
+PP-6071,873235, Site selection display based on value in URL query string,,,,,,,Rejected
+PP-7382,927438,ACOE - Estimates for Landing page and success page alteration.,Place for priority stories,,,,,,Open
+PP-6157,876663,POC - To understand and estimate Human API integration,RITM / INC Release Sprint 8,,,,,1,Closed
+PP-7054,912389,Janssen Ensemble - Country configurations / settings,GPSS Sprint 13,GPSS Sprint 14,,,,3,Closed
+PP-7246,922115,Abbvie/Roche Job issue,,,,,,,Closed
+PP-7100,916067,To unshare “Tenant Key” field so that we will have unique key for each website.,RITM / INC Release Sprint 22,,,,,,Closed
+PP-7164,917401,Configure Background Integration job for all 4 newly added languages on Janssen portal,RITM / INC Release Sprint 22,,,,,,Closed
+PP-7131,916621,DtP - Additional information to be sent to RH,GPSS Sprint 14,,,,,,Closed
+PP-7033,912214,"DtP - indicate specific site, protocol based on URL variables and values",GPSS Sprint 14,,,,,8,Closed
+PP-6753,897449,"Call Center Number shown on pages to be Merge Tags, LL to show the same dynamic number",GPSS Sprint 14,,,,,5,Closed
+PP-6606,890767,http headers x-content type options,Place for priority stories,,,,,1,Rejected
+PP-7080,913879,Mountain Daylight Time (MDT) TimeZone handling in Production.,RITM / INC Release Sprint 22,,,,,,Closed
+PP-6894,907600,Vulnerability scan report for Janssen ,RITM / INC Release Sprint 19,,,,,,Rejected
+PP-6977,911431,"To change the field name of ShowContactMediumFields in all 3 contact forms Adult, care giver and Minor Guardian.",,,,,,,Closed
+PP-7197,919296,PRDB – SFMC issue -> EPR Appointment Status is missing.,RITM / INC Release Sprint 22,,,,,,Closed
+PP-6962,910888,"DtP - user 'stuck' on contact form, handling multiple submission of contact form",GPSS Sprint 14,,,,,3,Closed
+PP-7221,920999,LifeLink enabled but want to bypass LifeLink appointment scheduling and set the Appointment Status to 'Not Initiated',,,,,,,Open
+PP-7102,916074,Abbvie/Roche and IP defect fixes,GPSS Sprint 14,,,,,3,Closed
+PP-7205,919615,DNQ user with Holdscheduling status,,,,,,,Open
+PP-7090,915365,Autism Studies - Contact Form Issue,RITM / INC Release Sprint 22,,,,,,Closed
+PP-6828,903051,"Disposition status - ""HoldScheduling"", Setting of Age Range to bypass LL or not",GPSS Sprint 12,,,,,,Closed
+PP-6893,907327,"Ability to configure ""HoldScheduling"" age range on a per protocol level",GPSS Sprint 14,,,,,5,Rejected
+PP-7135,916700,"Prod Issue - Fix for issue in Covid AU – Date of Birth format, to be sent to RH ",RITM / INC Release Sprint 21,,,,,,Closed
+PP-6831,903137,URL External Links to contain variable parameters,GPSS Sprint 14,,,,,5,Rejected
+PP-7093,915382,Publish event : to save email and sms content to DB,RITM / INC Release Sprint 20,,,,,,Open
+PP-6081,873347,Attribution ID System (implement into all existing live DTP's & DTP 1.1 platform),GPSS Sprint 13,,,,,3,Closed
+PP-6891,907079,Sitecore change to support additional languages,,,,,,,Closed
+PP-6871,905331,"""About Orilissa"" page and ""Important safety Information"" page",,,,,,,Closed
+PP-6996,911891,MS Trial - PROD Issue - ScreenerStatus saving as PASS for DNQ flow,RITM / INC Release Sprint 19,,,,,,Closed
+PP-6968,911231,Encrypt connection string in all Sitecore Instance,RITM / INC Release Sprint 19,,,,,,Closed
+PP-6997,912060,Need confirmation on POST URL & redirection URL for Janssen Ensemble,RITM / INC Release Sprint 19,,,,,,Rejected
+PP-6932,909865,Requests to assign Inv Sites for COVIDSHIELD Australia PROD to referrals with Abandoned and No-site-convenient status,RITM / INC Release Sprint 19,,,,,3,Closed
+PP-6956,910766,GPSS sites Down Log Analysis.,RITM / INC Release Sprint 19,,,,,,Closed
+PP-6987,911747,COVID SHIELD - Postcode Problem,RITM / INC Release Sprint 19,,,,,,Closed
+PP-6889,905821,"MVP for PP-6738 force specific site, protocol based on URL variables and values",RITM / INC Release Sprint 19,,,,,3,Rejected
+PP-6738,895533,"DtP platform  - force specific site, protocol based on URL variables and values",Place for priority stories,,,,,,Rejected
+PP-4437,762104,Admin capability to reset user password,,,,,,,Closed
+PP-6739,895586,DTP platform - SMS opt-in flag prior to mobile number being transferred to LifeLink  -backend,GPSS Sprint 11,,,,,3,Closed
+PP-6546,886923,Addition of CMS editable banner (platform level),RITM / INC Release Sprint 17,,,,,,Closed
+PP-6862,904443,Version of Success Page shown to user to be based on Appointment Scheduling scenario,GPSS Sprint 12,,,,,,Closed
+PP-6845,903727,Defect Fixes and Testing,GPSS Sprint 12,,,,,,Closed
+PP-6846,903728,AbbVie Defect fixes and Testing,GPSS Sprint 12,,,,,,Closed
+PP-6946,910254,UI grid changes for Success Page,GPSS Sprint 12,,,,,,Closed
+PP-6768,898924,UI changes for Abbvie Bloom,,,,,,,Closed
+PP-6847,903870,Abbvie (BLOOM) specific mailboxes,GPSS Sprint 12,,,,,,Closed
+PP-6866,904496,Emails to be sent to user based on Appointment Status values,,,,,,,Rejected
+PP-6207,876838,Janssen MDD DtP - inclusion of legal notice and cookie policy pages to instance (initial analysis needed by test team to confirm functionality is present),,,,,,,Closed
+PP-6208,876842,Janssen MDD DtP - cookie opt in banner for functional cookies (initial analysis needed by test team to confirm functionality is present),,,,,,,Closed
+PP-6865,904493,Health Day Article - ClinicalResearch.com,,,,,,,Rejected
+PP-6852,903986,Janssen Issue with Zipcode,GPSS Sprint 12,,,,,,Closed
+PP-6291,878353,Dev team - addition of invisible Captcha to patient contact information form,GPSS Sprint 9,,,,,2,Closed
+PP-6770,899844,DTP 1.6 - Qualsys Scan Report,GPSS Sprint 11,,,,,5,Closed
+PP-6405,881634,LifeLink integration  [STUDY SPECIFIC & GENERIC],GPSS Sprint 11,,,,,3,Closed
+PP-6785,900691,Janssen portal Testing (UI/UX/Screener/Regression),GPSS Sprint 11,,,,,,Closed
+PP-6772,900370,DTP - Need to cater for new status siteNotFoundinLL,GPSS Sprint 11,,,,,3,Closed
+PP-6769,899449,default opt in for automated calls,GPSS Sprint 11,,,,,3,Closed
+PP-6612,891030,CI/CD - Sitecore Package Generator,GPSS Sprint 11,,,,,,Closed
+PP-6199,876814,Cookie opt in banner for functional cookies ,GPSS Sprint 11,,,,,3,Closed
+PP-6821,902666,Magic Link URL to be captured from LL and saved,,,,,,,Open
+PP-6766,898831,"User Opt-In to be saved in Db,  Config or Code Fix?",Place for priority stories,,,,,,Rejected
+PP-6797,901769,Lifelink Integration - To use Referral ID instead of Record ID,GPSS Sprint 11,,,,,,Closed
+PP-6761,898193,"Do not show cookie banner, set all cookies, essential and non-essential",GPSS Sprint 11,,,,,,Closed
+PP-6708,894227,Amends to HW integration further to fix at HW end,GPSS Sprint 11,,,,,,Closed
+PP-6668,893127,ePR Background Job to send data to LL and RH for abandoned users,GPSS Sprint 11,,,,,5,Closed
+PP-6820,902638,New subjectStatus 'noSlotsAvailableForSubject' to be passed from LifeLink,,,,,,,Open
+PP-6819,902619,"If 'SiteDirectedSchedule',  version of Success Page to show to be CMS configurable",,,,,,,Open
+PP-6660,893041, Issue with segmentation list,RITM / INC Release Sprint 15,,,,,3,Closed
+PP-6778,900665,ATID Fix for production,RITM / INC Release Sprint 15,,,,,2,Closed
+PP-1177,590041,Medeor Mercury - UAT feedback,,,,,,,Rejected
+PP-423,454671,Bounceback report,,,,,,,Rejected
+PP-422,454669,Summary of stats per instance,,,,,,,Rejected
+PP-420,454187,Solution does not duplicate identified google analytics functions,,,,,,,Rejected
+PP-419,454152,Interface to view CRM data on per instance basis,,,,,,,Rejected
+PP-418,454010,SMS metrics by SMS 'template',,,,,,,Rejected
+PP-417,454009,User level SMS metrics,,,,,,,Rejected
+PP-416,454008,Email template metrics report,,,,,,,Rejected
+PP-414,451664,User level email metrics report,,,,,,,Rejected
+PP-413,451658,Correspondence templates to be configured with appropriate tagging to enable metrics,,,,,,,Rejected
+PP-412,451657,Nominated users can view CRM metrics report data,,,,,,,Rejected
+PP-125,353532,Geo-IP configuration to support additional language variants,,,,,,,Rejected
+PP-126,353560,Ability to choose language in which site is displayed to me,,,,,,,Rejected
+PP-130,351647,French language version of site,,,,,,,Rejected
+PP-127,351650,German language version of site,,,,,,,Rejected
+PP-128,351649,Spanish language version of site,,,,,,,Rejected
+PP-129,351648,Italian language version of site,,,,,,,Rejected
+PP-273,413726,DARM Review - Change request,,,,,,,Rejected
+PP-47,325405,21 CFR Part 11 Requirements for Patient Portal,,,,,,,Rejected
+PP-1916,645257,GER003 TO TEST - German Patient Reg: Welcome SMS,GPSS Sprint 10,,,,,1,Closed
+PP-1915,645256,GER002 TO TEST - German Patient Reg: Welcome Email,GPSS Sprint 10,,,,,1,Closed
+PP-6614,891035,Technical story - Security Assessment Findings - Out of date JS Library Updates,GPSS Sprint 10,,,,,3,Closed
+PP-6200,876816,Janssen Ensemble (Covid19) - Publicly accessibly pre-prod URL required (PS team),GPSS Sprint 10,,,,,3,Closed
+PP-6198,876812,Janssen Ensemble (Covid19) - inclusion of legal notice and cookie policy pages to instance (initial analysis needed by test team to confirm functionality is present),GPSS Sprint 10,,,,,3,Closed
+PP-6771,900366,Qualsys scan remediation,Place for priority stories,,,,,,Rejected
+PP-5243,851169,Display alerts are not working when the page gets refreshed,,,,,,,Closed
+PP-6616,891049,Abbvie Testing and Defect Fixes,GPSS Sprint 10,,,,,5,Closed
+PP-6615,891048,DTP 1.6 Testing and Defect fixes ,GPSS Sprint 10,,,,,3,Closed
+PP-6602,890222,Site Selection Success Changes for LifeLink Integration,GPSS Sprint 10,,,,,3,Closed
+PP-1917,645258,GER004 TO TEST - German Patient Reg: Daily Email Notification to QCC users informing of recent registrations,GPSS Sprint 10,,,,,2,Closed
+PP-1914,645255,GER001 TO TEST - German Patient Reg: Registration Confirmation Email,GPSS Sprint 10,,,,,2,Closed
+PP-6502,884725,"[DTP 1.1]: Sync - PRD, SVT and DEV",GPSS Sprint 10,,,,,3,Closed
+PP-6607,890769,Sonar Qube - Security Vulnerabilities findinds,GPSS Sprint 10,,,,,3,Closed
+PP-6613,891034,CI/CD - Sitecore Deployment tools,GPSS Sprint 10,,,,,,Closed
+PP-6601,890221,RH Integration work,GPSS Sprint 10,,,,,3,Closed
+PP-6624,891365,LifeLink Integration - Config & Technical Solution,GPSS Sprint 10,,,,,,Closed
+PP-6635,891997,Account Activation Job is failing for patients those who got deactivated their account in registered phase,GPSS Sprint 10,,,,,,Closed
+PP-6622,891329,TDA  - DTP n Janssen/Lifelink,GPSS Sprint 10,,,,,5,Closed
+PP-6584,889865,LifeLink Integration ,GPSS Sprint 10,,,,,5,Closed
+PP-6583,889863,DTP Contact Form Mobile Phone Number - Rework,GPSS Sprint 10,,,,,3,Closed
+PP-6486,884222,"To show appointment details on site selection success page, based on LifeLink Integration switch",GPSS Sprint 10,,,,,3,Closed
+PP-6735,895527,DTP platform - Breakdown contact displays as individual item to be displayed instead of grouping them together ,Place for priority stories,,,,,,Rejected
+PP-6633,891912,"LifeLink not responded, Email to send to Patient",,,,,,,Open
+PP-5920,866205,AZ MCL - emails not triggering consistently in production,,,,,,8,Closed
+PP-6683,893370,[DTP]1.6- Merge: Encrypt Survey Response in DTP 1.6,RITM / INC Release Sprint 14,,,,,2,Closed
+PP-6682,893369,[DTP]1.6- Merge: Security Headers in DTP 1.6,RITM / INC Release Sprint 14,,,,,2,Closed
+PP-6506,884730,[DTP1.1] - Contact lock issue on Mongo DB - Apply same changes as DTP 1.6,RITM / INC Release Sprint 14,,,,,2,Closed
+PP-6212,876849,Janssen MDD DtP - User is opted out of functional cookies until they opt in to accept them (initial analysis needed by test team to confirm functionality currently in place),Place for priority stories,,,,,,Rejected
+PP-6511,885420,[DTP1.1] - To pass non cache header to F5 (Separating PP-6392 for DTP1.1),,,,,,,Testing In Progress
+PP-5935,867167,batch processing of hyperwallet requests via REST API,GPSS Sprint 6,,,,,8,Development Complete
+PP-6281,877638,Jansen - Implementation,GPSS Sprint 8,,,,,3,Rejected
+PP-5697,861717,AZ MCL Master Subject Report email triggering issues,,,,,,,Development Complete
+PP-6599,890200,Request Headers for SEO - If-Modified,RITM / INC Release Sprint 13,,,,,,Closed
+PP-6550,887644,.Net Upgrade and Testing - DARM Review,RITM / INC Release Sprint 13,,,,,5,Closed
+PP-4544,775652,Amends to user flow/forms further to legal/privacy feedback,,,,,,,Closed
+PP-6605,890698,ePR Page Load Performance,Place for priority stories,,,,,3,Open
+PP-6492,884285,DTP 1.6 Defect Fixes and Testing,GPSS Sprint 9,,,,,2,Closed
+PP-6260,877353,No items in Timezone and Preferred Language dropdown on Reg form,GPSS Sprint 9,,,,,2,Closed
+PP-6210,876844,Pre-select all Security Questions in 3-Step-Process,GPSS Sprint 9,,,,,2,Closed
+PP-6491,884284,Roche Defect Fixes and Testing,GPSS Sprint 9,,,,,3,Closed
+PP-6481,884206,Site Selection UI Changes for Lifelink intgerations – UI ,GPSS Sprint 9,,,,,3,Closed
+PP-6494,884296,Covid Testing,GPSS Sprint 9,,,,,1,Closed
+PP-6295,879186,Qualsys vulnerability report - fixes required (development team),GPSS Sprint 9,,,,,3,Closed
+PP-5931,866685,Combine pediatric protocol user flow with multi-trial screener,GPSS Sprint 9,,,,,5,Closed
+PP-6585,889869,Google Captcha,,,,,,,Rejected
+PP-6577,888953,Tecgistry CCA,RITM / INC Release Sprint 12,,,,,,Closed
+PP-6571,887797,Deploying POST API method publicly,GPSS Sprint 9,,,,,,Development Complete
+PP-6501,884723,[Covid 19 -US] : Coordinating with F5 Team to apply secure cookie and other security headers,RITM / INC Release Sprint 12,,,,,,Closed
+PP-6500,884722,[DTP 1.1] : Coordinating with F5 Team to apply secure cookie and other security headers,RITM / INC Release Sprint 12,,,,,,Closed
+PP-6516,885633,Addition of banner to instance,RITM / INC Release Sprint 11,,,,,,Closed
+PP-6499,884720,[Covid 19 -US ] : Securing Survey Response,RITM / INC Release Sprint 11,,,,,3,Closed
+PP-6223,877129,[CM] : Issue in Sitecore CM server,RITM / INC Release Sprint 11,,,,,,Closed
+PP-6339,880477,"Submissions from the instance should go study hub, not referral hub",,,,,,,Rejected
+PP-6544,886911,We need the PP portals to work with Restricted Google API Key,,,,,,,Open
+PP-6338,880463,Add Hyperwallet disclaimer text to payment information pages,GPSS Sprint 8,,,,,,Closed
+PP-6286,877952,Technical Story - CI/CD - Code Review Tools,GPSS Sprint 8,,,,,3,Closed
+PP-6276,877633,Documentation,GPSS Sprint 8,,,,,3,Rejected
+PP-6275,877632,Defect Fixing and Testing for Abbvie,GPSS Sprint 8,,,,,3,Closed
+PP-4493,764613,expected mapping of address selected via google maps api to our database,,,,,,,Closed
+PP-6306,879561,AZ MCL - Testing stories,GPSS Sprint 8,,,,,,Closed
+PP-6277,877634,Defect Fixing and Testing - AZ,GPSS Sprint 8,,,,,3,Closed
+PP-6082,873357,Pediatric and Non-Pediatric Contact Forms to be combined into one ,GPSS Sprint 8,,,,,5,Closed
+PP-6307,879562,DTP 1.6  and Roche 1.1 Testing,GPSS Sprint 8,,,,,,Closed
+PP-6413,882295,Check how to secure local storage ,RITM / INC Release Sprint 10,,,,,3,Closed
+PP-6421,882440,POC - Update dot-net framework for DTP 1.6,RITM / INC Release Sprint 10,,,,,1,Closed
+PP-5547,857863,Application log need to be consumed by splunk,RITM / INC Release Sprint 10,,,,,2,Closed
+PP-6392,881377,PP-6156 - To pass non cache header to F5 - All portals,RITM / INC Release Sprint 10,,,,,2,Closed
+PP-6480,884198,x.split is not a function error showing while submitting contact form,RITM / INC Release Sprint 10,,,,,,Closed
+PP-6002,870205,Need system to be able to send out 'newsletters' to HCP's and/or QCC's,GPSS Sprint 8,,,,,3,Closed
+PP-5922,866215,Attribution ID System (implement into DTP 1.6),GPSS Sprint 7,,,,,5,Closed
+PP-5241,851145,User account activation reminder currently sent to central IQVIA study team email to be sent to address associated to site,,,,,,,Closed
+PP-6156,876662,POC - To pass non cache header to F5 ,RITM / INC Release Sprint 9,,,,,2,Closed
+PP-6294,878876,Sitecore GEOIP - add logs and handle exception if this service throws an error,RITM / INC Release Sprint 9,,,,,2,Closed
+PP-6391,881376,PP-6008 - After publishing configuration section application pool needs recycled - DTP 1.5,RITM / INC Release Sprint 9,,,,,,Closed
+PP-6390,881375,PP-6008 - After publishing configuration section application pool needs recycled - Otsuka,RITM / INC Release Sprint 9,,,,,,Closed
+PP-5584,858764,CLONE - CHANGE REQUEST 009 - to use SendGrid for email communication,GPSS Sprint 7,,,,,8,Testing In Progress
+PP-5733,862669,Amend processing of IBM eDC data feed and patient status relative to quarterly reminders,GPSS Sprint 7,,,,,3,Closed
+PP-4924,829462,Create Instance of Roche Registry on SVT for AbbVie,GPSS Sprint 7,,,,,,Closed
+PP-6296,879202,Roche 1.1 - PROD ISSUE - HCP and Patients emails are not getting triggered.  ,GPSS Sprint 7,,,,,,Closed
+PP-6092,873737,Sprint 6 Defect Fixes n Testing,GPSS Sprint 7,,,,,,Closed
+PP-5703,861919,Regression testing for Roche1.1,GPSS Sprint 7,,,,,5,Closed
+PP-5141,846310,Hyperwallet reporting,GPSS Sprint 7,,,,,3,Closed
+PP-6158,876664,Segmentation Issue with TherapeuticAreaCondition,RITM / INC Release Sprint 8,,,,,3,Closed
+PP-6267,877570,DTPs & AZ - SSL & Security Setting enhancements - Needed for Jassen Covid Study - Analysis,RITM / INC Release Sprint 8,,,,,,Closed
+PP-6160,876666,Unicorn Set up,RITM / INC Release Sprint 8,,,,,2,Closed
+PP-6147,876505,REAL Review comments update,RITM / INC Release Sprint 8,,,,,1,Closed
+PP-6048,872371,CI-CD Analysis,RITM / INC Release Sprint 8,,,,,3,Closed
+PP-6219,877122,Issues with Site Core - Duplicate Articles again,RITM / INC Release Sprint 8,,,,,,Closed
+PP-6159,876665,Segmentation Issue with RegEx Condition,RITM / INC Release Sprint 8,,,,,3,Rejected
+PP-6154,876660,DTP 1.1 - Code change related to Separate Session DB (PP-5573 related),RITM / INC Release Sprint 8,,,,,,Closed
+PP-5600,859123,Merge and configure - CR.Com,EPAM Work,,,,,1,Closed
+PP-5599,859122,Merge and configure - DTP 1.5,EPAM Work,,,,,3,Closed
+PP-5598,859120,Merge and configure - DTP 1.4.2,EPAM Work,,,,,2,Closed
+PP-5597,859119,Merge and configure - ePR 1.1,EPAM Work,,,,,1,Closed
+PP-5596,859115,Merge and configure - AZMC,EPAM Work,,,,,1,Closed
+PP-5990,869613,Release Documentation Story,GPSS Sprint 6,,,,,,Closed
+PP-6134,876285,Parent Ticket for Business UAT,,,,,,,Closed
+PP-5655,860112,"DATA MIGRATION ROCHE - Identifier of Milestones should be by ID, not by name",,,,,,,Rejected
+PP-5913,865931,Incorporate DOB value from eDC data to patient record,GPSS Sprint 6,,,,,8,Development Complete
+PP-3286,699420,CYPRESS - User is opted out of functional cookies until they opt in to accept them,,,,,,,Closed
+PP-3285,699346,CYPRESS - Publicly accessibly pre-prod URL required,,,,,,,Closed
+PP-3282,698918,CYPRESS - cookie opt in banner for functional cookies,,,,,,,Closed
+PP-3281,698917,CYPRESS - addition of legal notice and cookie policy pages to ePR template,,,,,,,Closed
+PP-6041,871790,CR.com - unexpected data returned in segmentation query,RITM / INC Release Sprint 7,,,,,3,Closed
+PP-6008,870318,After publishing configuration section application pool needs recycled,RITM / INC Release Sprint 7,,,,,3,Closed
+PP-6097,874253,PP-6064 - Indexing Issue on production - Code changes,RITM / INC Release Sprint 7,,,,,5,Closed
+PP-6083,873393,DtP cookie query for sponsor (J&J),RITM / INC Release Sprint 7,,,,,2,Closed
+PP-6091,873637,INC9762005 - SiteCore Publishing Issues continues,RITM / INC Release Sprint 7,,,,,,Closed
+PP-631,535612,Validation,,,,,,,Closed
+PP-630,535465,HECEXP16 for the Month of November,,,,,,,Rejected
+PP-628,531390,HECEXP16 for the Month of November,,,,,,,Rejected
+PP-627,531389,HECEXP16 for the Month of November,,,,,,,Rejected
+PP-626,531388,HECEXP16 for the Month of November,,,,,,,Rejected
+PP-625,531387,HECEXP16 for the Month of November,,,,,,,Rejected
+PP-622,527057,CTMS API integration for site data on ePR platform,,,,,,,Closed
+PP-619,526370,Zingistry Deployment to SVT Build issues,,,,,,,Rejected
+PP-618,526228,HECEXP16 for the Month of October,,,,,,,Rejected
+PP-617,526222,HECEXP16 for the Month of October,,,,,,,Rejected
+PP-616,526206,HECEXP16 for the Month of October,,,,,,,Rejected
+PP-615,526185,HECEXP16 for the Month of October,,,,,,,Rejected
+PP-106,342429,Automated email response to replies to schedule generated retention emails,,,,,,,Closed
+PP-105,342428,Region confirmation opt in,,,,,,,Closed
+PP-96,340185,Add/edit email and/or SMS content,,,,,,,Closed
+PP-95,340184,Create SMS correspondence schedule,,,,,,,Closed
+PP-94,340183,Create email correspondence schedule,,,,,,,Closed
+PP-93,340182,Unsubscribe from further SMS messages,,,,,,,Closed
+PP-92,340181,Unsubscribe from further emails,,,,,,,Closed
+PP-91,340180,Generation of scheduled SMS further to user registration,,,,,,,Closed
+PP-90,340179,Generation of scheduled email further to user registration,,,,,,,Closed
+PP-89,340178,Unsubscribe page,,,,,,,Closed
+PP-88,340177,Thank you page/message,,,,,,,Closed
+PP-87,340176,Registration,,,,,,,Closed
+PP-85,340170,Page footer,,,,,,,Closed
+PP-84,340167,Page Header,,,,,,,Closed
+PP-83,340166,Email template should render successfully in principle mail clients,,,,,,,Closed
+PP-82,340165,Website encryption,,,,,,,Closed
+PP-81,340164,Mobile compatibility,,,,,,,Closed
+PP-80,340163,Browser compatibility,,,,,,,Closed
+PP-79,340162,GA tagging,,,,,,,Closed
+PP-46,325404,Create service to receive patient referral data for PHI database,,,,,,,Rejected
+PP-45,325403,Create service to receive patient referral data in the PII database,,,,,,,Rejected
+PP-48,329583,Enable audit trail for Sitecore,,,,,,,Rejected
+PP-42,325398,Create a PHI Database,,,,,,,Rejected
+PP-44,325401,Integrate the MDM service for master Site Data,,,,,,,Rejected
+PP-43,325399,Replace Survey Gizmo: Integrate QP with Patient Portals for Patient Surveys,,,,,,,Rejected
+PP-41,325397,Web-service: Patient Data,,,,,,,Rejected
+PP-4817,807661,"During 3-step-login process,  browser back button allows entry into the system",GPSS Sprint 5,,,,,3,Closed
+PP-5701,861917,Technical Story - Data migration for PP-4826,GPSS Sprint 5,,,,,3,Closed
+PP-6004,870276,Flexibility in Reminder sending (1-day & 7-day),GPSS Sprint 6,,,,,,Closed
+PP-6003,870209,Number of records to show on a page to be configurable in Sitecore,GPSS Sprint 6,,,,,,Closed
+PP-4170,738750,Google Capture - Verification is difficult to use,GPSS Sprint 5,,,,,3,Closed
+PP-134,358112,Patch to fix cookies issue ,,,,,,,Rejected
+PP-133,358111,Patch to fix cookies issue  ,,,,,,,Rejected
+PP-3435,707958,GSK ContRAst - SSL Certification,,,,,,,Closed
+PP-3120,681473,*OUT OF SCOPE* Health Conditions - Comments page,,,,,,,Rejected
+PP-3337,702805,Mediguard user records are transferred to CR.com user table,,,,,,,Closed
+PP-3807,726045,fields to be moved from mediguard to cr.com,,,,,,,Closed
+PP-3121,681474,*OUT OF SCOPE* Safety Alerts & Recalls page,,,,,,,Rejected
+PP-6001,870200,Implement Google Capture on Account Management page,,,,,,,Development Complete
+PP-6063,873054,CR.com - Article and Campaign issue,RITM / INC Release Sprint 7,,,,,3,Closed
+PP-6080,873346,URL redirects from Thank you pages    (implement into all existing live DTP's and DTP 1.1 platform),,,,,,,Open
+PP-5684,860711,AZMCL Issues,EPAM Work,,,,,,Closed
+PP-5987,869541,Defect Fixes and Testing,GPSS Sprint 6,,,,,,Closed
+PP-6064,873055,Analysis - Indexing Issue on production,RITM / INC Release Sprint 6,,,,,,Development Complete
+PP-4827,808871,Should be able to add Milestones without IT intervention,GPSS Sprint 6,,,,,8,Closed
+PP-6007,870305,UTM Issue: DTP 1.1,RITM / INC Release Sprint 6,,,,,2,Closed
+PP-6005,870301,Sitecore critical vulnerability,RITM / INC Release Sprint 6,,,,,1,Closed
+PP-5983,869465,C19 Trial Live Portal: SVT effort ,GPSS Sprint 6,,,,,,Closed
+PP-6006,870303,Utm Issue : CVD Study 2 site,RITM / INC Release Sprint 6,,,,,,Rejected
+PP-5845,864855,EPAM - Slowness due to continously running jobs,RITM / INC Release Sprint 4,RITM / INC Release Sprint 5,,,,3,Closed
+PP-5819,863710,CR.com issue,RITM / INC Release Sprint 4,RITM / INC Release Sprint 5,,,,2,Closed
+PP-5340,853086,Log Error,RITM / INC Release Sprint 5,,,,,8,Closed
+PP-5743,862848,EPAM - Documentation work,RITM / INC Release Sprint 3,RITM / INC Release Sprint 5,,,,2,Closed
+PP-5982,869463,INC9727993 - Sites are not displayed on Covid 19,RITM / INC Release Sprint 5,,,,,2,Closed
+PP-4846,810872,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Rejected
+PP-6017,870338,Error Log: System.Configuration.Provider.ProviderException,,,,,,,Open
+PP-6016,870336,Error Log: System.ComponentModel.Win32Exception,,,,,,,Open
+PP-6015,870332,Error Log: System.Web.HttpCompileException,,,,,,,Open
+PP-6014,870329,Could not resolve type name,,,,,,,Open
+PP-6013,870327,Error Log: MediaRequestProtection,,,,,,,Open
+PP-6012,870323,Error Log: Data template '{FE00B0A6-D847-4964-B837-B08D63E92608}' not found,,,,,,,Open
+PP-6011,870321,There is no appropriate index for /sitecore/social/Messages,,,,,,,Open
+PP-6010,870320,Error Log : System.Exception,,,,,,,Open
+PP-6009,870319,Error Log: Sitecore.Modules.EmailCampaign.Exceptions.MessageEventPipelineException,,,,,,,Open
+PP-5928,866396,CR.com homepage re-work,GPSS Sprint 6,,,,,3,Closed
+PP-5818,863495, For AZMCL - Referral API deployment from 1.5 to 1.1,GPSS Sprint 5,,,,,,Closed
+PP-5817,863493,AZMCL - Temporary password issue-SVT,GPSS Sprint 5,,,,,,Closed
+PP-5713,862117,MS multiscreener configuration issue,GPSS Sprint 5,,,,,3,Closed
+PP-5698,861914,Technical Story - Database change for PP-4826,GPSS Sprint 5,,,,,2,Closed
+PP-5693,861345,CR.com investigation of code re-usability and capture technical design,GPSS Sprint 5,,,,,2,Closed
+PP-4826,808865,"Identifier of Milestones should be by ID, not by name",GPSS Sprint 5,,,,,,Rejected
+PP-5740,862833,EPM-REM - Global - Setup and configure CI/CD for releases.,,,,,,,Open
+PP-4804,807163,HCP Mobile Number to be Optional  (mandatory if comms via SMS is checked),GPSS Sprint 5,,,,,3,Closed
+PP-5700,861916,Technical Story - Sitecore changes concerning MilestoneKey,GPSS Sprint 5,,,,,3,Closed
+PP-5847,864859,EPAM - Looks like index switching is not working properly,RITM / INC Release Sprint 4,,,,,,Rejected
+PP-5846,864858,EPAM - Email Campaign Manager not showing proper reports with status.,RITM / INC Release Sprint 4,,,,,,Rejected
+PP-4833,810342,"Time Zone dropdown, ordering of dropdown contents",GPSS Sprint 5,,,,,3,Closed
+PP-5852,864946,EPAM - LIst manager is not showing all segmentation list,,,,,,,Development Complete
+PP-5699,861915,Technical Story - Implement Google Capture on Login Form,GPSS Sprint 5,,,,,5,Closed
+PP-4824,807678,Emails are being sent showing the wrong domain,GPSS Sprint 5,,,,,5,Closed
+PP-4818,807665,Negative Outcome schedule item appearing in patients Milestone Schedule,GPSS Sprint 5,,,,,8,Closed
+PP-5268,851761,Contact Info Page getting refreshed during the redirection after screener completion,RITM / INC Release Sprint 4,,,,,2,Closed
+PP-5890,865762,Roche CCA,RITM / INC Release Sprint 4,,,,,,Closed
+PP-5694,861407,"DTP UAT, Need new class for Study Location background colour",,,,,,,Closed
+PP-5844,864853,Merck EVOLUTION ePR screener workflow issue,RITM / INC Release Sprint 4,,,,,,Rejected
+PP-5727,862570,EPAM - Production issue,RITM / INC Release Sprint 4,,,,,3,Rejected
+PP-5804,863114,Add robot.txt for single domain application,RITM / INC Release Sprint 3,,,,,2,Deferred
+PP-5834,864107,DTP 1.5 PRE-PROD release - Deployment issue,RITM / INC Release Sprint 3,,,,,2,Closed
+PP-5242,851168,Contact Info Page getting refreshed during the redirection after screener completion,RITM / INC Release Sprint 3,,,,,5,Closed
+PP-5265,851745,Display alerts are not working when the page gets refreshed,RITM / INC Release Sprint 3,,,,,3,Closed
+PP-4511,771165,Additional subject report for AZ MCL,,,,,,,Closed
+PP-5742,862838,Map pins popup - Default text should be formatted same as d-livrstudy.com site,RITM / INC Release Sprint 3,,,,,,Closed
+PP-4056,733976,AZ MCL page public accessibility control for specified pages,,,,,,,Closed
+PP-5805,863115,Add robot.txt for multidomain application,,,,,,,Open
+PP-5744,862852,EPM-REM - Global - Add a CDN for static asset delivery ,,,,,,,Open
+PP-5747,862856,EPM-REM - Global - : Review and configure distinct roles for Sitecore,,,,,,,Open
+PP-5745,862853,EPM-REM - Global - Consolidation of Scheduled Tasks and offload to non-business hours,,,,,,,Open
+PP-5746,862854,EPM-REM - Global - Separate processing/aggregation from the Content Management role,,,,,,,Open
+PP-5364,853650,"NEED TO REVERT CODE - ""Hover text to be shown while hovering on the pins""",RITM / INC Release Sprint 2,,,,,,Closed
+PP-5290,851832,APPLY FIX - Hover text to be shown while hovering on the pins,RITM / INC Release Sprint 2,,,,,,Closed
+PP-5287,851829,APPLY FIX - Remove map pins except  for the Sites within the left hand panel,RITM / INC Release Sprint 2,,,,,,Closed
+PP-5741,862837,EPM-REM - Performance Bottleneck: HealthDayService,,,,,,,Open
+PP-5283,851793,APPLY FIX - code fix for UI Issue on Contact Form for icons,RITM / INC Release Sprint 2,,,,,,Closed
+PP-5341,853089,Missing Response Text in PII database on production ,RITM / INC Release Sprint 2,,,,,,Closed
+PP-5410,855506,PS TEAM TO APPLY FIX - CDN Cache settings needed for COVID-19,RITM / INC Release Sprint 2,,,,,,Closed
+PP-5408,855504,APPLY FIX - Include UTM parameters on views ( .cshtml pages ),RITM / INC Release Sprint 2,,,,,,Closed
+PP-5280,851786,APPLY FIX - Unable to register a patient if the Email ID has already been used in other projects,RITM / INC Release Sprint 2,,,,,,Closed
+PP-5277,851782,APPLY FIX - Incorrect object reference (angular-route.min.js.map),RITM / INC Release Sprint 2,,,,,,Closed
+PP-5267,851760,APPLY FIX - Contact Info Page getting refreshed during the redirection after screener & None of the Site Convenient' link completion,RITM / INC Release Sprint 2,,,,,,Closed
+PP-5216,850697,GTM integration amendments,RITM / INC Release Sprint 2,,,,,,Closed
+PP-5398,855487,COVID US - Updated screener to be configured and tested,RITM / INC Release Sprint 2,,,,,,Closed
+PP-5213,850683,Language,RITM / INC Release Sprint 2,,,,,,Closed
+PP-5212,850664,Create AU Instance,RITM / INC Release Sprint 2,,,,,,Closed
+PP-5266,851747,APPLY FIX - Display alerts are not working when the page gets refreshed,RITM / INC Release Sprint 2,,,,,,Rejected
+PP-5214,850693,Cookie Banner fix to be applied,RITM / INC Release Sprint 2,,,,,,Rejected
+PP-5306,852402,Hover text to be shown while hovering on the pins,,,,,,,Closed
+PP-5456,856000,MAP & Site Selection Clarification,GPSS Sprint 4,,,,,,Closed
+PP-5604,859128,Merge and configure - MerckIGAN_MI,EPAM Work,,,,,1,Rejected
+PP-104,341378,Instance management and configuration,,,,,,,Rejected
+PP-103,341373,Submission confirmation message,,,,,,,Rejected
+PP-102,341358,Study consent and additional screening questions,,,,,,,Rejected
+PP-101,341347,Study specific view and information,,,,,,,Rejected
+PP-100,341341,Unsubscribe page,,,,,,,Rejected
+PP-99,341337,Confirmation of submission email,,,,,,,Rejected
+PP-74,339384,Matching against captured screener data,,,,,,,Rejected
+PP-63,335232,Cookies content,,,,,,,Rejected
+PP-62,335231,Terms and conditions content,,,,,,,Rejected
+PP-61,335230,Pass pertinent patient data to existing referral API,,,,,,,Rejected
+PP-60,335229,Communication with nominated users from database,,,,,,,Rejected
+PP-59,335228,Post-screener registration page submission confirmation,,,,,,,Rejected
+PP-58,335225,Post-screener registration page,,,,,,,Rejected
+PP-57,335222,Screener page,,,,,,,Rejected
+PP-56,335219,Home page,,,,,,,Rejected
+PP-55,335218,Page footer,,,,,,,Rejected
+PP-54,335217,Page header,,,,,,,Rejected
+PP-53,335216,Website encryption,,,,,,,Rejected
+PP-52,335214,Device compabtility,,,,,,,Rejected
+PP-51,335212,Browser compatibility,,,,,,,Rejected
+PP-50,335211,Analytics and tracking,,,,,,,Rejected
+PP-1064,582268,Site user dashboard page (FR-203),,,,,,,Closed
+PP-1055,582073,Iqvia clinical team user  creation of resource folders and upload of assets (FR-107),,,,,,,Rejected
+PP-1058,582152,Invitation emails for site users (FR-110),,,,,,,Rejected
+PP-1059,582153,Site users follow CTA from invitation email (FR-201),,,,,,,Rejected
+PP-1231,592677,My details page (FR-004),,,,,,,Rejected
+PP-1232,592680,Content pages for IQVIA/study site application elements (FR-005),,,,,,,Rejected
+PP-1234,592765,Site user - View/edit patient information (FR-204),,,,,,,Rejected
+PP-1235,592769,Site user - Import patient information (FR-205),,,,,,,Rejected
+PP-1236,592772,Site user - view/download resources from Trial Intent site (FR-206),,,,,,,Rejected
+PP-1238,592789,Site user - view patients (FR-208),,,,,,,Rejected
+PP-1239,592792,Generation of invite email to potential study participants/patients (FR-209),,,,,,,Closed
+PP-1243,592816,System user roles (FR-401),,,,,,,Rejected
+PP-1244,592818,Study Site data table fields (FR-402),,,,,,,Rejected
+PP-1245,592832,Study Site user data table fields (FR-403),,,,,,,Rejected
+PP-1246,592838,Site patient data table fields (FR-404),,,,,,,Rejected
+PP-1247,592840,Condition Values (FR-405),,,,,,,Rejected
+PP-1248,592844,Email templates (FR-406),,,,,,,Rejected
+PP-1250,592879,Content management (FR-408),,,,,,,Rejected
+PP-1263,593544,Contact Us form,,,,,,,Rejected
+PP-5288,851830,Hover text to be shown while hovering on the pins,GPSS Sprint 4,,,,,,Closed
+PP-5549,858051,Service Layer - Merge AZ 2.1 changes with DTP 1.5 changes - Technical Story,GPSS Sprint 4,,,,,,Closed
+PP-5548,858050,Referral API - Merge AZ 2.1 changes with DTP 1.5 changes - Technical Story,GPSS Sprint 4,,,,,,Closed
+PP-5607,859132,Solar server configuration,EPAM Work,,,,,2,Development In Progress
+PP-5259,851374,"Decide approach, schedule and finalize plan for branching.",GPSS Sprint 3,GPSS Sprint 4,,,,1,Development In Progress
+PP-5678,860578,CR - 'Ambulance' study sites - Site choices dependent upon Screener answers,RITM / INC Release Sprint 2,,,,,,Rejected
+PP-3335,702761,A report can be generated indicating which users have completed a specific survey,,,,,,,Closed
+PP-5217,850698,Referrals to be passed to Referral Hub,RITM / INC Release Sprint 2,,,,,,Closed
+PP-5606,859131,Merge and configure - Trial Intent,EPAM Work,,,,,2,Rejected
+PP-5605,859129,Merge and configure - MesoBlast-MI,EPAM Work,,,,,1,Rejected
+PP-3717,716720,Survey - invitation link is dynamically populated,,,,,,4,Closed
+PP-3668,715581,Survey - query creation - filter by patient demographic information,2019 Apr CR.com Sprint4,2019 Apr CR.com Sprint5,,,,5,Closed
+PP-3667,715577,Survey - query creation - filter by patient condition,2019 Apr CR.com Sprint4,2019 Apr CR.com Sprint5,,,,3,Closed
+PP-3336,702768,Survey - A report can be generated showing users invited to a specific survey and whether they completed it,,,,,,,Closed
+PP-3356,704002,Survey - I can see scheduled invitations and historical invitations,,,,,,,Closed
+PP-3334,702755,Questionnaire results should be held in a separate environment to user information,,,,,,,Closed
+PP-3686,716160,Survey - multiple surveys need to be supported concurrently.,,,,,,,Closed
+PP-3355,704000,Survey - I can edit the invitation text and send now or at a future date/time,,,,,,,Closed
+PP-3332,702751,Survey - Questionnaires can be sent to users via the application,,,,,,6,Closed
+PP-3684,716011,Survey - extracts created,,,,,,,Closed
+PP-3331,702749,Associate a database query extract to a survey and manage survey,,,,,,5,Closed
+PP-3682,716009,Survey - excluding specific patient IDs from a query generated list ,,,,,,,Closed
+PP-3683,716010,Survey - on submission of a query,,,,,,3,Closed
+PP-3681,715948,Survey - query creation - filter by other values,2019 Apr CR.com Sprint4,2019 Apr CR.com Sprint5,,,,,Closed
+PP-3352,703796,Survey - access to questionnaire management options,,,,,,,Closed
+PP-3680,715946,Survey - query creation - filter by patient location (zip code/radius),2019 Apr CR.com Sprint4,2019 Apr CR.com Sprint5,,,,8,Closed
+PP-4897,825927,Guardian-Minor study – Email Address field validation + Duplicate records,GPSS Sprint 1,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,Closed
+PP-4891,820924,Guardian-Minor study – Switch/Setting needed to signify a Guardian-Minor study,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,,Closed
+PP-5275,851780,Incorrect object reference (angular-route.min.js.map),GPSS Sprint 4,,,,,,Closed
+PP-5391,854899,As done for COVID US - GTM integration is not aligned with Google instructions,GPSS Sprint 4,,,,,,Closed
+PP-4896,825926,DOB field validation (min age & max age),GPSS Sprint 1,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,Closed
+PP-4999,837455,Multi-Trial Virtual & Trad studies - screener /site logic,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,,Closed
+PP-4923,828614,Condition Of Interest values to be re-mapped,GPSS Sprint 1,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,Closed
+PP-5383,854650,As done for COVID US - Merge new field names & show on Site Details page,GPSS Sprint 4,,,,,,Closed
+PP-5384,854657,As done for COVID US - Include UTM parameters on views ( .cshtml pages ),GPSS Sprint 4,,,,,,Closed
+PP-5281,851791,code fix for UI Issue on Contact Form for icons,GPSS Sprint 4,,,,,,Closed
+PP-5285,851827,Remove map pins except  for the Sites within the left hand panel,GPSS Sprint 4,,,,,,Closed
+PP-5386,854671,As done for COVID US - Cookie Disclaimer banner,GPSS Sprint 4,,,,,,Closed
+PP-5278,851784,Unable to register a patient if the Email ID has already been used in other projects,GPSS Sprint 4,,,,,,Closed
+PP-5272,851777,The [AccountNumber] tag is not populating in the email address,GPSS Sprint 4,,,,,,Closed
+PP-5269,851764,To send registration confirmation mail to even returning users from the same portal,GPSS Sprint 4,,,,,,Closed
+PP-5390,854860,Validation on 'State' and 'Zipcode' fields,GPSS Sprint 4,,,,,,Closed
+PP-4902,825970,Guardian-Minor study – Change to user flow,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,,Closed
+PP-5500,856596,Need to send YEAR OF BIRTH to Referral Hub,GPSS Sprint 4,,,,,,Closed
+PP-5430,855938,Contact Info - privacy consent checkbox Toggle on/off,GPSS Sprint 4,,,,,,Closed
+PP-5311,852421,Custom error message for when a user attempts to re-register for a Pediatric Study,GPSS Sprint 4,,,,,,Closed
+PP-4901,825969,Guardian-Minor study – Change to registration/contact form,GPSS Sprint 1,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,Closed
+PP-5071,843309,PRDB,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,,Closed
+PP-4899,825929,Guardian-Minor study – Changes needed to the RH Data Send API,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,,Closed
+PP-5601,859125,Merge and configure - Roche reg,EPAM Work,,,,,2,Development In Progress
+PP-5392,855128,As done for COVID US - Send Registration Confirmation email on Contact Form submission,GPSS Sprint 4,,,,,,Closed
+PP-4898,825928,Guardian-Minor study – Additional DNQ page needed,GPSS Sprint 1,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,Closed
+PP-5385,854665,As done for COVID US - “None of the site convenient” link,GPSS Sprint 4,,,,,,Closed
+PP-5007,838730,DTP Zipcode & State Validation,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,,Closed
+PP-4890,820918,Guardian-Minor study – New Guardian Table in SQL DB and Mongo DB changes,GPSS Sprint 1,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,Closed
+PP-5143,846316,Need a custom error to be shown when a user resubmits the same details within x hrs,,,,,,,Rejected
+PP-5632,859244,DTP 1.5 & EPAM- SVT documentation,GPSS Sprint 4,,,,,,Open
+PP-5608,859133,Solar CM configuration,EPAM Work,,,,,2,Open
+PP-3341,702836,Registration - returning user logs into cr.com,2019Mar Sprint - 1,2019 Apr CR.com Sprint1,2019 Apr CR.com Sprint2,2019 Apr CR.com Sprint3,,3,Closed
+PP-1992,647906,FR-002 User status is updated from eDC,SPN - AZ MCL Sprint 4,,,,,,Closed
+PP-3505,710392,CHANGE REQUEST 009 - to use SendGrid for email communication,GPSS Sprint 1,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,Closed
+PP-4496,765135,Language swap backlog issues,,,,,,,Closed
+PP-5301,852396,The [AccountNumber] tag is not populating in the email,,,,,,,Closed
+PP-5394,855237,Contact Info - privacy consent checkbox Toggle on/off,,,,,,,Closed
+PP-5393,855196,Contact form to include all the existing fields & validation,,,,,,,Closed
+PP-5035,839792,Approach to handling new sites and visualization opt in status,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,,Closed
+PP-4388,756570,SMS sending/management service and reporting,GPSS Sprint 2,GPSS Sprint 3,GPSS Sprint 4,,,,Closed
+PP-5274,851779,CONFIG - The [AccountNumber] tag is not populating in the email address,RITM / INC Release Sprint 2,,,,,,Rejected
+PP-5215,850695,Ability to redirect user to a DNQ-Minor page after asking few questions,RITM / INC Release Sprint 2,,,,,,Rejected
+PP-5271,851771,CONFIG - To send registration confirmation mail to returning users for the same portal,RITM / INC Release Sprint 2,,,,,,Rejected
+PP-5051,842820,change temporary password functionality,,,,,,,Closed
+PP-5326,852773,AZ MCL 2.1 UAT parent ticket,,,,,,,Rejected
+PP-5345,853146,Roche production issue investigation,RITM / INC Release Sprint 2,,,,,,Rejected
+PP-5518,857103,Request for additional servers,,,,,,,Open
+PP-2283,652578,FR-206 - Reminder SMS message configuration,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2291,652605,FR-401 - Patient viewing own submitted questionnaires ,GPSS Sprint 1,,,,,,Closed
+PP-5175,848670,Registration Email,,,,,,,Development In Progress
+PP-5036,840563,dashboard questionnaire progress bg colour needs to stretch for height of display area,,,,,,,Closed
+PP-5034,839790,My data page refreshes on window resize,,,,,,,Closed
+PP-5415,855696,EPM-REM - SVT environment setup and Deployment,,,,,,,Open
+PP-5203,850048,CDN Cache settings needed for COVID-19,,,,,,,Closed
+PP-5172,848558,Include UTM parameters on views ( .cshtml pages ),Production Tickets SP 1,,,,,,Closed
+PP-5302,852397,Incorrect object reference (angular-route.min.js.map),,,,,,,Closed
+PP-5304,852400,Code fix for UI Issue on Contact Form for icons,,,,,,,Closed
+PP-5312,852422,Custom error message for when a user attempts to re-register for a Pediatric Study,,,,,,,Rejected
+PP-5310,852419,APPLY FIX - Custom error message for when a user attempts to re-register for a Pediatric Study,RITM / INC Release Sprint 2,,,,,,Rejected
+PP-5309,852418,Custom error message for when a user attempts to re-register for a Pediatric Study,,,,,,,Rejected
+PP-5303,852399,Unable to register a patient if the Email ID has already been used in other projects,,,,,,,Closed
+PP-5305,852401,Remove map pins except  for the Sites within the left hand panel,,,,,,,Closed
+PP-5300,852394,To send registration confirmation mail to returning users for the same portal,,,,,,,Closed
+PP-5308,852407,The “From name” should be COVID-19 Clinical Research Studies ,,,,,,,Closed
+PP-5307,852406,The “From Email Address” should be covid19studies@clinicalresearch.com,,,,,,,Closed
+PP-5279,851785,Unable to register a patient if the Email ID has already been used in other projects,,,,,,,Open
+PP-3849,727415,Medication - add medication to a profile,2019 Apr CR.com Sprint4,2019 Apr CR.com Sprint5,,,,,Rejected
+PP-5289,851831,Hover text to be shown while hovering on the pins,,,,,,,Open
+PP-5286,851828,Remove map pins except  for the Sites within the left hand panel,,,,,,,Open
+PP-5282,851792,code fix for UI Issue on Contact Form for icons,,,,,,,Open
+PP-5276,851781,Incorrect object reference (angular-route.min.js.map),,,,,,,Open
+PP-5273,851778,The [AccountNumber] tag is not populating in the email address,,,,,,,Open
+PP-5270,851765,To send registration confirmation mail to even returning users from the same portal,,,,,,,Open
+PP-613,524638,Additional Sitecore elements available in platform,Sprint 2,,,,,,Closed
+PP-72,337552,Enable audit trail for Sitecore in all environments,Patient Portal v1.1,,,,,,Rejected
+PP-1324,594557,Network & Infrastructure Security - firewall (NFR-59),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1322,594555,"Network & Infrastructure Security - common, synchronised server time (NFR-57)",Trial Intent NFR Sprint,,,,,,Rejected
+PP-1309,594541,Data Management - Security event log - (NFR-44),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1305,594537,Data management - disaster recovery RPO (NFR-40),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1288,594520,Environment requirements - UAT emulates production (NFR-19),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1315,594548,Monitoring - infrastructure resource use (NFR-50),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1291,594523,Performance - scheduled maintenance (NFR-22),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1316,594549,Monitoring - back ups (NFR=51),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1286,594518,Environment requirements - environment partition (NFR-17),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1312,594544,Disaster Recovery to be documented (NFR-47),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1306,594538,Data management - RTO target (NFR-41),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1313,594545,Monitoring - security breach monitoring (NFR-48),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1314,594547,Monitoring - infrastructure components (NFR-49),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1321,594554,Network & Infrastructure Security - observe IQVIA security standards (NFR-56),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1317,594550,Monitoring - escalation (NFR-52),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1307,594539,Data management  - offsite back ups (NFR-42),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1285,594517,Environment requirements - supported environments (NFR-16),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1304,594536,Data management - database schema (NFR-38),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1326,594559,User security - usage of Sitecore roles based accounts (NFR-61),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1293,594525,Performance - application availabiltiy (NFR-24),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1302,594534,Compatibility - Browser compatibility (NFR-35),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1327,594560,User Security - secure log in (NFR-65),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1297,594529,Usability - user-proofing (NFR-29),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1329,594562,User Security - log out based on inactivity (NFR-67),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1290,594522,Performance - page load (NFR-21),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1308,594540,Data Management - audit log (NFR-43),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1287,594519,Environment requirements - data in dev and test environments (NFR-18),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1320,594553,Data security - database security standards are observed (NFR-55),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1295,594527,Usability - responsive solution (NFR-26),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1283,594514,Application architecture - search indexing (NFR-63),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1330,594563,Support - Support email address (NFR-62),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1328,594561,User security - password requirements (NFR-66),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1319,594552,Data Security - SSL encryption (NFR-54),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1310,594542,Data Management - system error logging (NFR-45),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1303,594535,Compatibility - plug-in dependencies (NFR-36),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1301,594533,Internationalisation - content in different languages can be added readily (NFR-34),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1296,594528,Usability - accessibility (NFR-27),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1294,594526,Usability - IQVIA guidelines (NFR-25),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1292,594524,Performance - Error pages (NFR-23),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1284,594516,Application Architecture - SiteCore Experience Accelerator (NFR-64),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1282,594513,Application Architecture - cookie policy compliance (NFR-15),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1281,594512,Application architecture - component re-use,Trial Intent NFR Sprint,,,,,,Rejected
+PP-1280,594511,Application architecture - email solution capacity,Trial Intent NFR Sprint,,,,,,Rejected
+PP-1278,594509,Where possible components offered by SiteCore technology should be utilised. (NFR-04),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1279,594510,Application architecture - email management (NFR-05),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1277,594508,Application architecture - concurrent usage (NFR-002),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1276,594506,Application Architecture - application capacity (NFR-01),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1240,592803,Patient user accesses patient facing site via vanity URL (FR-301),Trial Intent Sprint 1,Trial Intent Sprint 2,,,,,Closed
+PP-1381,595931,3. Contact Edit/Add functionality,Trial Intent Sprint 1,Trial Intent Sprint 2,,,,,Rejected
+PP-1380,595923,"2. Bulk Import contact, sites and PII functionality.",Trial Intent Sprint 1,Trial Intent Sprint 2,,,,,Rejected
+PP-1379,595922,"1. Contact creation and activation module (Patient,  PI and IQVIA User)",Trial Intent Sprint 1,Trial Intent Sprint 2,,,,,Rejected
+PP-1048,581909,Viewing and editing site information within the Trial Intent application (FR-103),Trial Intent Sprint 2,,,,,,Rejected
+PP-1323,594556,Network & Infrastructure Security - use of default usernames (NFR-58),Trial Intent Sprint 2,,,,,,Rejected
+PP-1289,594521,Legal requirements - data (NFR-20),Trial Intent Sprint 2,,,,,,Rejected
+PP-1995,647909,FR-005 - Outstanding invitation reminder,SPN - AZ MCL Sprint 4,,,,,,Closed
+PP-5186,849538,Cookie Disclaimer banner,Production Tickets SP 1,,,,,,Closed
+PP-5187,849552,GTM integration is not aligned with Google instructions,Production Tickets SP 1,,,,,,Closed
+PP-5189,849556,Ability to redirect user to a DNQ-Minor page after asking few questions,Production Tickets SP 1,,,,,,Closed
+PP-5183,849426,Registration/Contact Form,Production Tickets SP 1,,,,,,Closed
+PP-5173,848563,Amend LUA script in Survey Gizmo,Production Tickets SP 1,,,,,,Closed
+PP-5184,849430,“None of the site convenient” link,Production Tickets SP 1,,,,,,Closed
+PP-5171,848549,Merge new field names & show on Site Details page,Production Tickets SP 1,,,,,,Closed
+PP-5170,848545,Send Registration Confirmation email on Contact Form submission,Production Tickets SP 1,,,,,,Closed
+PP-5155,846633,impact assessment  - surfacing opt in report data via Sitecore,,,,,,,Open
+PP-5188,849553,Registration email to be triggered after Site Selection,,,,,,,Rejected
+PP-5142,846313,Pediatric and non-Pediatric Contact form needs to be the same form ,,,,,,,Open
+PP-5134,845527,Guardian-Minor - Pediatric study to also work in a multi-study & multi-protocol scenario,,,,,,,Open
+PP-3929,728797,Patient Profile - changes to profile are saved dynamically,2019 Apr CR.com Sprint4,2019 Apr CR.com Sprint5,,,,8,Closed
+PP-4968,834484,INC9358919 - Exchange study portal Url (https://www.exchange-study.com/) is not accessible || RITM12281326,,,,,,,Development In Progress
+PP-5006,838647,Email Campaign Issue - for Manually imported contacts,,,,,,,Development Complete
+PP-5032,839523,Cohort Landing page,,,,,,,Open
+PP-5024,839501,Registry copy to be made into Unexposed Registry,,,,,,,Open
+PP-4900,825967,AZ MCL 2.0 UAT parent story,,,,,,,Rejected
+PP-2724,662452,FR-804 - data visualisations can be hidden on a per site basis,GPSS Sprint 1,,,,,,Closed
+PP-3439,708012,Ability to edit user email address,,,,,,,Closed
+PP-4173,739283,upon user changing language option on account preferences page revision,,,,,,,Closed
+PP-4532,775001,(FR-802) - patient data visualisation is available to view for the patient for set periods relative to quarterly questionnaires,,,,,,,Closed
+PP-4533,775002,(FR-803) An email is sent to study participants notifying that data visualisation report is available ,,,,,,,Closed
+PP-4531,774889,(FR-801) - patient data visualisation,,,,,,,Closed
+PP-4985,837139,UAT Defects for AZMCL 2.0 ,GPSS Sprint 1,,,,,,Rejected
+PP-4967,834191,DTP Platform - Update Architecture Document,,,,,,,Open
+PP-4720,795292,Platform to send email to HECAppSupport when a ePR referral handoff to Salesforce is unsuccessful,,,,,,,Open
+PP-4836,810789,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Open
+PP-4330,752485,Study site management options available via CMS,,,,,,,Open
+PP-3584,713344,Map Pins for 'soon-to-be enrolling' Sites (confirm status and close?),,,,,,,Closed
+PP-3844,726895,If user's GEO IP and website URL are different countries then hide Study Locations/Google Map & Site Selection (confirm status),,,,,,,Closed
+PP-554,480548,Registration confirmation emails,,,,,,,Rejected
+PP-492,473771,The default front end achieves an accessibility rating in line with QuintilesIMS policy,,,,,,,Rejected
+PP-560,481535,Study site data service for ePR instances,,,,,,,Rejected
+PP-888,550251,Communications unsubscribe - SMS,,,,,,,Rejected
+PP-557,480639,Reporting on communications sent from platform,,,,,,,Rejected
+PP-543,480174,Platform consideration: Support for two way interaction with 3rd party referral APIs,,,,,,,Rejected
+PP-2307,652631,FR-704 - Language selection can be changed between US English and US Spanish,,,,,,,Closed
+PP-4494,764870,Change sitecore implementation for job picking up eDC data,,,,,,,Closed
+PP-4203,742941,Amend to account activation report,,,,,,,Closed
+PP-4376,754719,Overlay field show/hide controls *confirm if can be closed*,,,,,,,Development Complete
+PP-4176,739489,Distinct contact details page for DNQ outcome (ESTIMATE),,,,,,,Closed
+PP-4857,816319,DtP (1.1) - New column - Survey Response - to capture Survey Gizmo response in this column which would be base 64 encoded ,,,,,,,Closed
+PP-3529,712193,CYPRESS - study locations,,,,,,,Closed
+PP-3278,698888,CYPRESS - Emails,,,,,,,Closed
+PP-3277,698887,CYPRESS - Create & publish build using CI/CD,,,,,,,Closed
+PP-3276,698886,CYPRESS - Create/Configure CTMS incoming feed,,,,,,,Closed
+PP-3275,698885,CYPRESS - Configure Metadata and Google Analytics,,,,,,,Closed
+PP-3274,698884,CYPRESS - Configure sitecore analytics,,,,,,,Closed
+PP-3271,698881,CYPRESS - Add content to ePR instance,,,,,,,Closed
+PP-3273,698883,CYPRESS - Configure marketing component,,,,,,,Closed
+PP-3269,698877,CYPRESS - create new ePR instance - cypresstrial.com,,,,,,,Closed
+PP-3438,708009,Gensight Reflect estimate,,,,,,,Rejected
+PP-4892,821152,DtP configuration amend request - study site details formatting,,,,,,,Closed
+PP-4832,809933,New variables to be captured in PII SQL DB,,,,,,,Rejected
+PP-4816,807647,"Footer Rich Text problem,   showing full html code in the footer",,,,,,,Closed
+PP-4815,807644,Emails are being sent showing the wrong domain,,,,,,,Closed
+PP-3718,716808,Referral diversion via five9 nine api based on utm value,,,,,,,Reopened
+PP-4802,806374,Implement Int-Tel-Input api front-end input validation for Telephone Numbers,,,,,,,Open
+PP-4558,775745,Variants of the landing page are constructed and available in CMS,,,,,,,Development In Progress
+PP-4557,775744,Implementation of multi-variate functionality,,,,,,,Open
+PP-4660,785757,Milestone NODE-303 - Create & publish build using CI/CD,,,,,,,Closed
+PP-4658,785713,Milestone NODE-303 - Configure Referral DB,,,,,,,Closed
+PP-4661,785759,Milestone NODE-303 - Email mailboxes,,,,,,,Closed
+PP-4663,785765,Milestone NODE-303 - UAT parent ticket,,,,,,,Closed
+PP-4651,785701,Milestone NODE-303 - Purchase and install SSL certification - www.node303study.com,,,,,,,Closed
+PP-4656,785709,"Milestone NODE-303 - Configure survey gizmo, Metadata and Google Analytics (content editor)",,,,,,,Closed
+PP-4655,785708,Milestone NODE-303 - Configure sitecore analytics,,,,,,,Closed
+PP-4654,785707,Milestone NODE-303 - Configure marketing component,,,,,,,Closed
+PP-4888,820582,Otsuka Paediatric Autism DtP: ESTIMATE - a caregiver can register more than one child on the contact form,,,,,,,Closed
+PP-4889,820587,Otsuka Paediatric Autism DtP: ESTIMATE additional data to be added to existing data flow,,,,,,,Closed
+PP-4887,820575,Otsuka Paediatric Autism DtP: ESTIMATE - need to capture caregiver information in contact form,,,,,,,Closed
+PP-4657,785711,Milestone NODE-303 - Create/Configure CTMS incoming feed,,,,,,,Closed
+PP-4669,786899,Milestone NODE-303 - Mapping of UTM parameters,,,,,,,Closed
+PP-4652,785704,Milestone NODE-303 - Add content to ePR instance,,,,,,,Closed
+PP-4650,785697,Milestone NODE-303 - Create new ePR instance [www.node303study.com],,,,,,,Closed
+PP-4653,785705,Milestone NODE-303 - Add branding to ePR instance,,,,,,,Closed
+PP-4843,810800,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Open
+PP-4756,799713,DtP 1.3. UAT placeholder,,,,,,,Closed
+PP-4856,816317,DtP (1.4) - New column - Survey Response - to capture Survey Gizmo response in this column which would be base 64 encoded,,,,,,,Closed
+PP-4858,819056,DTP 1.4 - Need to save Survey Gizmo Response for Failed users,,,,,,,Closed
+PP-4854,815724,Seres Eco-Reset estimate,,,,,,,Rejected
+PP-4185,741669,Contact form visual indicator of field input success or failure ,,,,,,,Closed
+PP-4742,797604,Amend to referral status values,,,,,,,Closed
+PP-4561,778864,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Closed
+PP-4743,797618,Protocol ID addition in MongoDB user records,,,,,,,Closed
+PP-4741,797587,Qualified protocol(s) field in user record(s),,,,,,,Closed
+PP-4840,810797,RegEx validation for ZIP Code to be handled by Google MAP API,,,,,,,Open
+PP-3432,707953,GSK ContRAst - Referrals to be directed to Referral Hub/CRCP platform,,,,,,,Closed
+PP-4310,750624,Screening result + 'No convenient site available' needs to be captured in DB ,,,,,,,Closed
+PP-4189,742263,Additional fields in 'contact extensions' table ,,,,,,,Closed
+PP-4414,758972,UAT Bucket 1,,,,,,,Closed
+PP-1861,643335,FR000 - 21 CFR Part 11 Compliancy,,,,,,,Closed
+PP-3481,708696,PEAR 006-101 - Study site selection screens in screener process are removed,,,,,,,Closed
+PP-3476,708607,PEAR 006-101 - Referrals to be directed to Referral Hub / CRCP platform,,,,,,,Closed
+PP-3469,708599,PEAR 006-101 - Configure marketing component,,,,,,,Closed
+PP-3470,708600,PEAR 006-101 - Confirgure sitecore analytics,,,,,,,Closed
+PP-3479,708611,PEAR 006-101 - UAT Feedback,,,,,,,Closed
+PP-3473,708604,PEAR 006-101 - Configure Referral DB,,,,,,,Closed
+PP-3468,708598,PEAR 006-101 - Add branding to ePR instance,,,,,,,Closed
+PP-3467,708597, PEAR 006-101 - Add content to ePR instance,,,,,,,Closed
+PP-3464,708578,PEAR 006-101 - Create new Virtual Trial ePR instance [www.enablestudy.com],,,,,,,Closed
+PP-3480,708693,PEAR 006-101 - Custom study location module (as per Virtual Trial ePR Instance),,,,,,,Closed
+PP-3492,709525,PEAR 006-101 - To allow a generic telephone number to be displayed above the questionnaire element,,,,,,,Closed
+PP-3474,708605,PEAR 006-101- Create & publish build using CI/CD,,,,,,,Closed
+PP-3472,708603,PEAR 006-101 - Create/Configure CTMS incoming feed,,,,,,,Closed
+PP-3471,708601,"PEAR 006-101 - Configure survey gizmo, Metadata and Google Analytics (content editor)",,,,,,,Closed
+PP-3466,708594,PEAR 006-101 - SSL Certification,,,,,,,Closed
+PP-3493,709705,PEAR 006-101 - Referral registration form,,,,,,,Closed
+PP-3475,708606,PEAR 006-101 - Email mailboxes,,,,,,,Closed
+PP-4253,746405,"Block ""Test"" Referrals from advancing to SalesForce / Referral Hub",,,,,,,Rejected
+PP-4646,783904,NOVARTIS EXCHANGE - Telephone number in header,,,,,,,Closed
+PP-3827,726383,NOVARTIS EXCHANGE - Referral registration form,,,,,,,Closed
+PP-3825,726355,NOVARTIS EXCHANGE - Study site selection screens in screener process are removed,,,,,,,Closed
+PP-3812,726299,NOVARITS EXCHANGE - Configure marketing component,,,,,,,Closed
+PP-3824,726348,NOVARTIS EXCHANGE - Custom study location module (as per Virtual Trial ePR Instance),,,,,,,Rejected
+PP-3809,726288,NOVARTIS EXCHANGE - SSL Certification,,,,,,,Closed
+PP-3810,726293,NOVARTIS EXCHANGE - Add content to ePR instance,,,,,,,Closed
+PP-3816,726304,NOVARTIS EXCHANGE - Configure Referral DB,,,,,,,Closed
+PP-3817,726305,NOVARTIS EXCHANGE - Create & publish build using CI/CD,,,,,,,Closed
+PP-3823,726341,NOVARTIS EXCHANGE - UAT Feedback,,,,,,,Closed
+PP-3815,726303,NOVARTIS EXCHANGE - Create/Configure CTMS incoming feed,,,,,,,Closed
+PP-4662,785761,Milestone NODE-303 - Referrals to be directed to Referral Hub/CRCP platform,,,,,,,Rejected
+PP-3852,727562,Patient Profile - search for trials using my profile information,,,,,,,Closed
+PP-3808,726287,NOVARTIS EXCHANGE - Create new virtual trial ePR instance [www.exchange-study.com],,,,,,,Closed
+PP-3811,726294,NOVARTIS EXCHANGE - Add branding to ePR instance,,,,,,,Closed
+PP-4378,754748,Landing page template changes for Esperion Kowa should not impact existing ePR landing page template,,,,,,,Rejected
+PP-3333,702752,Users should not be sent a questionnaire in duplicate,,,,,,,Rejected
+PP-3826,726360,NOVARTIS EXCHANGE - To allow a generic telephone number to be displayed above the questionnaire ,,,,,,,Closed
+PP-4571,778990,CR.com revised header and footer,,,,,,,Closed
+PP-4670,787442,Trials search location input field label,,,,,,,Closed
+PP-4375,754704,Health Conditions - condition specific survey thank you page,,,,,,,Closed
+PP-3685,716013,Survey information flow overview,,,,,,,Closed
+PP-4413,758699,CR.com styling changes,,,,,,,Closed
+PP-3858,728012,Health Conditions - add a condition to a profile from the condition page,,,,,,,Closed
+PP-3416,707797,"Registration - profile element of site is behind registration, other elements are public",2019 Apr CR.com Sprint4,2019 Apr CR.com Sprint5,,,,,Closed
+PP-3958,729262,Registration - password reset email contains information about the origin of the request,2019 Apr CR.com Sprint5,,,,,,Closed
+PP-4241,745417,Registration - Amended forgotten password behaviour where email address does not exist,,,,,,,Closed
+PP-4251,746050,Registration - additional password validation step,,,,,,,Closed
+PP-4129,737621,Registration - behaviour on selecting log out from header dropdown,,,,,,,Closed
+PP-3845,727394,Patient Profile - patient profile form,2019 Apr CR.com Sprint4,2019 Apr CR.com Sprint5,,,,21,Closed
+PP-3846,727409,Patient Profile - My profile completion status is visualised,2019 Apr CR.com Sprint4,,,,,8,Closed
+PP-3853,727563,Patient Profile - search for trials using my associated profile information,,,,,,,Closed
+PP-3857,728004,Patient Profile 'My Trials',,,,,,,Closed
+PP-4149,738638,Patient profile - handling duplicate associated profile titles,,,,,,,Closed
+PP-4673,787711,CHANGE REQUEST CR010 - All emails to have an online (web) version,,,,,,,Closed
+PP-1867,643341,FR006 - Communication,Roche Sprint 5,,,,,,Closed
+PP-2717,662086,Questionnaire pre-population,SPN - AZ MCL Sprint 4,,,,,,Closed
+PP-3499,709751,PS TEAM TASK - Additional country/language support for Esperion/Kowa ePR,,,,,,,Closed
+PP-3745,721490,Revised user flow,,,,,,,Closed
+PP-3851,727561,Patient profile - view my profile or associated profile and edit values,2019 Apr CR.com Sprint5,,,,,13,Closed
+PP-612,524637,Sitecore default workflow and approval functionality is available on the platform,,,,,,,Closed
+PP-4213,743585,Distinct thank you pages,,,,,,,Closed
+PP-4419,760681,'Prescribing Information' and 'Patient Information' - link to external PDF's,,,,,,,Closed
+PP-4190,742289,Additional content managed text area above privacy opt in checkbox and text on patient registration form,,,,,,,Closed
+PP-3785,725293,Addition of privacy policy checkbox on patient registration form,,,,,,,Closed
+PP-3784,725292,Removal/hiding of fields from patient registration form,,,,,,,Closed
+PP-3783,725289,Footer styling change,,,,,,,Closed
+PP-3782,725288,Create cookie opt in sticky overlay and corresponding cookie policy page,,,,,,,Closed
+PP-1902,643962,Changes to Neo VT - as requested on 29th Aug,,,,,,,Rejected
+PP-1862,643336,FR001 - Information Protection,,,,,,,Closed
+PP-4152,738662,Roche Findings June/July 2019,,,,,,,Closed
+PP-3119,681472,Health Conditions - Common Medicines page,,,,,,,Rejected
+PP-3338,702821,Amends to cr.com user data table(s) to hold mediguard user data,,,,,,,Rejected
+PP-3113,681466,Medications - Side Effects page,,,,,,,Rejected
+PP-3112,681465,Medications - Satisfaction & Usage page,,,,,,,Rejected
+PP-3111,681463,Medications - Overview page,,,,,,,Rejected
+PP-3110,681462,Medications - Medication look up,,,,,,,Rejected
+PP-1932,645357,QCC - Patient Records tabpage Milestone Schedule,Roche Sprint 11,,,,,,Closed
+PP-4187,741891,Enhancement to agent code/referrer code overlay implementation,,,,,,,Rejected
+PP-1926,645326,QCC - QCC's Scheduled Appointments tabpage (Homepage),Roche Sprint 11,,,,,,Closed
+PP-1940,645729,QCC - Reports Milestone Schedule tabepage (previsously called 'Reports Contact Schedule')   ,Roche Sprint 11,,,,,,Closed
+PP-1899,643613,FR204 - Contact Activities Logic,Roche Sprint 11,,,,,,Closed
+PP-1931,645356,QCC - Patient Records tabpage  Add Contact Activities popup,Roche Sprint 11,,,,,,Closed
+PP-1930,645346,QCC - Patient Records tabpage  Contact Activities,Roche Sprint 11,,,,,,Closed
+PP-1921,645310,PATIENT - Thank you email communication,Roche Sprint 11,,,,,,Closed
+PP-4354,753618,External link (3rd party) Exit Disclaimer popup,Roche Sprint 11,,,,,,Closed
+PP-4298,750007,Addition of privacy policy checkbox on patient registration form,Roche Sprint 11,,,,,,Closed
+PP-4295,749929,Need 'Terms and Conditions' page + link in footer,Roche Sprint 11,,,,,,Closed
+PP-4382,756261,"Multi-country urls,  logging in",Roche Sprint 11,,,,,,Closed
+PP-1865,643339,FR004 - Google Analytics/Tagging,Roche Sprint 11,,,,,,Closed
+PP-1898,643612,FR203 - Milestone Schedule Logic,Roche Sprint 11,,,,,,Closed
+PP-1900,643617,FR205 - Patient Reg: Settings For Contact Activities & Scheduled Milestones,Roche Sprint 11,,,,,,Closed
+PP-1938,645678,QCC - Reports tabpage,Roche Sprint 11,,,,,,Closed
+PP-1939,645724,QCC - Reports Contact Activities tabpage,Roche Sprint 11,,,,,,Closed
+PP-4383,756265,'US Prescribing Information' and 'Medication Guide',Roche Sprint 11,,,,,,Closed
+PP-3122,681544,Roche Pregnancy Registry - Demo Feedback - Sprint 1,,,,,,,Closed
+PP-4215,743635,Respivant Scenic - configure information that displays for study sites within ePR,,,,,,,Development Complete
+PP-3324,702173,Esperion/Kowa - use of promotional codes to track direct mail source of users,,,,,,,Closed
+PP-3399,706212,Addition of agent field in vanity url entry point form,,,,,,,Closed
+PP-4212,743583,Interim solution for alternate overlay functionality,,,,,,,Closed
+PP-1864,643338,FR003 - Mobile Compatibility,,,,,,,Closed
+PP-1863,643337,FR002 - Browser Compatibility,,,,,,,Closed
+PP-4177,739492,Make condition of interest field optional (ESTIMATE),,,,,,,Closed
+PP-4178,739495,contact form validation and submit button behaviour (ESTIMATE),,,,,,,Closed
+PP-3494,709746,Kowa/Esperion ePR - Changes to contact information form,,,,,,,Closed
+PP-3316,701051,Question number and visual progress indicator for question skipping logic in screener,,,,,,,Closed
+PP-1866,643340,FR005 - MultiCountry Sites,,,,,,,Closed
+PP-1875,643352,FR014 - System Values,,,,,,,Closed
+PP-3348,702948,Profile - add condition,,,,,,,Rejected
+PP-3353,703934,*DESCOPED* Existing extracts and questionnaire data is ported across to CR.com,,,,,,,Rejected
+PP-3114,681467,*OUT OF SCOPE* Medications - Interactions page,,,,,,,Rejected
+PP-3115,681468,OUT OF SCOPE Medications - Comments page,,,,,,,Rejected
+PP-3116,681469,*OUT OF SCOPE* Medications - Fact & Figures page,,,,,,,Rejected
+PP-3117,681470,Health Conditions - menu + List of Conditions data,,,,,,,Rejected
+PP-3118,681471,Health Conditions - Overview page,,,,,,,Rejected
+PP-3105,681454,Migrate mediguard user base into cr.com - overview,,,,,,,Rejected
+PP-3106,681457,Allow users to track medications for others,,,,,,,Rejected
+PP-3101,681447,Integrate fully into ClinicalResearch.com,,,,,,,Rejected
+PP-3102,681450,Questionnaire management,,,,,,,Rejected
+PP-3103,681451,Build assets/emails for Mediguard user base transitioning to cr.com portal,,,,,,,Rejected
+PP-3104,681453,Changes to exisiting cr.com static pages,,,,,,,Rejected
+PP-3109,681461,MediGuard - Homepage features,,,,,,,Rejected
+PP-3107,681458,New Call To Action widgets linking to new MediGuard pages,,,,,,,Rejected
+PP-3108,681459,Social Media - ShareThis,,,,,,,Rejected
+PP-1896,643607,FR201 - Patient Reg: Upon Registration send patient info to QCC,Roche Sprint 11,,,,,,Closed
+PP-3780,725036,QCC - Patient Records tabpage - Filtering functionality,Roche Sprint 9,,,,,,Closed
+PP-3339,702833,Registration - forgotten password user journey,2019Mar Sprint - 1,2019 Apr CR.com Sprint1,2019 Apr CR.com Sprint2,2019 Apr CR.com Sprint3,,3,Closed
+PP-3354,703993,I can edit an existing survey,,,,,,,Rejected
+PP-3325,702241,User query tool - build a query to form an extract of user data,,,,,,,Rejected
+PP-1912,645243,US003 - US Patient Reg: Welcome SMS,Roche Sprint 10,,,,,,Closed
+PP-4128,737359,Welcome email to be triggered when QCC verifies a Patient record and enrolls that Patient onto the registry,Roche Sprint 10,,,,,,Closed
+PP-4130,737681,"Sprint 9 Demo Outcome - QCC Patient Records tabpage Profile Details, HCP details to opne in a new browser window",Roche Sprint 10,,,,,,Closed
+PP-4121,736447,"QCC - Patient Records tabpage Profile Details, HCP Contact Card Clarification ",Roche Sprint 10,,,,,,Closed
+PP-3977,730198,"QCC - HCP Records tabpage Profile Details, COUNTRY DROPDOWN",Roche Sprint 10,,,,,,Closed
+PP-3928,728790,"QCC - Patient Records tabpage, Add HCP popup",Roche Sprint 10,,,,,,Closed
+PP-3863,728204,Patient profile - move between profiles associated to an account,2019 Apr CR.com Sprint5,,,,,9,Closed
+PP-3806,726032,Site selection search results should be restricted by country,,,,,,,Closed
+PP-3841,726801,"Users country/language should be based upon the URL visited, not GEO IP",,,,,,,Closed
+PP-4191,742290,Set up SVT en-GB URL for Eiger D-LIVR,,,,,,,Closed
+PP-3730,719556,UI change - mobile devices - CTA button,,,,,,,Closed
+PP-3847,727411,Patient profile - adding further profiles to my account,2019 Apr CR.com Sprint5,,,,,13,Closed
+PP-3729,719555,Esperion Kowa - add anchor tag to pre-screener questions,,,,,,,Closed
+PP-4184,741175,UI change - mobile devices - CTA button,,,,,,,Closed
+PP-3497,709749,Remove cr.com sign up from success page,,,,,,,Closed
+PP-3496,709748,Remove success-signed-up page,,,,,,,Closed
+PP-3323,702171,Language value and country value associated to site opt in and to site selection,,,,,,,Closed
+PP-3400,706331,Ability to configure the UTM mapping of patient and agent ID,,,,,,,Closed
+PP-3848,727412,Patient profile - medication and condition start date,2019 Apr CR.com Sprint4,2019 Apr CR.com Sprint5,,,,5,Closed
+PP-2004,647918,*Descoped* FR-014 - Alternate contact information ,,,,,,,Rejected
+PP-1928,645330,QCC - Patient Records tabpage  Add Patient,Roche Sprint 9,,,,,,Closed
+PP-1911,645242,US002 - US Patient Reg: Welcome Email,Roche Sprint 9,,,,,,Closed
+PP-3585,713377,QCC - HCP Records tabpage Associated Patients,Roche Sprint 9,,,,,,Closed
+PP-1929,645332,QCC - Patient Records tabpage  Profile Details (View & Edit),Roche Sprint 9,,,,,,Closed
+PP-1933,645358,QCC - Patient Records tabpage  Edit Patient,,,,,,,Closed
+PP-3171,686653,CHANGE REQUEST 001 - QCC - Edit Patient (CR001 changes),,,,,,,Closed
+PP-3170,686651,CHANGE REQUEST -001 - QCC - Add Patient (CR001 changes),,,,,,,Closed
+PP-3241,693549,Sprint Demo Feedback,,,,,,,Closed
+PP-3956,729180,Registration - password strength can be content managed,2019 Apr CR.com Sprint5,,,,,,Closed
+PP-3850,727560,Patient profile - add a condition,2019 Apr CR.com Sprint4,,,,,13,Closed
+PP-3346,702933,Registration - former mediguard user registration ,2019Mar Sprint - 1,2019 Apr CR.com Sprint2,2019 Apr CR.com Sprint3,2019 Apr CR.com Sprint4,,2,Closed
+PP-3417,707801,Registration - previously subscribed CR.com user registration process,2019Mar Sprint - 1,2019 Apr CR.com Sprint1,2019 Apr CR.com Sprint2,2019 Apr CR.com Sprint3,2019 Apr CR.com Sprint4,3,Closed
+PP-3419,707851,One time use password character restrictions,2019Mar Sprint - 1,2019 Apr CR.com Sprint2,2019 Apr CR.com Sprint3,2019 Apr CR.com Sprint5,,,Rejected
+PP-3100,681341,Amend cr.com to allow for Users to Log In - overview,CR.com Sprint 1,2019 Apr CR.com Sprint1,2019 Apr CR.com Sprint2,,,,Closed
+PP-3183,687377,CHANGE REQUEST 001 - QCC Account Details  (CR001 changes),,,,,,,Closed
+PP-1941,645736,QCC - My Details tabpage,Roche Sprint 7,,,,,,Closed
+PP-3166,686297,"CHANGE REQUEST 001 - Patient - Country dropdown, Country Flag + Code for Tel Numbers, Preferred Language",Roche Sprint 4,,,,,,Closed
+PP-3175,686660,CHANGE REQUEST 001 - HCP - My Details,,,,,,,Closed
+PP-3174,686659,CHANGE REQUEST 001 - HCP - Register New Referral (CR001 changes),,,,,,,Closed
+PP-3173,686656,CHANGE REQUEST 001 - QCC - Edit HCP (CR001 changes),,,,,,,Closed
+PP-3524,711280,Registration - Invitation and password reset emails contain a unique token which expires after a period of time,2019Mar Sprint - 1,2019 Apr CR.com Sprint1,2019 Apr CR.com Sprint2,2019 Apr CR.com Sprint3,,5,Closed
+PP-3172,686654,CHANGE REQUEST 001 - QCC - Add HCP (CR001 changes),,,,,,,Closed
+PP-3344,702928,Registration - Logged in user follows ‘change password’ path,2019Mar Sprint - 1,2019 Apr CR.com Sprint1,2019 Apr CR.com Sprint2,2019 Apr CR.com Sprint3,,5,Closed
+PP-3343,702850,Registration - user confirms registration and sets new password,2019Mar Sprint - 1,2019 Apr CR.com Sprint1,2019 Apr CR.com Sprint2,2019 Apr CR.com Sprint3,,5,Closed
+PP-3345,702931,Registration - Account log in failure and lock out criteria,2019Mar Sprint - 1,2019 Apr CR.com Sprint1,2019 Apr CR.com Sprint2,2019 Apr CR.com Sprint3,,3,Closed
+PP-3418,707848,Registration - password strength requirements,2019Mar Sprint - 1,2019 Apr CR.com Sprint1,2019 Apr CR.com Sprint2,2019 Apr CR.com Sprint3,,2,Closed
+PP-3342,702844,Registration - new user registers on CR.com,2019Mar Sprint - 1,2019 Apr CR.com Sprint1,2019 Apr CR.com Sprint2,2019 Apr CR.com Sprint3,,8,Closed
+PP-1937,645622,QCC - HCP Records tabpage  Edit HCP,Roche Sprint 8,,,,,,Closed
+PP-2916,674759,FR011A - Site Header (design A),Roche Sprint 8,,,,,,Closed
+PP-1935,645605,QCC - HCP Records tabpage  Profile Details,Roche Sprint 8,,,,,,Closed
+PP-3735,720036,QCC - HCP Records tabpage - Filtering functionality,Roche Sprint 8,,,,,,Closed
+PP-3245,696231,CHANGE REQUEST CR006 - Tool Tips,Roche Sprint 8,,,,,,Closed
+PP-1927,645327,QCC - Patient Records tabpage - excluding the Filtering functionality,Roche Sprint 8,,,,,,Closed
+PP-3495,709747,Changes to 'DNQ' form,,,,,,,Rejected
+PP-1274,594041,Custom implementation of study locations,,,,,,,Closed
+PP-1489,610977,Site details display on interaction with map interface (Medeor Mercury),,,,,,,Closed
+PP-504,473836,A user is able to find their nearest study site based on their own zip/postal code,,,,,,,Closed
+PP-1948,645749,HCP - Account Details,Roche Sprint 7,,,,,,Closed
+PP-1934,645602,"QCC - HCP Records tabpage, excluding the Filtering functionality",Roche Sprint 7,,,,,,Closed
+PP-1874,643350,FR013 - Pagination Controls + Vertical Scroll Bar,Roche Sprint 7,,,,,,Closed
+PP-1925,645325,QCC - QCC Specific Pages,Roche Sprint 7,,,,,,Closed
+PP-1272,593843,Cr.Com - Deactivated Healthday article appearing in searches,,,,,,,Closed
+PP-3357,704012,Survey - on completion of a survey with an associated token of appreciation the user is able to add address information,,,,,,,Rejected
+PP-3525,711535,Cypress - move the share functionality to the footer ,,,,,,,Rejected
+PP-3199,689555,CHANGE REQUEST CR004 - Addition of Re-subscribe functionality,Roche Sprint 6,,,,,,Closed
+PP-1946,645746,HCP - Register New Referral,Roche Sprint 6,,,,,,Closed
+PP-1942,645740,HCP - Country Selector,Roche Sprint 6,,,,,,Closed
+PP-1923,645321,QCC - Country Selector,Roche Sprint 6,,,,,,Closed
+PP-1947,645748,HCP - Resources,Roche Sprint 6,,,,,,Closed
+PP-3487,709379,"CHANGE REQUEST 007 -  Log In page design, Error Message placement",Roche Sprint 6,,,,,,Closed
+PP-1924,645322,QCC - Login Procedure,Roche Sprint 6,,,,,,Closed
+PP-1945,645743,HCP - Registry Details page (homepage),Roche Sprint 6,,,,,,Closed
+PP-1944,645742,HCP - HCP Specific Pages,Roche Sprint 6,,,,,,Closed
+PP-1943,645741,HCP - Login Procedure,Roche Sprint 6,,,,,,Closed
+PP-3491,709411,"CHANGE REQUEST 008 - Home Page, Register button placement",Roche Sprint 6,,,,,,Closed
+PP-3263,697030,"site selection UI, support for two protocols",,,,,,,Rejected
+PP-2575,657140,Questionnaire error pages,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-3326,702654,protocol configuration around data points,,,,,,,Closed
+PP-3251,696554,The epr instance is integrated with referral hub (configuration),,,,,,,Closed
+PP-3249,696550,the ePR instance supports two distinct studies/protocols,,,,,,,Closed
+PP-3248,696549,Create new ePR instance,,,,,,,Closed
+PP-3272,698882,CYPRESS - add approved branding to instance,,,,,,,Closed
+PP-3266,697635,Security questions and answers currently in Mongo DB & unencrypted,,,,,,,Open
+PP-2599,659690,Eiger D-LIVR - Configure marketing component,,,,,,,Closed
+PP-2600,659691,Eiger D-LIVR - Configure sitecore analytics,,,,,,,Closed
+PP-1936,645608,QCC - HCP Records tabpage  Add HCP,Roche Sprint 5,,,,,,Closed
+PP-3201,690265,CHANGE REQUEST CR005 - Forgotten Password FR112,Roche Sprint 5,,,,,,Closed
+PP-1913,645254,US004 - US Patient Reg: Daily Email Notification to QCC users informing of recent registrations,Roche Sprint 5,,,,,,Closed
+PP-1871,643346,FR010 - User Roles within Roche Pregnancy Registry,Roche Sprint 5,,,,,,Closed
+PP-1870,643345,FR009 - Password Policy,Roche Sprint 5,,,,,,Closed
+PP-1877,643361,FR016 - User Record unique identifier,Roche Sprint 5,,,,,,Closed
+PP-1994,647908,FR-004 - Email hard bounce back,SPN - AZ MCL Sprint 1,,,,,,Closed
+PP-3317,701053,Interface to manage priority of protocol and site in Sitecore,,,,,,,Closed
+PP-3250,696551,The ePR instance supports weighting/prioritisation of protocol and specific sites which affects which sites are available for selection,,,,,,,Closed
+PP-3252,696558,the ePR instance should support threshold management,,,,,,,Closed
+PP-2884,670071,Revised dashboard page (phase 2),,,,,,,Rejected
+PP-2887,670076,Dashboard Action Items widget change (phase 2),,,,,,,Rejected
+PP-1983,647331,Retrophin PROTECT - Create/Configure CTMS incoming feed,,,,,,,Closed
+PP-1976,647064,Retrophin PROTECT -  add branding to ePR instance,,,,,,,Closed
+PP-1988,647341,Retrophin PROTECT - UAT,,,,,,,Closed
+PP-1978,647066,Retrophin PROTECT - Configure Sitecore Analytics ,,,,,,,Closed
+PP-1977,647065,Retrophin PROTECT - Configure marketing component ,,,,,,,Closed
+PP-1984,647332,Retrophin PROTECT - Configure Referral DB ,,,,,,,Closed
+PP-1975,647061,Retrophin PROTECT - add content to ePR instance,,,,,,,Closed
+PP-1987,647340,Retrophin PROTECT - Registration Followup Emails (2day & 7day) ,,,,,,,Closed
+PP-1985,647333,Retrophin PROTECT - Create & publish build using CI/CD,,,,,,,Closed
+PP-1986,647335,Retrophin PROTECT - Emails,,,,,,,Closed
+PP-1979,647068,"Retrophin PROTECT - Configure survey gizmo, Metadata and Google Analytics (content editor) ",,,,,,,Closed
+PP-1805,639036,Retrophin PROTECT - Create new ePR instance  [IgANPROTECT.com],,,,,,,Closed
+PP-2609,659942,Eiger D-LIVR - ePR portal to be multi-lingual (Country/Language selector needed),,,,,,,Closed
+PP-2582,657913,Eiger D-LIVR - For Info Tactic Brief,,,,,,,Closed
+PP-3213,691570,Revised My Questionnaire layout for AZ MCL ,,,,,,,Development Complete
+PP-3212,691569,Revised dashboard layout for AZ MCL,,,,,,,Development Complete
+PP-1892,643461,FR113 - Forgotten Password / Reset Password Email,Roche Sprint 4,,,,,,Closed
+PP-3181,687334,CHANGE REQUEST 002 - CLARIFICATION - Language/Country Selector in Header to be Geo IP based,Roche Sprint 4,,,,,,Closed
+PP-1894,643490,FR115 - First Time Login (3-step process),Roche Sprint 4,,,,,,Closed
+PP-1893,643464,FR114 - Logging in with a temporary (Reset) Password,Roche Sprint 4,,,,,,Closed
+PP-3182,687337,CHANGE REQUEST 003 - Patient Physical Address fields to be switchable hidden/shown,Roche Sprint 4,,,,,,Closed
+PP-3246,696522,First Time login failure with correct password,,,,,,,Development Complete
+PP-1891,643459,FR112 - Forgotten Password Functionality,Roche Sprint 3,,,,,,Closed
+PP-1890,643457,FR111 - Log in,Roche Sprint 3,,,,,,Closed
+PP-1922,645319,PATIENT - Unsubscribed from Communication Program,Roche Sprint 3,,,,,,Closed
+PP-1918,645265,PATIENT - Account Management Page,Roche Sprint 3,,,,,,Closed
+PP-3214,691580,Questionnaire content changes,,,,,,,Open
+PP-3215,691594,Removal of bell 'alert' icon from header *provisional*,,,,,,,Rejected
+PP-1878,643366,ADMIN/App Support - Add/Edit QCC User,Roche Sprint 3,,,,,,Closed
+PP-2286,652582,FR-303 - Completed ePROs/questionnaires are submitted to the eDC,SPN - AZ MCL Sprint 4,,,,,,Closed
+PP-2971,676309,Soft Warning,,,,,,,Closed
+PP-2814,666282,Jazz Chords - add content to ePR instance,,,,,,,Closed
+PP-3010,677934,Enable editing of Twitter & Facebook metatags in Sitecore,,,,,,,Closed
+PP-1895,643606,FR200 - Patient Reg: (Registration Form) Patient wants to get more info,Roche Sprint 2,,,,,,Closed
+PP-3008,677842,Opting into or out of SMS reminders prompts a message to be sent,,,,,,,Closed
+PP-1351,594868,Seres Eco-Reset - add content to ePR instance,,,,,,,Closed
+PP-1352,594869,Seres Eco-Reset - addition of branding,,,,,,,Closed
+PP-1353,594870,Seres Eco-Reset - sitecore analytics configuration,,,,,,,Closed
+PP-1354,594871,Seres Eco-Reset - configure marketing component,,,,,,,Closed
+PP-1355,594872,"Seres Eco-Reset -  Configure Survey Gizmo, metadata, google analytics",,,,,,,Closed
+PP-1356,594875,Seres Eco-Reset - configure CTMS data,,,,,,,Closed
+PP-1357,594876,Seres Eco-Reset - referral db is configured,,,,,,,Closed
+PP-1349,594866,Seres Eco-Reset - create new ePR instance (eco-resetstudy.com),,,,,,,Closed
+PP-1889,643456,FR110 - Report Problem,Roche Sprint 2,,,,,,Closed
+PP-1910,645239,US001 - US Patient Reg: Registration Confirmation Email,Roche Sprint 2,,,,,,Closed
+PP-1897,643609,FR202 - Patient Reg: Registration Confirmation page,Roche Sprint 2,,,,,,Closed
+PP-1873,643349,FR012 - Site Footer,Roche Sprint 2,,,,,,Closed
+PP-1876,643353,FR015 - CAPTCHA,Roche Sprint 2,,,,,,Closed
+PP-2867,668505,Additon of 4th study period column in 'about the study' section,,,,,,,Closed
+PP-2910,674415,UAT feedback items from Lenny Bishop,,,,,,,Development In Progress
+PP-1121,585000,Roche Registry - Create Sitecore Instance,Roche Sprint 1,,,,,,Closed
+PP-1860,643280,Purchase Domain - www.ocrevuspregnancyregistry.com,Roche Sprint 1,,,,,,Closed
+PP-3052,678801,Mobile phone number field default value,,,,,,,Closed
+PP-743,543333,NFR-21 Page Load benchmarking,,,,,,,Closed
+PP-794,544934,CR.com - Ongoing UI Checks,,,,,,,Closed
+PP-744,543335,NFR-22 System Maintenance,,,,,,,Closed
+PP-775,543388,NFR-54 SSL security,,,,,,,Closed
+PP-2965,676025,Content Updates as per latest approved content documents,SPN - AZ MCL Sprint 4,,,,,,Closed
+PP-1884,643451,FR105 - Indication and Important Safety Information page,Roche Sprint 1,,,,,,Closed
+PP-1881,643448,FR102 - OCREVUS Pregnancy Registry page,Roche Sprint 1,,,,,,Closed
+PP-760,543367,FR New platform database,,,,,,,Closed
+PP-1880,643447,FR101 - Pregnancy and Relapsing MS page,Roche Sprint 1,,,,,,Closed
+PP-1879,643445,FR100 - Home Page,Roche Sprint 1,,,,,,Closed
+PP-1872,643348,FR011B - Site Header (design B),Roche Sprint 1,,,,,,Closed
+PP-1869,643343,FR008 - Cookie Banner,Roche Sprint 1,,,,,,Closed
+PP-2675,661528,Where a user is active the registration form cannot be resubmitted for them,,,,,,,Closed
+PP-1868,643342,FR007 - 404 and 505 Error Pages,Roche Sprint 1,,,,,,Closed
+PP-1888,643455,FR109 - Contact Us page,Roche Sprint 1,,,,,,Closed
+PP-1887,643454,FR108 - Privacy Policy page,Roche Sprint 1,,,,,,Closed
+PP-1886,643453,FR107 - Medication Guide page,Roche Sprint 1,,,,,,Closed
+PP-1885,643452,FR106 - Prescribing Information,Roche Sprint 1,,,,,,Closed
+PP-1883,643450,FR104 - About OCREVUS page,Roche Sprint 1,,,,,,Closed
+PP-1882,643449,FR103 - FAQs page,Roche Sprint 1,,,,,,Closed
+PP-2594,659433,Reporting on SMS communications from application,SPN - AZ MCL Sprint 4,,,,,,Rejected
+PP-1999,647913,FR-009 - Logged in user follows ‘change password’ path,SPN - AZ MCL Sprint 1,,,,,,Closed
+PP-759,543365,FR Migration of existing subscribers to new CR.Com platform,,,,,,,Closed
+PP-697,536519,Technical - Data migration from existing CR.com to new revamped CR.com,,,,,,,Closed
+PP-696,536517,As an email recipient I should be able to opt-out of receiving further comms,,,,,,,Closed
+PP-695,536516,As a subscriber to emails/SMS I should be able to View & Edit my profile,,,,,,,Closed
+PP-685,536506,As a visitor I should be able to see trials on CR.Com,,,,,,,Closed
+PP-681,536501,As a visitor to CR.Com I should see the functionality to be able to change language,,,,,,,Closed
+PP-680,536500,As a visitor to CR.com I should expect an IQVIA branded website and be able to navigate my way around,,,,,,,Closed
+PP-2929,675326,Inline validation of the payment information,,,,,,,Closed
+PP-2928,675324,Inline validation of investigator registration form,,,,,,,Closed
+PP-682,536503,"As a HCP, various CTA's should direct me to the CR Connect Portal",,,,,,,Rejected
+PP-2003,647917,FR-013 - A user logged into the application can update their account profile information  ,SPN - AZ MCL Sprint 2,,,,,,Closed
+PP-2676,661651,AZ Demo 18th Oct Feedback Items,,,,,,,Closed
+PP-3009,677853,Hide timezone field on communication preferences field,,,,,,,Closed
+PP-2295,652611,FR-503 - Engagement communications unsubscribe path,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2837,666469,Add reimbursement amount field to response window record,SPN - AZ MCL Sprint 4,,,,,,Closed
+PP-2277,652560,FR-101 A new user receives training including a ‘dummy’/test ePRO/questionnaire,SPN - AZ MCL Sprint 4,,,,,,Closed
+PP-2889,670080,Update drug name selection content,,,,,,,Closed
+PP-2294,652610,FR-502 - Engagement communications email template and reporting,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2560,655823," Invalid parameter values, key or timestamp in URL prompt 404 page to display",SPN - AZ MCL Sprint 4,,,,,,Closed
+PP-2885,670073,Dashboard - action item widget wording change,,,,,,,Closed
+PP-2894,670474,Re- model SurveyGizmo session ID Logic,,,,,,,Closed
+PP-2300,652621,NFR-103 - Solution UI is optimised for older users,,,,,,,Rejected
+PP-2732,662718,Changes based on final content review,SPN - AZ MCL Sprint 4,,,,,,Closed
+PP-2890,670085,EQ5D slider functionality,,,,,,,Closed
+PP-2888,670078,"Order of sections within questionnaire to be revised and ""Cancer History"" to be removed",,,,,,,Closed
+PP-2593,659407,Data recorded on partial or full submission of a questionnaire,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-1991,647905,FR-001 New user is invited to the patient portal,SPN - AZ MCL Sprint 1,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-1996,647910,FR-006 - New user registers on the AZ MCL application,SPN - AZ MCL Sprint 1,,,,,,Closed
+PP-2001,647915,FR-011 - Account log in failure and lock out criteria,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2279,652570,FR-202 - Association ePROs and other questionnaires to a review window,SPN - AZ MCL Sprint 2,,,,,,Closed
+PP-2280,652574,FR-203 - Partially complete and no data provided questionnaire reminder notification(s),SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2281,652576,FR-204 - Reminders and engagement comms (email and SMS where applicable) are sent at “sociable” hours (7 AM to 9 PM) relative to the recipient’s time zone,SPN - AZ MCL Sprint 2,,,,,,Closed
+PP-2278,652563,FR-201 - Association of a user to a schedule,SPN - AZ MCL Sprint 2,,,,,,Closed
+PP-2282,652577,FR-205 - Reminder email templates,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2289,652594,FR-306 - Partially complete and not started questionnaires are reported to the study team,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2284,652579,FR-301 - questionnaire available for completion is accessible from the application,SPN - AZ MCL Sprint 2,,,,,,Closed
+PP-2285,652580,FR-302 - User can access and complete an ePRO or other questionnaire ,SPN - AZ MCL Sprint 2,,,,,,Closed
+PP-2288,652592,FR-305 - Partially complete questionnaire data is centrally collated within a response window and submitted to the eDC at the end of that window,SPN - AZ MCL Sprint 2,,,,,,Closed
+PP-2287,652586,FR-304 - Partially complete questionnaires,SPN - AZ MCL Sprint 2,,,,,,Closed
+PP-2293,652609,FR-501 - On registration the user is opted into receiving engagement communications,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2298,652619,NFR-101 - responsive solution,SPN - AZ MCL Sprint 4,,,,,,Closed
+PP-2299,652620,NFR-102 - Solution functions across mobile devices,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2301,652622,NFR-104 - PHI and PII are stored in distinct environments,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2302,652623,NFR-201 - Content is content managed,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2306,652629,FR-703 - User has access to content sections on the patient portal,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2537,654516,Header logo on-click behaviour,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2559,655486,AZ MCL Changes to user profile section,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2845,666683,Baseline questionnaire demography section - age is dynamically calculated,SPN - AZ MCL Sprint 4,,,,,,Closed
+PP-2577,657169,User profile change successful screens,SPN - AZ MCL Sprint 3,SPN - AZ MCL Sprint 4,,,,,Closed
+PP-2304,652625,FR-701 - User is shown a welcome modal on first accessing the site.,SPN - AZ MCL Sprint 2,,,,,,Closed
+PP-2595,659675,Eiger D-LIVR - Create new ePR instance [www.d-livrstudy.com],,,,,,,Closed
+PP-2305,652627,FR-702 - User is shown a ‘dashboard’ having accessed the site,SPN - AZ MCL Sprint 2,,,,,,Closed
+PP-2745,664067,Increase footer content font size by 2px,,,,,,,Closed
+PP-2733,662769,Email links to my patients,,,,,,,Closed
+PP-2725,662577,Login form -email address shouldn't be case-sensitive,,,,,,,Closed
+PP-2743,663848,Content update for Patient Contacted Progress Widget,,,,,,,Closed
+PP-2068,649781,Forgot password - security question,,,,,,,Closed
+PP-2647,661007,IQVIA view - Issue with adding user after adding site from Manage Users page,,,,,,,Closed
+PP-2744,664021,forbidden characters in temporary password,,,,,,,Closed
+PP-2868,668543,UAT feedback - behaviour on following a URL to a specific page on the site (other than log in/dashboard),,,,,,,Rejected
+PP-764,543373,NFR-43 Logging of db record changes,,,,,,,Closed
+PP-769,543380,NFR-48 Monitoring for security breaches,,,,,,,Closed
+PP-770,543381,NFR-49 Monitoring availability and performance,,,,,,,Closed
+PP-771,543382,NFR-50 Monitoring utilisation,,,,,,,Closed
+PP-772,543383,NFR-51 Monitoring backups,,,,,,,Closed
+PP-773,543384,NFR-52 Notification of exceptions,,,,,,,Closed
+PP-2047,649487,Printed Page Headers - Need more space and change to Research Intent Register,,,,,,,Closed
+PP-2033,648988,PI - My Patients,,,,,,,Closed
+PP-2070,649783,Missing pages,,,,,,,Closed
+PP-2050,649490,ZIP Code,,,,,,,Closed
+PP-2040,649355,IQVIA navigation on tablet,,,,,,,Closed
+PP-2022,648586,404/505 error pages,,,,,,,Closed
+PP-2073,649786,Patient vanity URL not populaitng site information,,,,,,,Closed
+PP-2075,649788,Patient vanity URL - CTA box,,,,,,,Closed
+PP-2069,649782,No error message for entering wrong email on forgot password,,,,,,,Closed
+PP-2051,649493,Dashboard: Compare to Wireframe,,,,,,,Closed
+PP-2039,649341,Can't reset password for IQVIA user,,,,,,,Closed
+PP-2048,649488,Study Sites Page: PI Name (Add Space),,,,,,,Closed
+PP-2031,648981,Validation error text display - SITE WIDE,,,,,,,Closed
+PP-2044,649482,Contact Us Page - Repetitive content,,,,,,,Closed
+PP-2025,648932,Align view detials button ,,,,,,,Closed
+PP-2015,648579,PI/Inv site user view - adding patient consent box,,,,,,,Closed
+PP-2049,649489,Meta Title Tags,,,,,,,Closed
+PP-2038,649333,IQVIA Site Profile,,,,,,,Closed
+PP-2030,648979,"""I agree"" button on Terms and Conditions page misaligned ",,,,,,,Closed
+PP-2021,648585,IQVIA View - Reports page,,,,,,,Closed
+PP-2076,649789,Patient vanity URL - condition of interest on the registration form,,,,,,,Closed
+PP-2034,649150,Contact Us Form - No acknowledgement page,,,,,,,Closed
+PP-2007,648569,From email for Emails,,,,,,,Closed
+PP-2014,648577,PI View - Dashboard,,,,,,,Closed
+PP-2529,654194,PI View -> Add Patient screen,,,,,,,Closed
+PP-2074,649787,Email content configuration,,,,,,,Closed
+PP-2036,649321,PI Dashboard,,,,,,,Closed
+PP-2008,648570,Condition selection values for IQVIA users vs PI users,,,,,,,Closed
+PP-2037,649328,IQVIA Study Sites,,,,,,,Closed
+PP-2045,649483,% Contacted Back button needs space,,,,,,,Closed
+PP-2028,648939,Dashboard Wrong graph color,,,,,,,Closed
+PP-2027,648938,Defoult user picture,,,,,,,Closed
+PP-2072,649785,PI View - Help page from Top right Manage Profile menu,,,,,,,Closed
+PP-2578,657174,Able to update Carousel Footer Content ,,,,,,,Closed
+PP-2006,648568,PI/Inv site user view - issue with welcome modal,,,,,,,Closed
+PP-2026,648937,Dashboard: Align date in 1 row,,,,,,,Closed
+PP-2035,649158,"About IQVIA, Terms of Use, Privacy Policy Pages, FAQs - Need content",,,,,,,Closed
+PP-2017,648581,PI/Inv site/IQVIA View My Details page,,,,,,,Closed
+PP-2012,648574,Need Excel template to Import patients,,,,,,,Rejected
+PP-2042,649371,Toasts (confirmation and error messages) SITE WIDE,,,,,,,Rejected
+PP-2019,648583,IQVIA view - Manage users,,,,,,,Rejected
+PP-1993,647907,FR-003 Invitation email is sent to new user and cc-ed to study contact address,SPN - AZ MCL Sprint 1,,,,,,Closed
+PP-1998,647912,FR-008 - Returning user follows Forgotten Password path,SPN - AZ MCL Sprint 1,,,,,,Closed
+PP-2029,648969,Can't read temporary password in online version of email,,,,,,,Rejected
+PP-2043,649388,Resources Upload,,,,,,,Rejected
+PP-1057,582113,Iqvia clinical team user site profile page (FR-109),,,,,,,Closed
+PP-2071,649784,PI View - Resources,,,,,,,Rejected
+PP-2032,648982,Modals missing close button - SITE WIDE,,,,,,,Rejected
+PP-2067,649780,No error message on login failure,,,,,,,Rejected
+PP-2000,647914,FR-010 - User is required to update their password every X months,SPN - AZ MCL Sprint 1,,,,,,Closed
+PP-1997,647911,FR-007 - Returning user logs into AZ MCL application,SPN - AZ MCL Sprint 1,,,,,,Closed
+PP-2046,649485,Manage Users Page - Button Display,,,,,,,Rejected
+PP-2260,651739,"Invalid parameter values, key or timestamp in URL prompt 404 page to display",,,,,,,Rejected
+PP-1242,592810,Patient expression of interest form post submission (FR-303),,,,,,,Closed
+PP-1311,594543,Monitoring - support for platform and third party statistics services (NFR-53),Trial Intent NFR Sprint,,,,,,Rejected
+PP-1241,592807,Patient expression of interest form (FR-302),Trial Intent Sprint 1,,,,,,Closed
+PP-1803,638352,Informal UAT - Feedback items,,,,,,,Rejected
+PP-766,543376,NFR-45 Logging of system errors,,,,,,,Closed
+PP-2077,649915,Create a sepate Forgot Password page in Sitecore for Non Logged in User,,,,,,,Rejected
+PP-2020,648584,Export to Excel doesn't work,,,,,,,Rejected
+PP-2013,648575,PI/Inv site AND IQVIA user view - Header nav missing when visiting footer links,,,,,,,Rejected
+PP-2010,648572,PI/Inv site view - My Patients,,,,,,,Rejected
+PP-2011,648573,PI/Inv site view - My Patient results,,,,,,,Rejected
+PP-781,543397,NFR-60 CAPTCHA,,,,,,,Closed
+PP-661,535762,FR-025 Trail data sourced from IQVIA CTMS,,,,,,,Closed
+PP-642,535730,FR-007 Platform to allow targeted email distribution,,,,,,,Closed
+PP-1859,643088,"CR.Com - Homepage,  Load More/Progressive Loading",,,,,,,Closed
+PP-641,535729,FR-006 Platform and contents to meet global compliancy,,,,,,,Closed
+PP-721,542402,Platform support for PDF screengrab generation,,,,,,,Closed
+PP-1026,576147,Cr.Com - Cookie Policy,,,,,,1,Closed
+PP-679,536498,Technical - Cr.Com Sitecore Setup / Site Structure,,,,,,,Closed
+PP-1684,628001,CR.Com - CHANGE REQUEST - Conditions of Interest / Communities,,,,,,,Closed
+PP-649,535738,FR-014 Allow users to opt-in and opt-out of receiving comms material,,,,,,,Closed
+PP-957,569900,QAT / SVT Feedback,,,,,,0,Closed
+PP-1325,594558,Network & Infrastructure Security - CAPTCHA (NFR-60),Trial Intent NFR Sprint,,,,,,Rejected
+PP-751,543345,NFR-29 Spoofing attack prevention,,,,,,,Closed
+PP-746,543340,NFR-24 CR.Com Availability,,,,,,,Closed
+PP-501,473818,ePR screener - eligible user registration,,,,,,,Closed
+PP-499,473808,Descriptive metadata exists in relation to the portal instance,,,,,,,Closed
+PP-672,536085,FR-037  Allow Subcribers to edit their Profile,,,,,,,Closed
+PP-1505,613689,[CR.Com] Observations for triaging into v1.0 or v1.1,,,,,,,Closed
+PP-1470,606268,SG - 4000 test records populated ,,,,,,,Rejected
+PP-1165,588288,Sunovion Parkinson's  Emails,,,,,,,Closed
+PP-1456,604187,Map zoom level automatic selection on searching by zip code in site selection,,,,,,,Closed
+PP-1500,612801,CTMS import to ePR instance - amend to rules,,,,,,,Rejected
+PP-1176,589509,"Cr.Com - Find Trials, Condition Of Interest entry box",,,,,,,Closed
+PP-683,536504,As a visitor to CR.Com I should be able to search for Trials,,,,,,,Closed
+PP-669,535777,FR-033 CTMS/TMDH (IQVIA-related trials),,,,,,,Closed
+PP-1011,575532,Cr.Com  Patients - Communities pages,,,,,,0,Closed
+PP-936,561303,FR-042 Trial Detail page within CR.Com,,,,,,0,Closed
+PP-1023,576134,Cr.Com - Sitemap,,,,,,1,Closed
+PP-1040,579419,Cr.Com - CHANGE REQUEST - Featured Trials CTA,,,,,,1,Closed
+PP-1041,579514,Cr.Com - CHANGE REQUEST - Branding Updates,,,,,,1,Closed
+PP-1102,584598,Cr.Com - External link Exit Disclaimer popup,,,,,,,Closed
+PP-1144,586961,Cr.Com - Subscribe / Unsubscribe Functionality,,,,,,,Closed
+PP-1016,575609,Cr.Com  Article pages,,,,,,0,Closed
+PP-1207,591086,Cr.Com - Article Page,,,,,,,Closed
+PP-1359,595215,Cr.Com - Anchor tags needed on Find Trials page,,,,,,,Closed
+PP-1392,597215,Cr.Com - [CHANGE REQUEST] Related Articles,,,,,,,Closed
+PP-713,541261,FR-040  Contact Us webpage,,,,,,,Closed
+PP-712,541258,FR-039  Website to allow entire site searching,,,,,,,Closed
+PP-684,536505,Technical - Sourcing Trials,,,,,,,Closed
+PP-668,535772,FR-032 Shows up-coming trials,,,,,,,Closed
+PP-1054,582054,Iqvia clinical user and admin user PII restrictions (FR-003),,,,,,,Rejected
+PP-1137,585292,/screener/site-selection is not required for portal instance,,,,,,,Closed
+PP-1136,585291,/screener/dnq is not required for epr instance,,,,,,,Closed
+PP-1032,577773,"Gensight Reflect - as a study sponsor, I do not want website users to see site contact details in Study Locations Map",,,,,,1,Rejected
+PP-693,536514,As a HCP I should be able to refer one or more Participants,,,,,,,Closed
+PP-691,536512,As a HCP I should be able to walk someone through a trial pre-screener,,,,,,,Rejected
+PP-689,536510,As a visitor I should be able to register my interest ,,,,,,,Closed
+PP-1135,585290,Eligibility screener questionnaire element is removed,,,,,,,Closed
+PP-1133,585288,Medeor Mercury - create & publish build using CI/CD,,,,,,,Closed
+PP-1132,585287,Medeor Mercury - configure CTMS data,,,,,,,Closed
+PP-1131,585285,"Medeor Mercury - configure metadata, google analytics",,,,,,,Closed
+PP-1129,585283,Medeor Mercury - sitecore analytics configuration,,,,,,,Closed
+PP-1128,585282,Medeor Mercury - add branding to ePR instance,,,,,,,Closed
+PP-1127,585281,Medeor Mercury - add content to ePR instance,,,,,,,Closed
+PP-1112,584741,"Retrophin Duplex - Configure Survey Gizmo, metadata, google analytics",,,,,,,Closed
+PP-1111,584740,Retrophin Duplex - configure marketing component,,,,,,,Closed
+PP-1110,584739,Retrophin Duplex - sitecore analytics configuration,,,,,,,Closed
+PP-1109,584738,Retrophin Duplex - add branding to ePR instance,,,,,,,Closed
+PP-1108,584737,Retrophin Duplex - add content to ePR instance,,,,,,,Closed
+PP-1106,584731,Retrophin Duplex - Create new ePR instance (fsgsduplex.com),,,,,,,Closed
+PP-958,570222,Sunovion Parkinson's - Create new ePR instance [PDPclinicaltrial.com],,,,,,0,Closed
+PP-976,573393,Cr.Com Team Clarifications,,,,,,0,Closed
+PP-1125,585246,Medeor Mercury - Create new ePR instance (domain pending),,,,,,,Closed
+PP-1025,576145,Cr.Com - Privacy Policy page,,,,,,1,Closed
+PP-1024,576135,Cr.Com - Terms & Condtions page,,,,,,1,Closed
+PP-1022,576133,Cr.Com - About Us page,,,,,,1,Closed
+PP-1021,576131,Cr.Com - FAQ Page,,,,,,,Closed
+PP-1020,576086,Cr.Com - CHANGE REQUEST - Glossary functionality,,,,,,1,Closed
+PP-667,535771,FR-031 Shows current trials,,,,,,,Closed
+PP-666,535769,FR-030 Shows previous trials,,,,,,,Closed
+PP-665,535767,FR-029 Map to display trial (study sites),,,,,,,Closed
+PP-659,535759,FR-023 Searching for a Trial,,,,,,,Closed
+PP-653,535751,FR-036 HCP - Register interest in one or more disease states,,,,,,,Closed
+PP-652,535750,FR-017 Participant or Researcher - Register interest in one or more disease states,,,,,,,Closed
+PP-1101,584163,"Cr.Com - New Infographic Components, PDF & Image ",,,,,,,Closed
+PP-650,535739,FR-015 Visitor to be able to apply for becoming a trial participant,,,,,,,Closed
+PP-636,535717,FR-001 New site to cater for the following types of users...,,,,,,,Closed
+PP-749,543343,NFR-27 Usability,,,,,,,Closed
+PP-745,543338,NFR-23 Error Message or Page,,,,,,,Closed
+PP-1139,585294,Study Locations on site icon click behaviour change,,,,,,,Rejected
+PP-1138,585293,Study Locations element: Study site information should include contact telephone number and email address,,,,,,,Rejected
+PP-644,535732,FR-009 Content available on CR.Com,,,,,,,Closed
+PP-780,543396,NFR-59 Firewall,,,,,,,Closed
+PP-778,543393,NFR-57 Server clocks in sync,,,,,,,Closed
+PP-777,543390,NFR-56 Network/Infrastructure security,,,,,,,Closed
+PP-768,543379,NFR-47 Disaster Recovery,,,,,,,Closed
+PP-763,543371,NFR-42 Backups,,,,,,,Closed
+PP-762,543370,NFR-41 Database restoration,,,,,,,Closed
+PP-761,543369,NFR-40 Database failure - Data loss,,,,,,,Closed
+PP-741,543321,NFR-19 UAT Environment,,,,,,,Closed
+PP-740,543319,NFR-18 Test data,,,,,,,Closed
+PP-739,543315,NFR-17 Environment separation,,,,,,,Closed
+PP-738,543307,NFR-16 Environments,,,,,,,Closed
+PP-782,543398,NFR-61 Role-based security,,,,,,,Closed
+PP-779,543395,NFR-58 Removal of default usernames/passwords,,,,,,,Closed
+PP-755,543358,NFR-33 Emails & SMS to be sent in the preferred language,,,,,,,Closed
+PP-611,524635,SiteCore user role/permissions module is available,,,,,,,Closed
+PP-655,535754,FR-019  HCP walking-through a potential participant through a pre-screener,CR.com Sprint 1,,,,,,Rejected
+PP-654,535753,FR-018 HCP to be able refer one or more Participants for a Trial,CR.com Sprint 1,,,,,,Rejected
+PP-643,535731,FR-008 CR.Com platform will be able to direct HCPs to the CR Connect portal,CR.com Sprint 1,,,,,,Rejected
+PP-500,473811,ePR platform level user record,,,,,,,Closed
+PP-490,473760,Platform support for cookie policy messaging,,,,,,,Closed
+PP-774,543386,NFR-53 Analytics/Statistics gathering,,,,,,,Closed
+PP-776,543389,NFR-55 Database security standards,,,,,,,Closed
+PP-767,543377,NFR-46 No UI for audit logs,,,,,,,Closed
+PP-758,543364,NFR-36 No browser plugins necessary,,,,,,,Closed
+PP-561,481762,SPN reporting dashboard is populated by new platform,,,,,,,Rejected
+PP-756,543360,NFR-34 SiteCore language translation capability,,,,,,,Closed
+PP-754,543357,NFR-32 CMS to allow for content to be translated into different languages,,,,,,,Closed
+PP-753,543354,NFR-31 Additional languages for a country/locale,,,,,,,Closed
+PP-752,543351,NFR-30 Default language for a country/locale,,,,,,,Closed
+PP-748,543342,NFR-26 Responsive UI,,,,,,,Closed
+PP-731,543295,NFR-09 Integration with Google Maps,,,,,,,Closed
+PP-724,543286,NFR-02 Concurrent Users,,,,,,,Closed
+PP-723,542500,NFR-01 Data Capacity,,,,,,,Closed
+PP-742,543322,NFR-20 Storage of personal information,,,,,,,Closed
+PP-783,543399,NFR-62 User/Visitor support,,,,,,,Closed
+PP-757,543362,NFR-35 Supported platforms and operating systems,,,,,,,Closed
+PP-750,543344,NFR-28 Mailbox,,,,,,,Closed
+PP-747,543341,NFR-25 Corporate/Brand identity,,,,,,,Closed
+PP-737,543301,NFR-64 SiteCore Experience Accelerator,,,,,,,Closed
+PP-736,543300,NFR-63 Metatags,,,,,,,Closed
+PP-735,543299,"NFR-15 Compliance to policies, laws, regulations etc.",,,,,,,Closed
+PP-734,543298,NFR-13 Non-IQVIA trials,,,,,,,Closed
+PP-733,543297,NFR-12 Links to ePR,,,,,,,Closed
+PP-732,543296,NFR-10 Interface for source of Trials,,,,,,,Closed
+PP-730,543294,NFR-08 Reuse CMS components,,,,,,,Closed
+PP-729,543293,NFR-07 SMS Messages,,,,,,,Closed
+PP-728,543292,NFR-06 Email sending capacity,,,,,,,Closed
+PP-727,543289,NFR-05 Email sending solution,,,,,,,Closed
+PP-726,543288,NFR-04 Use SiteCore components and versioning,,,,,,,Closed
+PP-725,543287,"NFR-03 Re-use code, functions, etc.",,,,,,,Closed
+PP-690,536511,As a potential participant I should be able to run the trial pre-screener & apply,,,,,,,Rejected
+PP-547,480191,Social media plug in support,,,,,,,Closed
+PP-621,527028,Screener response report (de-identified) ,,,,,,,Closed
+PP-549,480250,"Create, edit, delete content managed email and SMS templates",,,,,,,Closed
+PP-489,473753,Portal support for analytics,,,,,,,Closed
+PP-710,541255,FR-041 All pages to have breadcrumb navigation,,,,,,,Closed
+PP-648,535737,FR-013 'For Researchers' landing page,,,,,,,Closed
+PP-671,535780,FR-035 Sys Administration conducted from Sitecore,,,,,,,Closed
+PP-646,535735,FR-011 'For Potential Trial Participant' landing page,,,,,,,Closed
+PP-647,535736,FR-012 ‘For Healthcare Professionals’ landing page,,,,,,,Closed
+PP-1027,576681,Cr.Com - CHANGE REQUEST - References Section component ,,,,,,1,Closed
+PP-645,535734,FR-010 All website pages will show a header,,,,,,,Closed
+PP-639,535727,"FR-004 All popups, messages to be in the same language as the website",,,,,,,Closed
+PP-637,535723,FR-002 Frontend in different languages,,,,,,,Closed
+PP-638,535724,FR-003 Site to allow language to be changed,,,,,,,Closed
+PP-640,535728,FR-005 Content/Page sections to be easily hidden / shown / configured from CMS,,,,,,,Closed
+PP-711,541256,FR-038  All website pages to show a footer,,,,,,,Closed
+PP-720,542395,Platform support for cookie policy messaging,,,,,,,Closed
+PP-978,573464,Cr.Com - CHANGE REQUEST - Register For Update pages,,,,,,0,Rejected
+PP-546,480190,The platform should support video content,,,,,,,Closed
+PP-496,473780,Generic error page,,,,,,,Closed
+PP-623,530482,Configurable meta-tags for search are supported,,,,,,,Closed
+PP-495,473774,Instance CSS and images should be managed via the CMS,,,,,,,Closed
+PP-610,524633,content can be exported/imported in xml format to enable population of translated content,,,,,,,Closed
+PP-328,435137,Sitecore - Ability to take screenshots of Patient Portal websites,,,,,,,Closed
+PP-497,473786,Site visitors can take screener questionnaire(s) to assess suitability for the study,,,,,,,Closed
+PP-559,480647,Screener eligible outcome,,,,,,,Closed
+PP-498,473787,Screener questionnaire - ineligible outcome,,,,,,,Closed
+PP-487,473726,Portal instance creation,,,,,,,Closed
+PP-488,473737,Portal instances are content populated via a CMS,,,,,,,Closed
+PP-493,473772,Website encryption,,,,,,,Closed
+PP-494,473773,Multi-language support,,,,,,,Closed
+PP-491,473768,Portal instances device compatibility,,,,,,,Closed
+PP-502,473831,PII and PHI are held distinctly,,,,,,,Closed
+PP-692,536513,As a HCP I should be able to register my interest for becoming a PI,,,,,,,Rejected
+PP-687,536508,CR.Com should be able to show trials from clinicaltrials.gov,,,,,,,Rejected
+PP-421,454305,Add 'Select your study site' field to the Aware registration form,,,,,,,Rejected
+PP-124,353446,SG to gather unlimited Responses,,,,,,,Rejected
+PP-404,444226,Tecgistry canada Logo verification,,,,,,,Closed
+PP-401,443362,tecgistry Canada-Email and sms Templates changes,,,,,,,Closed
+PP-380,441831,TecGistry Canada: HCP Page Content Amends,,,,,,,Closed
+PP-378,441829,TecGistry Canada content amends - final site changes,,,,,,,Closed
+PP-376,441827,TecGistry- Canada content amends : After UAT Review,,,,,,,Closed
+PP-375,441825,Tecgistry Canda Product MonoGraph Update and Removal of Report Problem Page,,,,,,,Closed
+PP-326,433020,Site presentation layer,,,,,,,Closed
+PP-324,433018,The site is password protected,,,,,,,Closed
+PP-323,433017,Device compliance per Q requirements,,,,,,,Closed
+PP-322,433016,Browser compliance per Q requirements,,,,,,,Closed
+PP-403,444149,Merck iGan Development,,,,,,,Closed
+PP-325,433019,Site content,,,,,,,Closed
+PP-320,433013,Domain configuration for Merck IGAN custom site,,,,,,,Closed
+PP-321,433015,Google tag manager code added to site,,,,,,,Rejected
+PP-220,401443,Trial Reach API integration with Q patient referral service for mystrengthportal.com,,,,,,,Closed
+PP-69,336458,As a Call Centre User Patient I want to select the investigator site from a drop down listing when I register an Italian Patient.,,,,,,,Closed
+PP-68,336447,As an Italian Patient I want to select my investigator site from a drop down listing when I register.,,,,,,,Closed
+PP-73,337957,Users invited by the AHEAD email are able to access the site selection page,,,,,,,Closed
+PP-208,399903,Update content and email template changes,,,,,,,Closed
+PP-165,368650,Change navigation link destination,,,,,,,Closed
+PP-183,377246,Update text displayed when 'none of these sites are convenient' is selected at site selection stage,,,,,,,Closed
+PP-171,368667,Registration content changes,,,,,,,Closed
+PP-169,368659,Amends to screener questionnaire,,,,,,,Closed
+PP-168,368657,"Content amends, home page and about this study page, footer",,,,,,,Closed
+PP-166,368652,Call to action buttons multivariate implementation,,,,,,,Closed
+PP-121,349995,SSL supported,,,,,,,Closed
+PP-120,349994,Browser compatibility,,,,,,,Closed
+PP-113,348090,Form to log pollen count data,,,,,,,Closed
+PP-86,340175,Home page,,,,,,,Closed
+PP-71,337045,Addition of 2 questions to the AZ Strength Trial Patient Screener,,,,,,,Closed
+PP-97,340186,Capture email addresses of emails that bounce back (pending bus. approval of req),,,,,,,Closed
+PP-64,335510,TEST SS,Sprint 1,,,,,,Closed
+PP-23,275556,Home Page for AZ Strength,,,,,,,Closed
